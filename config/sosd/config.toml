@@ -1,8 +1,7 @@
 [globals]
 animation_duration = 1.0
-show_duration = 5.0
-text-color = "#000"
-background = "#fff"
+show_duration = 3.0
+background = "#285377"
 foreground_color = "#fff"
 
 [actions.LeftClick]
