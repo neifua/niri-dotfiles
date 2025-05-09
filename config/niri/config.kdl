@@ -149,7 +149,7 @@ layout {
         // off
 
         // How many logical pixels the ring extends out from the windows.
-        width 4
+        width 5
 
         // Colors can be set in a variety of ways:
         // - CSS named colors: "red"
@@ -157,10 +157,10 @@ layout {
         // - CSS-like notation: "rgb(255, 127, 0)", rgba(), hsl() and a few others.
 
         // Color of the ring on the active monitor.
-        active-color "#6F789C"
+        active-color "#285377"
 
         // Color of the ring on inactive monitors.
-        inactive-color "#0C0D09"
+        inactive-color "#000000"
 
         // You can also use gradients. They take precedence over solid colors.
         // Gradients are rendered the same as CSS linear-gradient(angle, from, to).
@@ -217,13 +217,13 @@ layout {
         // pixels and match the CSS box-shadow properties.
 
         // Softness controls the shadow blur radius.
-        softness 50
+        softness 70
 
         // Spread expands the shadow.
-        spread 7
+        spread 15
 
         // Offset moves the shadow relative to the window.
-        offset x=0 y=5
+        offset x=0 y=2
 
         // You can also change the shadow color and opacity.
         color "#0007"
@@ -248,7 +248,7 @@ layout {
 // See the binds section below for more spawn examples.
 spawn-at-startup "/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1"
 spawn-at-startup "swww-daemon"
-spawn-at-startup "sosd" "daemon"
+// spawn-at-startup "sosd" "daemon"
 spawn-at-startup "xwayland-satellite"
 
 environment {
@@ -259,13 +259,13 @@ hotkey-overlay {
     skip-at-startup
 }
 
-// cursor {
-//     xcursor-theme "breeze_cursors"
-//     xcursor-size 48
-//
-//    hide-when-typing
+cursor {
+     xcursor-theme "Bibata-Modern-Classic"
+     xcursor-size 22
+
+    hide-when-typing
 //    hide-after-inactive-ms 1000
-//}
+}
 
 // Uncomment this line to ask the clients to omit their client-side decorations if possible.
 // If the client will specifically ask for CSD, the request will be honored.
@@ -352,11 +352,12 @@ binds {
 
     // Suggested binds for running programs: terminal, app launcher, screen locker.
     Mod+Q { spawn "kitty"; }
-    Mod+Return { spawn "wofi" "--show" "drun"; }
-    Mod+Period { spawn "rofimoji"; }
-    Mod+L { spawn "swaylock" "--ignore-empty-password" "--daemonize" "--image" "~/Pictures/Wallpapers/fallenangel.jpg" "--scaling" "fill" "--indicator" "--clock" "--indicator-radius" "130" "--indicator-thickness" "10" "--ring-color" "6783a6" "--ring-ver-color" "e4f9fe" "--ring-wrong-color" "d75f00" "--ring-clear-color" "8398a6" "--inside-color" "181922" "--inside-ver-color" "181922" "--inside-wrong-color" "181922" "--inside-clear-color" "181922" "--line-color" "181922" "--line-ver-color" "6783a6" "--line-wrong-color" "d75f00" "--separator-color" "536985" "--text-color" "e4f9fe" "--text-ver-color" "e4f9fe" "--text-wrong-color" "d75f00" "--text-clear-color" "bebbbf" "--key-hl-color" "e4f9fe" "--bs-hl-color" "8398a6" "--caps-lock-key-hl-color" "8398a6" "--caps-lock-bs-hl-color" "536985" "--layout-bg-color" "181922" "--layout-border-color" "536985" "--layout-text-color" "e4f9fe" "--effect-blur" "7x3"; }
+    Mod+Return { spawn "rofi" "-show" "drun"; }
+    // Mod+Period { spawn "rofimoji"; }
+    // Mod+L { spawn "swaylock" "--ignore-empty-password" "--daemonize" "--image" "~/Pictures/Wallpapers/fallenangel.jpg" "--scaling" "fill" "--indicator" "--clock" "--indicator-radius" "130" "--indicator-thickness" "10" "--ring-color" "6783a6" "--ring-ver-color" "e4f9fe" "--ring-wrong-color" "d75f00" "--ring-clear-color" "8398a6" "--inside-color" "181922" "--inside-ver-color" "181922" "--inside-wrong-color" "181922" "--inside-clear-color" "181922" "--line-color" "181922" "--line-ver-color" "6783a6" "--line-wrong-color" "d75f00" "--separator-color" "536985" "--text-color" "e4f9fe" "--text-ver-color" "e4f9fe" "--text-wrong-color" "d75f00" "--text-clear-color" "bebbbf" "--key-hl-color" "e4f9fe" "--bs-hl-color" "8398a6" "--caps-lock-key-hl-color" "8398a6" "--caps-lock-bs-hl-color" "536985" "--layout-bg-color" "181922" "--layout-border-color" "536985" "--layout-text-color" "e4f9fe" "--effect-blur" "7x3"; }
     Mod+E { spawn "thunar"; }
-    Mod+Shift+E { spawn "wlogout"; }
+    // Mod+Shift+E { spawn "wlogout"; }
+
     // You can also use a shell. Do this if you need pipes, multiple commands, etc.
     // Note: the entire command goes as a single argument in the end.
     // Mod+T { spawn "bash" "-c" "notify-send hello && exec alacritty"; }
