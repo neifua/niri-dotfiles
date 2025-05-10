@@ -101,7 +101,7 @@ input {
 // https://github.com/YaLTeR/niri/wiki/Configuration:-Layout
 layout {
     // Set gaps around windows in logical pixels.
-    gaps 8
+    gaps 10
 
     // When to center a column when changing focus, options are:
     // - "never", default behavior, focusing an off-screen column will keep at the left
@@ -187,8 +187,8 @@ layout {
         // off
 
         width 4
-        active-color "#285377"
-        inactive-color "#000000"
+        active-color "#B9AF95"
+        inactive-color "#3B3735"
 
         // active-gradient from="#ffbb66" to="#ffc880" angle=45 relative-to="workspace-view"
         // inactive-gradient from="#505050" to="#808080" angle=45 relative-to="workspace-view"
@@ -252,13 +252,14 @@ layout {
 spawn-at-startup "xwayland-satellite"
 spawn-at-startup "swww-daemon"
 spawn-at-startup "exec swayosd-server"
-spawn-at-startup "exec" "sosd" "daemon"
+spawn-at-startup "sosd" "daemon"
 spawn-at-startup "sh" "-c" "systemctl enable --now swayosd-libinput-backend.service"
 spawn-at-startup "sh" "-c" "exec swayosd-server"
 spawn-at-startup "/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1"
 
 environment {
     DISPLAY ":0"
+    ELECTRON_OZONE_PLATFORM_HINT "auto"
 }
 
 hotkey-overlay {
@@ -266,7 +267,7 @@ hotkey-overlay {
 }
 
 cursor {
-     xcursor-theme "Bibata-Modern-Classic"
+     xcursor-theme "Bibata-Modern-Ice"
      xcursor-size 22
 
     hide-when-typing
