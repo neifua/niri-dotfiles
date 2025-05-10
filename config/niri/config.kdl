@@ -249,10 +249,11 @@ layout {
 // which may be more convenient to use.
 // See the binds section below for more spawn examples.
 
+spawn-at-startup "dbus-update-activation-environment" "--systemd" "--all"
 spawn-at-startup "xwayland-satellite"
 spawn-at-startup "swww-daemon"
 spawn-at-startup "exec swayosd-server"
-spawn-at-startup "sosd" "daemon"
+spawn-at-startup "/home/neifua/.cargo/bin/sosd" "daemon"
 spawn-at-startup "sh" "-c" "systemctl enable --now swayosd-libinput-backend.service"
 spawn-at-startup "sh" "-c" "exec swayosd-server"
 spawn-at-startup "/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1"
