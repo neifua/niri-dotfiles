@@ -22,7 +22,7 @@ input {
     // Omitting settings disables them, or leaves them at their default values.
     touchpad {
         // off
-        tap
+        // tap
         // dwt
         // dwtp
         // drag-lock
@@ -36,7 +36,7 @@ input {
     mouse {
         // off
         // natural-scroll
-        accel-speed 0.2
+        accel-speed 0.15
         accel-profile "flat"
         // scroll-method "no-scroll"
     }
@@ -246,10 +246,15 @@ layout {
 // Note that running niri as a session supports xdg-desktop-autostart,
 // which may be more convenient to use.
 // See the binds section below for more spawn examples.
-spawn-at-startup "/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1"
-spawn-at-startup "swww-daemon"
-// spawn-at-startup "sosd" "daemon"
+
 spawn-at-startup "xwayland-satellite"
+spawn-at-startup "swww-daemon"
+spawn-at-startup "exec swayosd-server"
+spawn-at-startup "exec sosd daemon"
+spawn-at-startup "sh" "-c" "systemctl enable --now swayosd-libinput-backend.service"
+spawn-at-startup "sh" "-c" "exec swayosd-server"
+spawn-at-startup "/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1"
+
 
 environment {
     DISPLAY ":0"
@@ -353,21 +358,23 @@ binds {
     // Suggested binds for running programs: terminal, app launcher, screen locker.
     Mod+Q { spawn "kitty"; }
     Mod+Return { spawn "rofi" "-show" "drun"; }
-    // Mod+Period { spawn "rofimoji"; }
-    // Mod+L { spawn "swaylock" "--ignore-empty-password" "--daemonize" "--image" "~/Pictures/Wallpapers/fallenangel.jpg" "--scaling" "fill" "--indicator" "--clock" "--indicator-radius" "130" "--indicator-thickness" "10" "--ring-color" "6783a6" "--ring-ver-color" "e4f9fe" "--ring-wrong-color" "d75f00" "--ring-clear-color" "8398a6" "--inside-color" "181922" "--inside-ver-color" "181922" "--inside-wrong-color" "181922" "--inside-clear-color" "181922" "--line-color" "181922" "--line-ver-color" "6783a6" "--line-wrong-color" "d75f00" "--separator-color" "536985" "--text-color" "e4f9fe" "--text-ver-color" "e4f9fe" "--text-wrong-color" "d75f00" "--text-clear-color" "bebbbf" "--key-hl-color" "e4f9fe" "--bs-hl-color" "8398a6" "--caps-lock-key-hl-color" "8398a6" "--caps-lock-bs-hl-color" "536985" "--layout-bg-color" "181922" "--layout-border-color" "536985" "--layout-text-color" "e4f9fe" "--effect-blur" "7x3"; }
     Mod+E { spawn "thunar"; }
     // Mod+Shift+E { spawn "wlogout"; }
 
-    // You can also use a shell. Do this if you need pipes, multiple commands, etc.
-    // Note: the entire command goes as a single argument in the end.
-    // Mod+T { spawn "bash" "-c" "notify-send hello && exec alacritty"; }
-
     // Example volume keys mappings for PipeWire & WirePlumber.
     // The allow-when-locked=true property makes them work even when the session is locked.
-    XF86AudioRaiseVolume allow-when-locked=true { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "0.1+"; }
-    XF86AudioLowerVolume allow-when-locked=true { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "0.1-"; }
-    XF86AudioMute        allow-when-locked=true { spawn "wpctl" "set-mute" "@DEFAULT_AUDIO_SINK@" "toggle"; }
-    XF86AudioMicMute     allow-when-locked=true { spawn "wpctl" "set-mute" "@DEFAULT_AUDIO_SOURCE@" "toggle"; }
+    // XF86AudioRaiseVolume allow-when-locked=true { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "0.1+"; }
+    // XF86AudioLowerVolume allow-when-locked=true { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "0.1-"; }
+    // XF86AudioMute        allow-when-locked=true { spawn "wpctl" "set-mute" "@DEFAULT_AUDIO_SINK@" "toggle"; }
+    // XF86AudioMicMute     allow-when-locked=true { spawn "wpctl" "set-mute" "@DEFAULT_AUDIO_SOURCE@" "toggle"; }
+    
+    XF86AudioRaiseVolume { spawn "sh" "-c" "exec swayosd-client --output-volume raise"; }
+    XF86AudioLowerVolume { spawn "sh" "-c" "exec swayosd-client --output-volume lower"; }
+    XF86AudioMute { spawn "sh" "-c" "exec swayosd-client --output-volume mute-toggle"; }
+    XF86AudioMicMute { spawn "sh" "-c" "exec swayosd-client --input-volume mute-toggle"; }
+    XF86MonBrightnessUp { spawn "sh" "-c" "exec swayosd-client --brightness raise"; }
+    XF86MonBrightnessDown { spawn "sh" "-c" "exec swayosd-client --brightness lower"; }
+    Caps_Lock { spawn "sh" "-c" "exec swayosd-client --caps-lock"; }
 
     Mod+C { close-window; }
 
