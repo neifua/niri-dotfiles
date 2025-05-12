@@ -251,7 +251,6 @@ layout {
 
 spawn-at-startup "dbus-update-activation-environment" "--systemd" "--all"
 spawn-at-startup "xwayland-satellite"
-spawn-at-startup "swww-daemon"
 spawn-at-startup "exec swayosd-server"
 spawn-at-startup "/home/neifua/.cargo/bin/sosd" "daemon"
 spawn-at-startup "sh" "-c" "systemctl enable --now swayosd-libinput-backend.service"
@@ -361,7 +360,7 @@ binds {
     // Suggested binds for running programs: terminal, app launcher, screen locker.
     Mod+Q { spawn "kitty"; }
     Mod+Return { spawn "rofi" "-show" "drun"; }
-    Mod+E { spawn "thunar"; }
+    Mod+E { spawn "nemo"; }
     // Mod+Shift+E { spawn "wlogout"; }
     Mod+Shift+T { spawn "sosd" "daemon"; }
     // Example volume keys mappings for PipeWire & WirePlumber.
