@@ -365,7 +365,7 @@ binds {
     Mod+Return { spawn "rofi" "-show" "drun"; }
     Mod+E { spawn "nemo"; }
     // Mod+Shift+E { spawn "wlogout"; }
-    Mod+Shift+T { spawn "sosd" "daemon"; }
+
     // Example volume keys mappings for PipeWire & WirePlumber.
     // The allow-when-locked=true property makes them work even when the session is locked.
     // XF86AudioRaiseVolume allow-when-locked=true { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "0.1+"; }
