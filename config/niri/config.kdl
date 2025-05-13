@@ -36,7 +36,7 @@ input {
     mouse {
         // off
         // natural-scroll
-        accel-speed 0.15
+        accel-speed 0.1
         accel-profile "flat"
         // scroll-method "no-scroll"
     }
@@ -252,8 +252,10 @@ layout {
 spawn-at-startup "dbus-update-activation-environment" "--systemd" "--all"
 spawn-at-startup "xwayland-satellite"
 spawn-at-startup "swww-daemon"
+spawn-at-startup "eww" "daemon"
 spawn-at-startup "exec swayosd-server"
-spawn-at-startup "/home/neifua/.cargo/bin/sosd" "daemon"
+spawn-at-startup "swaync"
+// spawn-at-startup "/home/neifua/.cargo/bin/sosd" "daemon"
 spawn-at-startup "sh" "-c" "systemctl enable --now swayosd-libinput-backend.service"
 spawn-at-startup "sh" "-c" "exec swayosd-server"
 spawn-at-startup "/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1"
