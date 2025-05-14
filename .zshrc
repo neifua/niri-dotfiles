@@ -7,6 +7,14 @@ export ZSH="$HOME/.oh-my-zsh"
 # Path to .cargo
 export PATH="$HOME/.cargo/bin:$PATH"
 
+# Fetch
+if [[ "$TERM_PROGRAM" != "vscode" ]]; then
+    neofetch
+fi
+
+# Starship
+eval "$(starship init zsh)"
+
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time Oh My Zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
