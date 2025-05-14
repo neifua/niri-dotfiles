@@ -255,12 +255,12 @@ spawn-at-startup "swww-daemon"
 spawn-at-startup "eww" "daemon"
 spawn-at-startup "exec swayosd-server"
 spawn-at-startup "swaync"
-// spawn-at-startup "/home/neifua/.cargo/bin/sosd" "daemon"
 spawn-at-startup "sh" "-c" "systemctl enable --now swayosd-libinput-backend.service"
 spawn-at-startup "sh" "-c" "exec swayosd-server"
 spawn-at-startup "/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1"
 
 environment {
+    QT_QPA_PLATFORM "wayland"
     DISPLAY ":0"
     ELECTRON_OZONE_PLATFORM_HINT "auto"
 }
@@ -300,7 +300,17 @@ animations {
     // off
 
     // Slow down all animations by this factor. Values below 1 speed them up instead.
-    // slowdown 1.5
+    // slowdown 1
+    
+    window-open {
+        duration-ms 100
+        curve "ease-out-expo"
+    }
+
+    window-close {
+        duration-ms 150
+        curve "ease-out-quad"
+    }
 }
 
 // Window rules let you adjust behavior for individual windows.
@@ -364,8 +374,7 @@ binds {
     Mod+Q { spawn "kitty"; }
     Mod+Return { spawn "rofi" "-show" "drun"; }
     Mod+E { spawn "nemo"; }
-    // Mod+Shift+E { spawn "wlogout"; }
-
+    Mod+Shift+E { spawn "wlogout"; }
     // Example volume keys mappings for PipeWire & WirePlumber.
     // The allow-when-locked=true property makes them work even when the session is locked.
     // XF86AudioRaiseVolume allow-when-locked=true { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "0.1+"; }
