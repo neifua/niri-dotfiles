@@ -1,0 +1,17 @@
+catnap 
+ls
+nano ~/.config/niri/config.kdl
+ls | sort-by size | all 
+ls | sort-by size | all ~
+ps
+ps | where status == Running
+config.nu
+config 
+config nu
+help config nu
+config nu --help
+config nu --doc
+config nu
+$env | table -e
+chsh -s /usr/bin/nu
+nano ~/.bashrc
