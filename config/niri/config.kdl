@@ -187,8 +187,8 @@ layout {
         // off
 
         width 4
-        active-color "#ebe3e0"
-        inactive-color "#050A17"
+        active-color "#526E5D"
+        inactive-color "#07060E"
 
         // active-gradient from="#ffbb66" to="#ffc880" angle=45 relative-to="workspace-view"
         // inactive-gradient from="#505050" to="#808080" angle=45 relative-to="workspace-view"
@@ -274,7 +274,7 @@ cursor {
      xcursor-size 24
 
     hide-when-typing
-//    hide-after-inactive-ms 1000
+    // hide-after-inactive-ms 1000
 }
 
 // Uncomment this line to ask the clients to omit their client-side decorations if possible.
@@ -368,13 +368,14 @@ binds {
 
     // Mod-Shift-/, which is usually the same as Mod-?,
     // shows a list of important hotkeys.
-    Mod+Shift+Slash { show-hotkey-overlay; }
+    // Mod+Shift+Slash { show-hotkey-overlay; }
 
     // Suggested binds for running programs: terminal, app launcher, screen locker.
     Mod+Q { spawn "kitty"; }
-    Mod+Return { spawn "rofi" "-show" "drun"; }
+    Mod+Return { spawn "~/.config/rofi/neifua-rofi/launcher/launcher.sh"; }
     Mod+E { spawn "nemo"; }
-    Mod+Shift+E { spawn "wlogout"; }
+    // Mod+Shift+E { spawn "~/.config/rofi/neifua-rofi/"; }
+
     // Example volume keys mappings for PipeWire & WirePlumber.
     // The allow-when-locked=true property makes them work even when the session is locked.
     // XF86AudioRaiseVolume allow-when-locked=true { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "0.1+"; }
@@ -382,12 +383,13 @@ binds {
     // XF86AudioMute        allow-when-locked=true { spawn "wpctl" "set-mute" "@DEFAULT_AUDIO_SINK@" "toggle"; }
     // XF86AudioMicMute     allow-when-locked=true { spawn "wpctl" "set-mute" "@DEFAULT_AUDIO_SOURCE@" "toggle"; }
     
-    XF86AudioRaiseVolume { spawn "sh" "-c" "exec swayosd-client --output-volume raise"; }
-    XF86AudioLowerVolume { spawn "sh" "-c" "exec swayosd-client --output-volume lower"; }
+    // Needs swayosd
+    XF86AudioRaiseVolume { spawn "sh" "-c" "exec swayosd-client --output-volume raise --max-volume 150"; }
+    XF86AudioLowerVolume { spawn "sh" "-c" "exec swayosd-client --output-volume lower --max-volume 120"; }
     XF86AudioMute { spawn "sh" "-c" "exec swayosd-client --output-volume mute-toggle"; }
     XF86AudioMicMute { spawn "sh" "-c" "exec swayosd-client --input-volume mute-toggle"; }
-    XF86MonBrightnessUp { spawn "sh" "-c" "exec swayosd-client --brightness raise"; }
-    XF86MonBrightnessDown { spawn "sh" "-c" "exec swayosd-client --brightness lower"; }
+    XF86MonBrightnessUp { spawn "sh" "-c" "exec swayosd-client --brightness +5"; }
+    XF86MonBrightnessDown { spawn "sh" "-c" "exec swayosd-client --brightness -5"; }
 
     Mod+C { close-window; }
 
@@ -451,8 +453,8 @@ binds {
     Mod+Shift+Up        { focus-workspace-up; }
     // Mod+U              { focus-workspace-down; }
     // Mod+I              { focus-workspace-up; }
-    Mod+Alt+Down { move-column-to-workspace-down; }
-    Mod+Alt+Up   { move-column-to-workspace-up; }
+    Mod+Alt+Down        { move-column-to-workspace-down; }
+    Mod+Alt+Up          { move-column-to-workspace-up; }
     // Mod+Ctrl+U         { move-column-to-workspace-down; }
     // Mod+Ctrl+I         { move-column-to-workspace-up; }
 
@@ -528,7 +530,7 @@ binds {
     // Mod+Ctrl+1 { move-window-to-workspace 1; }
 
     // Switches focus between the current and the previous workspace.
-    // Alt+Tab { focus-workspace-previous; }
+    Mod+Tab { focus-workspace-previous; }
 
     // The following binds move the focused window in and out of a column.
     // If the window is alone, they will consume it into the nearby column to the side.
@@ -549,7 +551,7 @@ binds {
 
     // Expand the focused column to space not taken up by other fully visible columns.
     // Makes the column "fill the rest of the space".
-    Mod+Ctrl+F { expand-column-to-available-width; }
+    // Mod+Ctrl+F { expand-column-to-available-width; }
 
     Mod+V { center-column; }
 
@@ -561,12 +563,12 @@ binds {
     // * adjust width as a percentage of screen width: "-10%" or "+10%"
     // Pixel sizes use logical, or scaled, pixels. I.e. on an output with scale 2.0,
     // set-column-width "100" will make the column occupy 200 physical screen pixels.
-    Mod+Minus { set-column-width "-10%"; }
-    Mod+Equal { set-column-width "+10%"; }
+    Mod+Minus { set-column-width "-5%"; }
+    Mod+Equal { set-column-width "+5%"; }
 
     // Finer height adjustments when in column with other windows.
-    Mod+Shift+Minus { set-window-height "-10%"; }
-    Mod+Shift+Equal { set-window-height "+10%"; }
+    Mod+Shift+Minus { set-window-height "-5%"; }
+    Mod+Shift+Equal { set-window-height "+5%"; }
 
     // Move the focused window between the floating and the tiling layout.
     Mod+A       { toggle-window-floating; }
@@ -575,7 +577,7 @@ binds {
     // Toggle tabbed column display mode.
     // Windows in this column will appear as vertical tabs,
     // rather than stacked on top of each other.
-    Mod+W { toggle-column-tabbed-display; }
+    // Mod+W { toggle-column-tabbed-display; }
 
     // Actions to switch layouts.
     // Note: if you uncomment these, make sure you do NOT have
@@ -585,6 +587,7 @@ binds {
     // Mod+Space       { switch-layout "next"; }
     // Mod+Shift+Space { switch-layout "prev"; }
 
+    // Screenshot
     Mod+Shift+S { screenshot; }
     Print { screenshot-screen; }
     Alt+Print { screenshot-window; }
@@ -600,7 +603,6 @@ binds {
     Mod+Escape allow-inhibiting=false { toggle-keyboard-shortcuts-inhibit; }
 
     // The quit action will show a confirmation dialog to avoid accidental exits.
-    // Mod+Shift+E { quit; }
     Ctrl+Alt+Delete { quit; }
 
     // Powers off the monitors. To turn them back on, do any input like
