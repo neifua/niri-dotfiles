@@ -24,7 +24,8 @@ if ($term_program != "vscode") {
 }
 
 # env
-$env.PATH = ($env.PATH | prepend '/home/neifua/.local/bin')
+$env.path ++= ["~/.local/bin"]
+# $env.PATH = ($env.PATH | prepend '/home/neifua/.local/bin')
 $env.config.show_banner = false
 $env.config.buffer_editor = 'nvim'
 $env.config.history = {

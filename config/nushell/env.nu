@@ -16,3 +16,8 @@
 #
 # You can remove these comments if you want or leave
 # them for future reference.
+
+$env.QT_IM_MODULE  = "fcitx"
+$env.XMODIFIERS    = "@im=fcitx"
+$env.INPUT_METHOD  = "fcitx"
+$env.SDL_IM_MODULE = "fcitx"

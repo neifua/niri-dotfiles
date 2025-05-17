@@ -15,3 +15,4 @@ config nu
 $env | table -e
 chsh -s /usr/bin/nu
 nano ~/.bashrc
+config nu

@@ -252,7 +252,7 @@ layout {
 spawn-at-startup "dbus-update-activation-environment" "--systemd" "--all"
 spawn-at-startup "xwayland-satellite"
 spawn-at-startup "swww-daemon"
-// spawn-at-startup "eww" "daemon"
+spawn-at-startup "eww" "daemon"
 spawn-at-startup "exec swayosd-server"
 spawn-at-startup "swaync"
 spawn-at-startup "sh" "-c" "systemctl enable --now swayosd-libinput-backend.service"
@@ -385,7 +385,7 @@ binds {
     
     // Needs swayosd
     XF86AudioRaiseVolume { spawn "sh" "-c" "exec swayosd-client --output-volume raise --max-volume 150"; }
-    XF86AudioLowerVolume { spawn "sh" "-c" "exec swayosd-client --output-volume lower --max-volume 120"; }
+    XF86AudioLowerVolume { spawn "sh" "-c" "exec swayosd-client --output-volume lower --max-volume 150"; }
     XF86AudioMute { spawn "sh" "-c" "exec swayosd-client --output-volume mute-toggle"; }
     XF86AudioMicMute { spawn "sh" "-c" "exec swayosd-client --input-volume mute-toggle"; }
     XF86MonBrightnessUp { spawn "sh" "-c" "exec swayosd-client --brightness +5"; }
