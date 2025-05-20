@@ -6,7 +6,7 @@
 ## Rofi   : Launcher (Modi Drun, Run, File Browser, Window)
 
 
-dir="$HOME/.config/rofi/neifua-rofi/launcher"
+dir="$HOME/.config/rofi/launcher"
 theme='style'
 
 ## Run
