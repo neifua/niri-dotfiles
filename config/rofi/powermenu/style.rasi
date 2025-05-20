@@ -68,7 +68,7 @@ inputbar {
 textbox-prompt-colon {
     enabled:                     true;
     expand:                      false;
-    str:                         "󰤄";
+    str:                         "  Powermenu";
     padding:                     8px 12px;
     border-radius:               0px;
     background-color:            @urgent;
