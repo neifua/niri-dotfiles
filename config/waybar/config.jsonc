@@ -1,0 +1,80 @@
+{
+    "height": 25,
+	"margin-top": 7,
+	"margin-right": 20,
+	"margin-left": 20,
+    "modules-left": [
+        "cpu",
+        "custom/seperator4",
+        "memory",
+        "custom/seperator1",
+        "clock"
+    ],
+    "modules-center": [
+        "niri/workspaces"
+    ],
+    "modules-right": [
+        "pulseaudio",
+        "custom/seperator2",
+        "backlight",
+		"custom/seperator2",
+        "battery",
+		"custom/seperator3",
+        "tray"
+    ],
+	"custom/seperator1": {
+		"format": " | "
+	},
+	"custom/seperator2": {
+		"format": " · "
+	},
+	"custom/seperator3": {
+		"format": " |"
+	},
+    "custom/seperator4": {
+        "format": " ──  "
+    },
+    "niri/workspaces": {
+	"format": "{icon}",
+	"format-icons": {
+		"active": "󰊠",
+		"default": "󰧵"
+	    }
+    },
+    "backlight": {
+        "format-icons": ["", "", "", "", "", "", "", "", ""],
+        "format": "{percent}% {icon}"
+    },
+	"pulseaudio": {
+		"format": "{volume}% ",
+		"format-muted": "Muted "
+	},
+    "cpu": {
+    "interval": 1,
+    "format": "  {}% ",
+    "max-length": 10
+    },
+    "memory": {
+        "interval": 1,
+        "format": "  {used:0.1f}G/{total:0.1f}G",
+        "format-warning": "{used}/{total} GB 󰍢 ",
+        "format-critical": "{used}/{total} GB  "
+    },
+    "battery": {
+        "states": {
+            "good": 21,
+            "warning": 20,
+            "critical": 10
+        },
+        "format-icons": ["󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹"],
+        "format": "{capacity}% {icon}",
+        "format-charging": "{capacity}% 󰂄"
+    },
+    "tray": {
+        "icon-size": 16,
+        "spacing": 10
+    },
+    "clock": {
+    "format": "  {:%OI:%OM %p - %d/%m/%Y}"
+    }
+}

@@ -126,7 +126,7 @@ layout {
         // proportion 0.33333
         proportion 0.5
         // proportion 0.66666
-	    proportion 0.75
+        proportion 0.75
         proportion 1.00
 
         // Fixed sets the width in logical pixels exactly.
@@ -137,9 +137,9 @@ layout {
     // preset-window-heights { }
 
     // You can change the default width of the new windows.
-    // default-column-width { proportion 0.5; }
+    default-column-width { proportion 0.5; }
     // If you leave the brackets empty, the windows themselves will decide their initial width.
-    default-column-width {}
+    // default-column-width {}
 
     // By default focus ring and border are rendered as a solid background rectangle
     // behind windows. That is, they will show up through semitransparent windows.
@@ -244,7 +244,7 @@ layout {
     // Top and bottom struts will simply add outer gaps in addition to the area occupied by
     // layer-shell panels and regular gaps.
     struts {
-	      left 0
+        left 0
         right 0
         top 0
         bottom 0
@@ -260,6 +260,7 @@ spawn-at-startup "dbus-update-activation-environment" "--systemd" "--all"
 spawn-at-startup "xwayland-satellite"
 spawn-at-startup "swww-daemon"
 spawn-at-startup "eww" "daemon"
+spawn-at-startup "waybar"
 spawn-at-startup "sh" "/home/neifua/.config/swayidle/autolock.sh"
 spawn-at-startup "exec swayosd-server"
 spawn-at-startup "swaync"
@@ -326,7 +327,7 @@ window-rule {
 }
 
 // Open the Firefox picture-in-picture player as floating by default.
-window-rule {
+/-window-rule {
     // This app-id regular expression will work for both:
     // - host Firefox (app-id is "firefox")
     // - Flatpak Firefox (app-id is "org.mozilla.firefox")
