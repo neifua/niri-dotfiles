@@ -101,7 +101,7 @@ input {
 // https://github.com/YaLTeR/niri/wiki/Configuration:-Layout
 layout {
     // Set gaps around windows in logical pixels.
-    gaps 8
+    gaps 10
 
     // When to center a column when changing focus, options are:
     // - "never", default behavior, focusing an off-screen column will keep at the left
@@ -254,6 +254,7 @@ spawn-at-startup "dbus-update-activation-environment" "--systemd" "--all"
 spawn-at-startup "xwayland-satellite"
 spawn-at-startup "swww-daemon"
 spawn-at-startup "eww" "daemon"
+spawn-at-startup "sh" "/home/neifua/.config/swayidle/autolock.sh"
 spawn-at-startup "exec swayosd-server"
 spawn-at-startup "swaync"
 spawn-at-startup "sh" "-c" "systemctl enable --now swayosd-libinput-backend.service"
@@ -367,50 +368,48 @@ binds {
     // Most actions that you can bind here can also be invoked programmatically with
     // `niri msg action do-something`.
 
-    // Mod-Shift-/, which is usually the same as Mod-?,
-    // shows a list of important hotkeys.
     // Mod+Shift+Slash { show-hotkey-overlay; }
+    Mod+Q           { spawn "kitty"; }
+    Mod+E           { spawn "nemo"; }
+    Mod+Period      { spawn "emote"; }
+    Mod+L           { spawn "~/.config/swaylock/lockscreen.sh"; }
+    Mod+Return      { spawn "~/.config/rofi/launcher/launcher.sh"; }
+    Mod+Shift+E     { spawn "~/.config/rofi/powermenu/powermenu.sh"; }
 
-    // Suggested binds for running programs: terminal, app launcher, screen locker.
-    Mod+Q { spawn "kitty"; }
-    Mod+Return { spawn "~/.config/rofi/neifua-rofi/launcher/launcher.sh"; }
-    Mod+E { spawn "nemo"; }
-    // Mod+Shift+E { spawn "~/.config/rofi/neifua-rofi/"; }
-
-    // Example volume keys mappings for PipeWire & WirePlumber.
     // The allow-when-locked=true property makes them work even when the session is locked.
     // XF86AudioRaiseVolume allow-when-locked=true { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "0.1+"; }
     // XF86AudioLowerVolume allow-when-locked=true { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "0.1-"; }
     // XF86AudioMute        allow-when-locked=true { spawn "wpctl" "set-mute" "@DEFAULT_AUDIO_SINK@" "toggle"; }
     // XF86AudioMicMute     allow-when-locked=true { spawn "wpctl" "set-mute" "@DEFAULT_AUDIO_SOURCE@" "toggle"; }
     
-    // Needs swayosd
-    XF86AudioRaiseVolume { spawn "sh" "-c" "exec swayosd-client --output-volume raise --max-volume 150"; }
-    XF86AudioLowerVolume { spawn "sh" "-c" "exec swayosd-client --output-volume lower --max-volume 150"; }
-    XF86AudioMute { spawn "sh" "-c" "exec swayosd-client --output-volume mute-toggle"; }
-    XF86AudioMicMute { spawn "sh" "-c" "exec swayosd-client --input-volume mute-toggle"; }
-    XF86MonBrightnessUp { spawn "sh" "-c" "exec swayosd-client --brightness +5"; }
-    XF86MonBrightnessDown { spawn "sh" "-c" "exec swayosd-client --brightness -5"; }
+    // Swayosd required
+    XF86AudioRaiseVolume    { spawn "sh" "-c" "exec swayosd-client --output-volume raise --max-volume 150"; }
+    XF86AudioLowerVolume    { spawn "sh" "-c" "exec swayosd-client --output-volume lower --max-volume 150"; }
+    XF86AudioMute           { spawn "sh" "-c" "exec swayosd-client --output-volume mute-toggle"; }
+    XF86AudioMicMute        { spawn "sh" "-c" "exec swayosd-client --input-volume mute-toggle"; }
+    XF86MonBrightnessUp     { spawn "sh" "-c" "exec swayosd-client --brightness +5"; }
+    XF86MonBrightnessDown   { spawn "sh" "-c" "exec swayosd-client --brightness -5"; }
 
+    // Window binds
     Mod+C { close-window; }
 
     Mod+Left  { focus-column-left; }
     Mod+Down  { focus-window-down; }
     Mod+Up    { focus-window-up; }
     Mod+Right { focus-column-right; }
-    Mod+H     { focus-column-left; }
-    Mod+J     { focus-window-down; }
-    Mod+K     { focus-window-up; }
-    Mod+L     { focus-column-right; }
+    // Mod+H     { focus-column-left; }
+    // Mod+J     { focus-window-down; }
+    // Mod+K     { focus-window-up; }
+    // Mod+L     { focus-column-right; }
 
     Mod+Ctrl+Left  { move-column-left; }
     Mod+Ctrl+Down  { move-window-down; }
     Mod+Ctrl+Up    { move-window-up; }
     Mod+Ctrl+Right { move-column-right; }
-    Mod+Ctrl+H     { move-column-left; }
-    Mod+Ctrl+J     { move-window-down; }
-    Mod+Ctrl+K     { move-window-up; }
-    Mod+Ctrl+L     { move-column-right; }
+    // Mod+Ctrl+H     { move-column-left; }
+    // Mod+Ctrl+J     { move-window-down; }
+    // Mod+Ctrl+K     { move-window-up; }
+    // Mod+Ctrl+L     { move-column-right; }
 
     // Alternative commands that move across workspaces when reaching
     // the first or last window in a column.
