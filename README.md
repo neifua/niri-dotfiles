@@ -9,4 +9,4 @@ This repo is my personal [niri](https://github.com/YaLTeR/niri) dotfiles. I use 
 
 ---
 
-And also I goon to [Emma Frost](https://en.wikipedia.org/wiki/Emma_Frost) btw ✌️
+And also I goon to [Pulchra Fellini](https://zenless-zone-zero.fandom.com/wiki/Pulchra_(Enemy)) btw ✌️
