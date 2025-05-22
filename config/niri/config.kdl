@@ -1,7 +1,7 @@
 // This config is in the KDL format: https://kdl.dev
 // "/-" comments out the following node.
 // Check the wiki for a full description of the configuration:
-// https://github.com/YaLTeR/niri/wiki/Configuration:-Overview
+// https://github.com/YaLTeR/niri/wiki/Configuration:-Introduction
 
 // Input device configuration.
 // Find the full list of options on the wiki:
@@ -16,18 +16,22 @@ input {
             // layout "us,ru"
             // options "grp:win_space_toggle,compose:ralt,ctrl:nocaps"
         }
+
+        // Enable numlock on startup, omitting this setting disables it.
+        numlock
     }
 
     // Next sections include libinput settings.
     // Omitting settings disables them, or leaves them at their default values.
     touchpad {
         // off
-        // tap
+        tap
         // dwt
         // dwtp
+        // drag false
         // drag-lock
         natural-scroll
-        accel-speed 0.2
+        accel-speed 0.4
         accel-profile "flat"
         scroll-method "two-finger"
         disabled-on-external-mouse
@@ -37,7 +41,7 @@ input {
         // off
         // natural-scroll
         accel-speed 0.1
-        accel-profile "flat"
+         accel-profile "flat"
         // scroll-method "no-scroll"
     }
 
@@ -75,10 +79,10 @@ input {
     // for the resolution.
     // If the mode is omitted altogether or is invalid, niri will pick one automatically.
     // Run `niri msg outputs` while inside a niri instance to list all outputs and their modes.
-    mode "1920x1080"
+    mode "1920x1080@120.030"
 
     // You can use integer or fractional scale, for example use 1.5 for 150% scale.
-    scale 1
+    scale 2
 
     // Transform allows to rotate the output counter-clockwise, valid values are:
     // normal, 90, 180, 270, flipped, flipped-90, flipped-180 and flipped-270.
@@ -95,17 +99,11 @@ input {
     // automatically.
     position x=1280 y=0
 }
-output "eDP-1" {
-    background-color "transparent"
-}
 
 // Settings that influence how windows are positioned and sized.
 // Find more information on the wiki:
 // https://github.com/YaLTeR/niri/wiki/Configuration:-Layout
 layout {
-    // Set transparent workspace background color.
-    background-color "transparent"
-
     // Set gaps around windows in logical pixels.
     gaps 10
 
@@ -123,11 +121,11 @@ layout {
         // For example, you can perfectly fit four windows sized "proportion 0.25" on an output.
         // The default preset widths are 1/3, 1/2 and 2/3 of the output.
         proportion 0.25
-        // proportion 0.33333
+	// proportion 0.33333
         proportion 0.5
-        // proportion 0.66666
-        proportion 0.75
-        proportion 1.00
+        // proportion 0.66667
+	proportion 0.75
+	proportion 1.0
 
         // Fixed sets the width in logical pixels exactly.
         // fixed 1920
@@ -158,7 +156,7 @@ layout {
         off
 
         // How many logical pixels the ring extends out from the windows.
-        // width 5
+        width 4
 
         // Colors can be set in a variety of ways:
         // - CSS named colors: "red"
@@ -166,10 +164,10 @@ layout {
         // - CSS-like notation: "rgb(255, 127, 0)", rgba(), hsl() and a few others.
 
         // Color of the ring on the active monitor.
-        active-color "#285377"
+        active-color "#7fc8ff"
 
         // Color of the ring on inactive monitors.
-        inactive-color "#000000"
+        inactive-color "#505050"
 
         // You can also use gradients. They take precedence over solid colors.
         // Gradients are rendered the same as CSS linear-gradient(angle, from, to).
@@ -193,9 +191,12 @@ layout {
         // If you enable the border, you probably want to disable the focus ring.
         // off
 
-        width 2.5
-        active-color "#6F9D88"
+        width 3
+        active-color "6F9D88"
         inactive-color "#0c0d0c"
+
+        // Color of the border around windows that request your attention.
+        urgent-color "#9b0000"
 
         // active-gradient from="#ffbb66" to="#ffc880" angle=45 relative-to="workspace-view"
         // inactive-gradient from="#505050" to="#808080" angle=45 relative-to="workspace-view"
@@ -256,10 +257,11 @@ layout {
 // which may be more convenient to use.
 // See the binds section below for more spawn examples.
 
+// This line starts waybar, a commonly used bar for Wayland compositors.
 spawn-at-startup "dbus-update-activation-environment" "--systemd" "--all"
 spawn-at-startup "xwayland-satellite"
 spawn-at-startup "swww-daemon"
-spawn-at-startup "eww" "daemon"
+// spawn-at-startup "eww" "daemon"
 spawn-at-startup "waybar"
 spawn-at-startup "sh" "/home/neifua/.config/swayidle/autolock.sh"
 spawn-at-startup "exec swayosd-server"
@@ -309,7 +311,7 @@ animations {
     // off
 
     // Slow down all animations by this factor. Values below 1 speed them up instead.
-    // slowdown 1
+    // slowdown 3.0
 }
 
 // Window rules let you adjust behavior for individual windows.
@@ -327,7 +329,7 @@ window-rule {
 }
 
 // Open the Firefox picture-in-picture player as floating by default.
-/-window-rule {
+window-rule {
     // This app-id regular expression will work for both:
     // - host Firefox (app-id is "firefox")
     // - Flatpak Firefox (app-id is "org.mozilla.firefox")
@@ -337,7 +339,7 @@ window-rule {
 
 // Example: block out two password managers from screen capture.
 // (This example rule is commented out with a "/-" in front.)
-window-rule {
+/-window-rule {
     match app-id=r#"^org\.keepassxc\.KeePassXC$"#
     match app-id=r#"^org\.gnome\.World\.Secrets$"#
 
@@ -365,20 +367,28 @@ binds {
     // Most actions that you can bind here can also be invoked programmatically with
     // `niri msg action do-something`.
 
+    // Mod-Shift-/, which is usually the same as Mod-?,
+    // shows a list of important hotkeys.
     // Mod+Shift+Slash { show-hotkey-overlay; }
+
+    // Suggested binds for running programs: terminal, app launcher, screen locker.
     Mod+Q           { spawn "kitty"; }
     Mod+E           { spawn "nemo"; }
     Mod+Period      { spawn "emote"; }
     Mod+L           { spawn "~/.config/swaylock/lockscreen.sh"; }
     Mod+Return      { spawn "~/.config/rofi/launcher/launcher.sh"; }
     Mod+Shift+E     { spawn "~/.config/rofi/powermenu/powermenu.sh"; }
-    
+
+    // You can also use a shell. Do this if you need pipes, multiple commands, etc.
+    // Note: the entire command goes as a single argument in the end.
+    // Mod+T { spawn "bash" "-c" "notify-send hello && exec alacritty"; }
+
+    // Example volume keys mappings for PipeWire & WirePlumber.
     // The allow-when-locked=true property makes them work even when the session is locked.
     // XF86AudioRaiseVolume allow-when-locked=true { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "0.1+"; }
     // XF86AudioLowerVolume allow-when-locked=true { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "0.1-"; }
     // XF86AudioMute        allow-when-locked=true { spawn "wpctl" "set-mute" "@DEFAULT_AUDIO_SINK@" "toggle"; }
     // XF86AudioMicMute     allow-when-locked=true { spawn "wpctl" "set-mute" "@DEFAULT_AUDIO_SOURCE@" "toggle"; }
-    
     // Swayosd required
     XF86AudioRaiseVolume    { spawn "sh" "-c" "exec swayosd-client --output-volume raise --max-volume 150"; }
     XF86AudioLowerVolume    { spawn "sh" "-c" "exec swayosd-client --output-volume lower --max-volume 150"; }
@@ -387,7 +397,11 @@ binds {
     XF86MonBrightnessUp     { spawn "sh" "-c" "exec swayosd-client --brightness +5"; }
     XF86MonBrightnessDown   { spawn "sh" "-c" "exec swayosd-client --brightness -5"; }
 
-    // Window binds
+    // Open/close the Overview: a zoomed-out view of workspaces and windows.
+    // You can also move the mouse into the top-left hot corner,
+    // or do a four-finger swipe up on a touchpad.
+    Mod+G repeat=false { toggle-overview; }
+
     Mod+C { close-window; }
 
     Mod+Left  { focus-column-left; }
@@ -450,8 +464,8 @@ binds {
     Mod+Shift+Up        { focus-workspace-up; }
     // Mod+U              { focus-workspace-down; }
     // Mod+I              { focus-workspace-up; }
-    Mod+Alt+Down        { move-column-to-workspace-down; }
-    Mod+Alt+Up          { move-column-to-workspace-up; }
+    Mod+Alt+Down { move-column-to-workspace-down; }
+    Mod+Alt+Up   { move-column-to-workspace-up; }
     // Mod+Ctrl+U         { move-column-to-workspace-down; }
     // Mod+Ctrl+I         { move-column-to-workspace-up; }
 
@@ -552,6 +566,9 @@ binds {
 
     Mod+V { center-column; }
 
+    // Center all fully visible columns on screen.
+    Mod+Ctrl+C { center-visible-columns; }
+
     // Finer width adjustments.
     // This command can also:
     // * set width in pixels: "1000"
@@ -560,12 +577,12 @@ binds {
     // * adjust width as a percentage of screen width: "-10%" or "+10%"
     // Pixel sizes use logical, or scaled, pixels. I.e. on an output with scale 2.0,
     // set-column-width "100" will make the column occupy 200 physical screen pixels.
-    Mod+Minus { set-column-width "-5%"; }
-    Mod+Equal { set-column-width "+5%"; }
+    Mod+Minus { set-column-width "-10%"; }
+    Mod+Equal { set-column-width "+10%"; }
 
     // Finer height adjustments when in column with other windows.
-    Mod+Shift+Minus { set-window-height "-5%"; }
-    Mod+Shift+Equal { set-window-height "+5%"; }
+    Mod+Shift+Minus { set-window-height "-10%"; }
+    Mod+Shift+Equal { set-window-height "+10%"; }
 
     // Move the focused window between the floating and the tiling layout.
     Mod+A       { toggle-window-floating; }
@@ -584,7 +601,6 @@ binds {
     // Mod+Space       { switch-layout "next"; }
     // Mod+Shift+Space { switch-layout "prev"; }
 
-    // Screenshot
     Mod+Shift+S { screenshot; }
     Print { screenshot-screen; }
     Alt+Print { screenshot-window; }
@@ -600,6 +616,7 @@ binds {
     Mod+Escape allow-inhibiting=false { toggle-keyboard-shortcuts-inhibit; }
 
     // The quit action will show a confirmation dialog to avoid accidental exits.
+    // Mod+Shift+E { quit; }
     Ctrl+Alt+Delete { quit; }
 
     // Powers off the monitors. To turn them back on, do any input like
