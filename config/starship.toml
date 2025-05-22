@@ -1,267 +1,44 @@
-# Get editor completions based on the config schema
 "$schema" = 'https://starship.rs/config-schema.json'
 
-add_newline = false
-
-[line_break]
-disabled = false
+palette = "neifua"
 
 [character]
-success_symbol = "[@neifua ➤](#6F9D88)"
-error_symbol = "[@neifua ➤](#a4085c)"
-vimcmd_symbol = "[⇌](#6B8A6D)"
-
-[git_commit]
-tag_symbol = " tag "
-
-[git_status]
-ahead = ">"
-behind = "<"
-diverged = "<>"
-renamed = "r"
-deleted = "x"
-
-[aws]
-symbol = "aws "
-
-[azure]
-symbol = "az "
-
-[buf]
-symbol = "buf "
-
-[bun]
-symbol = "bun "
-
-[c]
-symbol = "C "
-
-[cpp]
-symbol = "C++ "
-
-[cobol]
-symbol = "cobol "
-
-[conda]
-symbol = "conda "
-
-[container]
-symbol = "container "
-
-[crystal]
-symbol = "cr "
-
-[cmake]
-symbol = "cmake "
-
-[daml]
-symbol = "daml "
-
-[dart]
-symbol = "dart "
-
-[deno]
-symbol = "deno "
-
-[dotnet]
-symbol = ".NET "
-
-[directory]
-read_only = " ro"
-
-[docker_context]
-symbol = "docker "
-
-[elixir]
-symbol = "exs "
-
-[elm]
-symbol = "elm "
-
-[fennel]
-symbol = "fnl "
-
-[fossil_branch]
-symbol = "fossil "
-
-[gcloud]
-symbol = "gcp "
+success_symbol = "[[;neifua](#6F9D88) ❯](#c4cbc1)"
+error_symbol = "[[;neifua](#6d203d) ❯](#c4cbc1)"
+vimcmd_symbol = "[;neifua ❮](subtext1)"
 
 [git_branch]
-symbol = "git "
+style = "bold mauve"
 
-[gleam]
-symbol = "gleam "
+[directory]
+truncation_length = 4
+style = "bold lavender"
 
-[golang]
-symbol = "go "
-
-[gradle]
-symbol = "gradle "
-
-[guix_shell]
-symbol = "guix "
-
-[haskell]
-symbol = "haskell "
-
-[helm]
-symbol = "helm "
-
-[hg_branch]
-symbol = "hg "
-
-[java]
-symbol = "java "
-
-[julia]
-symbol = "jl "
-
-[kotlin]
-symbol = "kt "
-
-[lua]
-symbol = "lua "
-
-[nodejs]
-symbol = "nodejs "
-
-[memory_usage]
-symbol = "memory "
-
-[meson]
-symbol = "meson "
-
-[nats]
-symbol = "nats "
-
-[nim]
-symbol = "nim "
-
-[nix_shell]
-symbol = "nix "
-
-[ocaml]
-symbol = "ml "
-
-[opa]
-symbol = "opa "
-
-[os.symbols]
-AIX = "aix "
-Alpaquita = "alq "
-AlmaLinux = "alma "
-Alpine = "alp "
-Amazon = "amz "
-Android = "andr "
-Arch = "rch "
-Artix = "atx "
-Bluefin = "blfn "
-CachyOS = "cach "
-CentOS = "cent "
-Debian = "deb "
-DragonFly = "dfbsd "
-Emscripten = "emsc "
-EndeavourOS = "ndev "
-Fedora = "fed "
-FreeBSD = "fbsd "
-Garuda = "garu "
-Gentoo = "gent "
-HardenedBSD = "hbsd "
-Illumos = "lum "
-Kali = "kali "
-Linux = "lnx "
-Mabox = "mbox "
-Macos = "mac "
-Manjaro = "mjo "
-Mariner = "mrn "
-MidnightBSD = "mid "
-Mint = "mint "
-NetBSD = "nbsd "
-NixOS = "nix "
-Nobara = "nbra "
-OpenBSD = "obsd "
-OpenCloudOS = "ocos "
-openEuler = "oeul "
-openSUSE = "osuse "
-OracleLinux = "orac "
-Pop = "pop "
-Raspbian = "rasp "
-Redhat = "rhl "
-RedHatEnterprise = "rhel "
-RockyLinux = "rky "
-Redox = "redox "
-Solus = "sol "
-SUSE = "suse "
-Ubuntu = "ubnt "
-Ultramarine = "ultm "
-Unknown = "unk "
-Uos = "uos "
-Void = "void "
-Windows = "win "
-
-[package]
-symbol = "pkg "
-
-[perl]
-symbol = "pl "
-
-[php]
-symbol = "php "
-
-[pijul_channel]
-symbol = "pijul "
-
-[pixi]
-symbol = "pixi "
-
-[pulumi]
-symbol = "pulumi "
-
-[purescript]
-symbol = "purs "
-
-[python]
-symbol = "py "
-
-[quarto]
-symbol = "quarto "
-
-[raku]
-symbol = "raku "
-
-[rlang]
-symbol = "r "
-
-[ruby]
-symbol = "rb "
-
-[rust]
-symbol = "rs "
-
-[scala]
-symbol = "scala "
-
-[spack]
-symbol = "spack "
-
-[solidity]
-symbol = "solidity "
-
-[status]
-symbol = "[x](bold red) "
-
-[sudo]
-symbol = "sudo "
-
-[swift]
-symbol = "swift "
-
-[typst]
-symbol = "typst "
-
-[terraform]
-symbol = "terraform "
-
-[zig]
-symbol = "zig "
+[palettes.neifua]
+background = "#0c0d0c"
+text = "#c4cbc1"
+subtext1 = "#898e87"
+subtext0 = "#7D7870"
+overlay2 = "#8D9C70"
+overlay1 = "#6B8A6D"
+overlay0 = "#72853C"
+surface2 = "#6F9D88"
+surface1 = "#526E5D"
+surface0 = "#7D7870"
+base = "#0c0d0c"
+mantle = "#1a1b1a"
+crust = "#131513"
+rosewater = "#8D9C70"
+flamingo = "#72853C"
+pink = "#9c708d"
+mauve = "#7D708C"
+red = "#8c4e4e"
+maroon = "#7c3f3f"
+peach = "#a0723c"
+yellow = "#c4cbc1"
+green = "#6B8A6D"
+teal = "#6F9D88"
+sky = "#6CA6A6"
+sapphire = "#5CA5A5"
+blue = "#5D7EA0"
+lavender = "#9DAAC4"
