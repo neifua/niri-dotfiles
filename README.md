@@ -6,7 +6,3 @@ This repo is my personal [niri](https://github.com/YaLTeR/niri) dotfiles. I use 
 
 - This setup is designed for my personal use, but feel free to clone and use, explore or fork.
 - You might need to tweak some paths or programs depending on your system.
-
----
-
-And also I goon to [Pulchra Fellini](https://zenless-zone-zero.fandom.com/wiki/Pulchra_(Enemy)) btw ✌️
