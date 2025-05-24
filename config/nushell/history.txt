@@ -16,3 +16,9 @@ $env | table -e
 chsh -s /usr/bin/nu
 nano ~/.bashrc
 config nu
+ls ~/.cargo/bin/
+config nu
+nano ~/.config/nushell/config.nu
+which code
+which -a code
+nano ~/.config/nushell/config.nu
