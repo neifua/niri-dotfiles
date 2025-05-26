@@ -37,7 +37,8 @@ cp -r config/* ~/.config/
 |**`Mod + Shift + E`**|**`Spawn Powermenu`**|
 
 ## Screenshot
-![Screenshot from 2025-05-26 11-03-46](https://github.com/user-attachments/assets/625b76dc-552c-41ef-9b07-3095eb95c62b)
+![image](https://github.com/user-attachments/assets/b5dfe29c-5949-4cc3-b7ab-a054cecaacfb)
+
 
 ---
 
