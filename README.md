@@ -42,4 +42,4 @@ cp -r config/* ~/.config/
 
 ---
 
-I also goon to [Pulchra Fellini](https://zenless-zone-zero.fandom.com/wiki/Pulchra_Fellini) BTW ✌️ ✌️ 💔 🥀
+And I goon to [Pulchra Fellini](https://zenless-zone-zero.fandom.com/wiki/Pulchra_Fellini) BTW ✌️ ✌️ 💔 🥀
