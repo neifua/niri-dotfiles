@@ -9,7 +9,6 @@ input {
             // rules ""
             // file "~/.config/keymap.xkb"
         }
-
         // repeat-delay 600
         // repeat-rate 25
         // track-layout "global"
@@ -86,7 +85,6 @@ input {
     // warp-mouse-to-focus
     // focus-follows-mouse max-scroll-amount="0%"
     // workspace-auto-back-and-forth
-
     // mod-key "Super"
     // mod-key-nested "Alt"
 }
@@ -107,9 +105,7 @@ output "eDP-1" {
 // ** Layouts ** //
 layout {
     gaps 11
-
     center-focused-column "never"
-
     preset-column-widths {
         proportion 0.25
         // proportion 0.33333
@@ -117,48 +113,35 @@ layout {
         // proportion 0.66667
         proportion 0.75
         proportion 1.0
-
         // fixed 1920
     }
 
     // preset-window-heights { }
     default-column-width { proportion 0.5; }
-
     focus-ring {
         off
-
         width 4
-
         active-color "#7fc8ff"
         inactive-color "#505050"
-
         // active-gradient from="#80c8ff" to="#bbddff" angle=45
         // inactive-gradient from="#505050" to="#808080" angle=45 relative-to="workspace-view"
     }
-
     border {
         // off
-
         width 3
-        active-color "#8C7C82"
-        inactive-color "#0c0d0c"
-        urgent-color "#af0a2c"
-
+        active-color "#98878D"
+        inactive-color "#0f0d15"
+        urgent-color "#e2d5d7"
         // active-gradient from="#ffbb66" to="#ffc880" angle=45 relative-to="workspace-view"
         // inactive-gradient from="#505050" to="#808080" angle=45 relative-to="workspace-view"
     }
 
     shadow {
         on
-
         draw-behind-window true
-
         softness 30
-
         spread 5
-
         offset x=0 y=5
-
         color "#0007"
     }
 
@@ -198,18 +181,16 @@ environment {
 
 // ** Cursor ** //
 cursor {
-     xcursor-theme "Bibata-Modern-Ice"
-     xcursor-size 22
-
+    xcursor-theme "Bibata-Modern-Ice"
+    xcursor-size 22
     hide-when-typing
     // hide-after-inactive-ms 1000
 }
 
 // ** Overview ** //
 overview {
-    zoom 0.7
+    zoom 0.6
     backdrop-color "#191724"
-
     workspace-shadow {
         // off
         softness 40
@@ -218,10 +199,10 @@ overview {
         color "#00000050"
     }
 }
-
-// ** Clipboard ** //
-/-clipboard {
-    disable-primary
+gestures {
+    hot-corners {
+        off
+    }
 }
 
 // ** Skip hotkey overlay ** //
@@ -233,7 +214,6 @@ hotkey-overlay {
 animations {
     // off
     // slowdown 3.0
-
     window-open {
         duration-ms 250
         curve "linear"
@@ -241,14 +221,6 @@ animations {
 }
 
 // ** Window rules ** //
-window-rule {
-    
-}
-    // ** Wezterm ** //
-window-rule {
-    match app-id=r#"^org\.wezfurlong\.wezterm$"#
-    default-column-width {}
-}
     // ** Firefox
 window-rule {
     match app-id=r#"firefox$"# title="^Picture-in-Picture$"
@@ -279,7 +251,6 @@ binds {
     Mod+L repeat=false          { spawn "~/.config/swaylock/lockscreen.sh"; }
     Mod+Return repeat=false     { spawn "~/.config/rofi/launcher/launcher.sh"; }
     Mod+Shift+E repeat=false    { spawn "~/.config/rofi/powermenu/powermenu.sh"; }
-    // Mod+T repeat=false       { spawn "bash" "-c" "notify-send hello && exec alacritty"; }
 
             // ** Audio ** //
     // XF86AudioRaiseVolume allow-when-locked=true { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "0.1+"; }

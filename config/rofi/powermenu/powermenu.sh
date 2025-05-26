@@ -65,7 +65,7 @@ run_cmd() {
 			mpc -q pause
 			systemctl suspend
 		elif [[ $1 == '--logout' ]]; then
-			if [[ "$DESKTOP_SESSION" == 'niri' ]]; then
+			if [[ "$DESKTOP_SESSION" == 'niri-session' ]]; then
 				niri msg action quit
 			fi
 		fi
