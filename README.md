@@ -8,7 +8,7 @@ This repo is my personal [niri](https://github.com/YaLTeR/niri) dotfiles. I use 
 - You might need to tweak some paths or programs depending on your system.
 
 ## Installation
-<h2> Install dependencies: </h2>
+- Install dependencies:
 
 ```
 sudo pacman -S wlroots xwayland-satellite xdg-desktop-portal-gtk xdg-desktop-portal-gnome gnome-keyring polkit-gnome nemo brightnessctl pipewire pavucontrol
@@ -17,7 +17,7 @@ sudo pacman -S wlroots xwayland-satellite xdg-desktop-portal-gtk xdg-desktop-por
 yay -S kitty swww swayidle swaync swayosd waybar swaylock-effects rofi-wayland nushell emote nemo yazi
 ```
 
-<h2> Clone repository </h2>
+- Clone repository:
 
 ```
 git clone https://github.com/neifua/niri-dotfiles.git
