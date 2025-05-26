@@ -1,5 +1,6 @@
 $env.path ++= ["~/.local/bin"]
 $env.path ++= ["~/.cargo/bin"]
+$env.path ++= ["/usr/local/bin"]
 $env.PATH = [($env.HOME + "/bin")] ++ $env.PATH
 $env.config.show_banner = false
 $env.config.buffer_editor = 'nano'
