@@ -7,13 +7,32 @@ This repo is my personal [niri](https://github.com/YaLTeR/niri) dotfiles. I use 
 - This setup is designed for my personal use, but feel free to clone and use, explore or fork.
 - You might need to tweak some paths or programs depending on your system.
 
-## Dependencies
+## Installation
+<h2> Install dependencies: </h2>
 ```
 sudo pacman -S wlroots xwayland-satellite xdg-desktop-portal-gtk xdg-desktop-portal-gnome gnome-keyring polkit-gnome nemo brightnessctl pipewire pavucontrol
 ```
 ```
 yay -S kitty swww swayidle swaync swayosd waybar swaylock-effects rofi-wayland nushell emote nemo yazi
 ```
+<h2> Clone repository </h2>
+```
+git clone https://github.com/neifua/niri-dotfiles.git
+cd niri-dotfiles
+cp -r config/* ~/.config/
+```
+
+## Simple keybinds
+|**Keybinds**|**Action**|
+|:-|:-|
+|**`Mod + C`**|**`Close Window`**|
+|**`Mod + Q`**|**`Spawn Kitty`**|
+|**`Mod + E`**|**`Spawn Nemo`**|
+|**`Mod + Period`**|**`Spawn Emote`**|
+|**`Mod + L`**|**`Spawn Swaylock`**|
+|**`Mod + Enter`**|**`Spawn App Launcher`**|
+|**`Mod + Shift + E`**|**`Spawn Powermenu`**|
+
 ## Screenshot
 ![Screenshot from 2025-05-26 11-03-46](https://github.com/user-attachments/assets/625b76dc-552c-41ef-9b07-3095eb95c62b)
 
