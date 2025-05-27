@@ -25,6 +25,15 @@ cd niri-dotfiles
 cp -r config/* ~/.config/
 ```
 
+- For wallpapers:
+
+```
+cp -r Wallpapers/ ~/Pictures
+```
+```
+swww img ~/Pictures/Wallpapers/<your chosen wallpaper>
+```
+
 ## Simple keybinds
 |**Keybinds**|**Action**|
 |:-|:-|
