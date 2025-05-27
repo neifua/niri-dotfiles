@@ -14,7 +14,7 @@ This repo is my personal [niri](https://github.com/YaLTeR/niri) dotfiles. I use 
 sudo pacman -S wlroots xwayland-satellite xdg-desktop-portal-gtk xdg-desktop-portal-gnome gnome-keyring polkit-gnome nemo brightnessctl pipewire pavucontrol
 ```
 ```
-yay -S kitty swww swayidle swaync swayosd waybar swaylock-effects rofi-wayland nushell emote nemo yazi
+yay -S kitty swww swayidle swaync swayosd waybar swaylock-effects rofi-wayland nushell emote nemo yazi vivid
 ```
 
 - Clone repository:
