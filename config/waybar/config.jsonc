@@ -96,11 +96,5 @@
 
     "clock": {
     "format": "{:%OI:%OM %p  ──  %d/%m/%Y}"
-    },
-
-    "custom/logout": {
-        "format": "󰍃 ",
-        // "on-click": "~/.config/rofi/powermenu/powermenu.sh"
-        "on-click": "niri msg action quit"
     }
 }
