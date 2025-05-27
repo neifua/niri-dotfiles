@@ -14,3 +14,4 @@ $env.QT_IM_MODULE  = "fcitx"
 $env.XMODIFIERS    = "@im=fcitx"
 $env.INPUT_METHOD  = "fcitx"
 $env.SDL_IM_MODULE = "fcitx"
+$env.LS_COLORS = (vivid generate rose-pine)
