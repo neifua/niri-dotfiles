@@ -1,44 +1,288 @@
 "$schema" = 'https://starship.rs/config-schema.json'
 
 palette = "neifua"
+add_newline = false
+
+continuation_prompt = "[▸▹ ](dimmed white)"
+
+format = """
+$shell\
+$singularity\
+$kubernetes\
+$directory\
+$vcsh\
+$fossil_branch\
+$git_branch\
+$git_commit\
+$git_state\
+$git_status\
+$git_metrics\
+$hg_branch\
+$pijul_channel\
+$docker_context\
+$c\
+$cpp\
+$cmake\
+$cobol\
+$daml\
+$dart\
+$deno\
+$dotnet\
+$elixir\
+$elm\
+$erlang\
+$fennel\
+$golang\
+$guix_shell\
+$haskell\
+$haxe\
+$helm\
+$java\
+$julia\
+$kotlin\
+$gradle\
+$lua\
+$nim\
+$nodejs\
+$nix_shell\
+$ocaml\
+$opa\
+$perl\
+$php\
+$pulumi\
+$purescript\
+$python\
+$raku\
+$rlang\
+$red\
+$ruby\
+$rust\
+$scala\
+$solidity\
+$swift\
+$terraform\
+$vlang\
+$vagrant\
+$zig\
+$buf\
+$conda\
+$pixi\
+$meson\
+$spack\
+$aws\
+$gcloud\
+$openstack\
+$azure\
+$crystal\
+$package\
+(\n)
+$time\
+$username\
+$character\
+"""
+
+[username]
+show_always = true
+style_user = "#B19DA2"
+style_root = "#9CCFD8"
+format = '[─ $user ─ ]($style)'
+disabled = false
 
 [character]
-success_symbol = "[[;neifua](#6F9D88) ❯](#c4cbc1)"
-error_symbol = "[[;neifua](#6d203d) ❯](#c4cbc1)"
-vimcmd_symbol = "[;neifua ❮](subtext1)"
+success_symbol = "[λ](#a5cdb3)"
+error_symbol = "[ƒ](#da2618)"
+vimcmd_symbol = "[⮜](subtext1)"
+format = '\[$symbol\] '
 
-[git_branch]
-style = "bold mauve"
+[time]
+disabled = false
+format = '[\[$time\]]($style) '
+time_format = '%H:%M'
+style = "#e2d5d7"
 
-[directory]
-truncation_length = 4
-style = "bold lavender"
+[shell]
+format = "[$indicator]($style) "
+nu_indicator = '[＞](#4D9A06)'
+unknown_indicator = ' '
+disabled = false
+
+[[battery.display]]
+threshold = 10
+style = 'bold red'
+
+[singularity]
+format = '[📦 \[$env\]]($style) '
 
 [palettes.neifua]
-background = "#0c0d0c"
-text = "#c4cbc1"
-subtext1 = "#898e87"
-subtext0 = "#7D7870"
-overlay2 = "#8D9C70"
-overlay1 = "#6B8A6D"
-overlay0 = "#72853C"
-surface2 = "#6F9D88"
-surface1 = "#526E5D"
-surface0 = "#7D7870"
-base = "#0c0d0c"
-mantle = "#1a1b1a"
-crust = "#131513"
-rosewater = "#8D9C70"
-flamingo = "#72853C"
-pink = "#9c708d"
-mauve = "#7D708C"
-red = "#8c4e4e"
-maroon = "#7c3f3f"
-peach = "#a0723c"
-yellow = "#c4cbc1"
-green = "#6B8A6D"
-teal = "#6F9D88"
-sky = "#6CA6A6"
-sapphire = "#5CA5A5"
-blue = "#5D7EA0"
-lavender = "#9DAAC4"
+background = "0f0d15"
+text = "e2d5d7"
+subtext1 = "C9B2B6"
+subtext0 = "B7A3A8"
+overlay2 = "B19DA2"
+overlay1 = "A7949A"
+overlay0 = "98878D"
+surface2 = "9e9596"
+surface1 = "8C7C82"
+surface0 = "98878D"
+base = "0f0d15"
+mantle = "8C7C82"
+crust = "0f0d15"
+rosewater = "C9B2B6"
+flamingo = "B19DA2"
+pink = "B7A3A8"
+mauve = "98878D"
+red = "8C7C82"
+maroon = "8C7C82"
+peach = "A7949A"
+yellow = "e2d5d7"
+green = "9e9596"
+teal = "9e9596"
+sky = "C9B2B6"
+sapphire = "B19DA2"
+blue = "98878D"
+lavender = "C9B2B6"
+
+[aws]
+symbol = " "
+
+[buf]
+symbol = " "
+
+[bun]
+symbol = " "
+
+[c]
+symbol = " "
+
+[cpp]
+symbol = " "
+
+[cmake]
+symbol = " "
+
+[conda]
+symbol = "🅒 "
+
+[crystal]
+symbol = " "
+
+[dart]
+symbol = " "
+
+[deno]
+symbol = " "
+
+[directory]
+read_only = " 󰌾"
+
+[docker_context]
+symbol = " "
+
+[elixir]
+symbol = " "
+
+[elm]
+symbol = " "
+
+[fennel]
+symbol = " "
+
+[fossil_branch]
+symbol = " "
+
+[gcloud]
+symbol = "  "
+
+[git_branch]
+symbol = " "
+
+[git_commit]
+tag_symbol = '  '
+
+[golang]
+symbol = " "
+
+[guix_shell]
+symbol = " "
+
+[haskell]
+symbol = " "
+
+[haxe]
+symbol = " "
+
+[hg_branch]
+symbol = " "
+
+[hostname]
+ssh_symbol = " "
+
+[java]
+symbol = " "
+
+[julia]
+symbol = " "
+
+[kotlin]
+symbol = " "
+
+[lua]
+symbol = " "
+
+[memory_usage]
+symbol = "󰍛 "
+
+[meson]
+symbol = "󰔷 "
+
+[nim]
+symbol = "󰆥 "
+
+[nix_shell]
+symbol = " "
+
+[nodejs]
+symbol = " "
+
+[ocaml]
+symbol = " "
+
+[package]
+format = 'ver [$symbol$version]($style) '
+symbol = "󰏗 "
+
+[perl]
+symbol = " "
+
+[php]
+symbol = " "
+
+[pijul_channel]
+symbol = " "
+
+[pixi]
+symbol = "󰏗 "
+
+[python]
+symbol = " "
+
+[rlang]
+symbol = "󰟔 "
+
+[ruby]
+symbol = " "
+
+[rust]
+symbol = "󱘗 "
+
+[scala]
+symbol = " "
+
+[swift]
+symbol = " "
+
+[zig]
+symbol = " "
+
+[gradle]
+symbol = " "
