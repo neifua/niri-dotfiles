@@ -1,9 +1,6 @@
 "$schema" = 'https://starship.rs/config-schema.json'
 
-palette = "neifua"
 add_newline = false
-
-continuation_prompt = "[▸▹ ](dimmed white)"
 
 format = """
 $shell\
@@ -89,7 +86,7 @@ format = '[─ $user ─ ]($style)'
 disabled = false
 
 [character]
-success_symbol = "[λ](#a5cdb3)"
+success_symbol = '[λ](#a5cdb3)'
 error_symbol = "[ƒ](#da2618)"
 vimcmd_symbol = "[⮜](subtext1)"
 format = '\[$symbol\] '
@@ -113,34 +110,15 @@ style = 'bold red'
 [singularity]
 format = '[📦 \[$env\]]($style) '
 
-[palettes.neifua]
-background = "0f0d15"
-text = "e2d5d7"
-subtext1 = "C9B2B6"
-subtext0 = "B7A3A8"
-overlay2 = "B19DA2"
-overlay1 = "A7949A"
-overlay0 = "98878D"
-surface2 = "9e9596"
-surface1 = "8C7C82"
-surface0 = "98878D"
-base = "0f0d15"
-mantle = "8C7C82"
-crust = "0f0d15"
-rosewater = "C9B2B6"
-flamingo = "B19DA2"
-pink = "B7A3A8"
-mauve = "98878D"
-red = "8C7C82"
-maroon = "8C7C82"
-peach = "A7949A"
-yellow = "e2d5d7"
-green = "9e9596"
-teal = "9e9596"
-sky = "C9B2B6"
-sapphire = "B19DA2"
-blue = "98878D"
-lavender = "C9B2B6"
+[git_branch]
+symbol = " "
+style = "#bc36a3"
+format = "on [$symbol$branch(:$remote_branch)]($style) "
+
+[git_commit]
+tag_symbol = '  '
+style = "#c6256a"
+format = '[\($hash$tag\)]($style) '
 
 [aws]
 symbol = " "
@@ -193,12 +171,6 @@ symbol = " "
 [gcloud]
 symbol = "  "
 
-[git_branch]
-symbol = " "
-
-[git_commit]
-tag_symbol = '  '
-
 [golang]
 symbol = " "
 
@@ -213,9 +185,6 @@ symbol = " "
 
 [hg_branch]
 symbol = " "
-
-[hostname]
-ssh_symbol = " "
 
 [java]
 symbol = " "
