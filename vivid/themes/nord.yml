@@ -1,0 +1,161 @@
+# Nord dircolors theme: https://github.com/nordtheme/dircolors
+# Three exceptions from reference implementation:
+#  1. Directory file type and directories with special permissions use nord10
+#     instead of nord9 to stand out better.
+#  2. Where there is a background colour, the foreground of nord4 is replaced by
+#     nord5 to make the text more legible.
+#  3. The media/document file types don't all use nord14. These can be
+#     customised according to personal preference and desired granularity.
+# Reference documentation: https://www.nordtheme.com/docs/colors-and-palettes
+
+colors:   # Nord Alacritty theme mapping: https://github.com/nordtheme/alacritty
+  nord0:  '2e3440'  # background
+  nord1:  '3b4252'  # black
+  nord2:  '434c5e'  # selection
+  nord3:  '4c566a'  # brightblack
+  nord4:  'd8dee9'  # foreground
+  nord5:  'e5e9f0'  # white
+  nord6:  'eceff4'  # brightwhite
+  nord7:  '8fbcbb'  # brightcyan
+  nord8:  '88c0d0'  # cyan
+  nord9:  '81a1c1'  # blue
+  nord10: '5e81ac'  # darkblue
+  nord11: 'bf616a'  # red
+  nord12: 'd08770'  # orange
+  nord13: 'ebcb8b'  # yellow
+  nord14: 'a3be8c'  # green
+  nord15: 'b48ead'  # magenta
+
+  dim-foreground: 'a5abb6'
+
+core:
+  normal_text:
+    foreground: dim-foreground
+
+  reset_to_normal:
+    background: nord0
+    foreground: nord4
+    font-style: regular
+
+# File Types
+
+  regular_file:
+    foreground: nord4
+
+  directory:
+    foreground: nord10  # nord9
+    font-style: bold
+
+  multi_hard_link:
+    foreground: nord8
+    font-style: underline
+
+  symlink:
+    foreground: nord8
+
+  broken_symlink:
+    foreground: nord11
+
+  missing_symlink_target:
+    # NOTE: Also used for readline completion shell builtin and function suffix
+    background: nord11
+    foreground: nord5  # nord4
+    font-style: bold
+
+  fifo:
+    foreground: nord7
+    font-style:
+      - bold
+      - underline
+
+  character_device:
+    foreground: nord13
+
+  block_device:
+    foreground: nord13
+    font-style: underline
+
+  door:
+    foreground: nord13
+    font-style: italic
+
+  socket:
+    # NOTE: Swapped with block device as used for readline completion prefix
+    foreground: nord13
+    font-style: bold
+
+# File Permissions
+
+  executable_file:
+    foreground: nord7
+    font-style: bold
+
+  file_with_capability:
+    foreground: nord4
+    font-style:
+      - bold
+      - underline
+
+  setuid:
+    foreground: nord4
+    font-style:
+      - bold
+      - underline
+
+  setgid:
+    foreground: nord4
+    font-style:
+      - bold
+      - underline
+
+  sticky:
+    background: nord10  # nord9
+    foreground: nord5   # nord4
+    font-style: underline
+
+  other_writable:
+    background: nord10  # nord9
+    foreground: nord5   # nord4
+    font-style: bold
+
+  sticky_other_writable:
+    background: nord10  # nord9
+    foreground: nord5   # nord4
+    font-style:
+      - bold
+      - underline
+
+# Document Types
+
+archives:
+  foreground: nord5
+  font-style: bold
+
+executable:
+  foreground: nord7
+  font-style: bold
+
+markup:
+  foreground: nord6
+  web:
+    foreground: nord4
+
+media:
+  foreground: nord15
+  fonts:
+    foreground: nord4
+
+office:
+  foreground: nord14
+
+programming:
+  source:
+    foreground: nord7
+  tooling:
+    foreground: nord4
+
+text:
+  foreground: nord4
+
+unimportant:
+  foreground: nord3

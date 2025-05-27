@@ -1,0 +1,100 @@
+{
+	"margin-top": 12,
+	"margin-right": 15,
+	"margin-left": 10,
+    "modules-left": [
+        "niri/workspaces"
+    ],
+    "modules-center": [
+    ],
+    "modules-right": [
+        "network",
+        "custom/seperator1",
+        "cpu",
+        "custom/seperator2",
+        "memory",
+        "custom/seperator1",
+        "pulseaudio",
+        "custom/seperator2",
+        "backlight",
+        "custom/seperator2",
+        "battery",
+        "custom/seperator1",
+        "clock",
+        "custom/seperator1",
+        "tray"
+    ],
+
+	"custom/seperator1": {
+		"format": "  |  "
+	},
+
+    "custom/seperator2": {
+        "format": "  ──  "
+    },
+
+    "niri/workspaces": {
+	"format": "{icon}",
+	"format-icons": {
+		"active": "●",
+		"default": "○"
+	    }
+    },
+
+    "network": {
+        "format-wifi" : "WLA",
+        "format-ethernet": "ETH",
+        "format-disconnected" : "OFF",
+	    "on-click": "nmcli device status | grep wlan0 | grep -q connected && nmcli device disconnect wlan0 || nmcli device connect wlan0",
+	    "interval": 1,
+	    "nospacing": 1
+    },
+
+    "backlight": {
+        "format-icons": ["", "", "", "", "", "", "", "", ""],
+        "format": "{percent}% of BRT"
+    },
+
+	"pulseaudio": {
+		"format": "{volume}% of VOL",
+		"format-muted": "MUTED",
+        "format-bluetooth": "{volume}% of BLT",
+        "format-headphones": "{volume}% of HPH",
+        "on-click": "wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle"
+	},
+
+    "cpu": {
+        "interval": 1,
+        "format": "{}% of CPU",
+        "format-warning": "{}% HOT",
+        "format-critical": "{}% CRT"
+    },
+
+    "memory": {
+        "interval": 1,
+        "format": "{used:0.1f}gb of RAM",
+        "format-warning": "{used:0.1f}gb HOT",
+        "format-critical": "{used:0.1f}gb CRT"
+    },
+
+    "battery": {
+        "format": "{capacity}% of BAT",
+        "format-charging": "{capacity}% CHARGING",
+        "format-full": "{capacity}% FULL",
+        "interval": 5,
+        "states": {
+            "warning": 20,
+            "critical": 10
+        },
+        "tooltip": false
+    },
+
+    "tray": {
+        "icon-size": 16,
+        "spacing": 15
+    },
+
+    "clock": {
+    "format": "{:%OI:%OM %p  ──  %d/%m/%Y}"
+    }
+}
