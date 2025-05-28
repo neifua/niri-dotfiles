@@ -115,11 +115,6 @@ symbol = " "
 style = "#bc36a3"
 format = "on [$symbol$branch(:$remote_branch)]($style) "
 
-[git_commit]
-tag_symbol = '  '
-style = "#c6256a"
-format = '[\($hash$tag\)]($style) '
-
 [aws]
 symbol = " "
 
