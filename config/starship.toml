@@ -3,6 +3,7 @@
 add_newline = false
 
 format = """
+$time\
 $shell\
 $singularity\
 $kubernetes\
@@ -73,7 +74,6 @@ $azure\
 $crystal\
 $package\
 (\n)
-$time\
 $username\
 $character\
 """
@@ -82,7 +82,7 @@ $character\
 show_always = true
 style_user = "#B19DA2"
 style_root = "#9CCFD8"
-format = '[─ $user ─ ]($style)'
+format = '[$user ─ ]($style)'
 disabled = false
 
 [character]
@@ -94,12 +94,12 @@ format = '\[$symbol\] '
 [time]
 disabled = false
 format = '[\[$time\]]($style) '
-time_format = '%H:%M'
+time_format = '%I:%M'
 style = "#e2d5d7"
 
 [shell]
-format = "[$indicator]($style) "
-nu_indicator = '[＞](#4D9A06)'
+format = "[$indicator]($style)  "
+bash_indicator = '[bsh ](#ffffff)'
 unknown_indicator = ' '
 disabled = false
 
