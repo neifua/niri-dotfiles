@@ -47,8 +47,3 @@ swww img ~/Pictures/Wallpapers/<your chosen wallpaper>
 
 ## Screenshot
 ![image](https://github.com/user-attachments/assets/b5dfe29c-5949-4cc3-b7ab-a054cecaacfb)
-
-
----
-
-And I goon to [Pulchra Fellini](https://zenless-zone-zero.fandom.com/wiki/Pulchra_Fellini) BTW ✌️ ✌️ 💔 🥀
