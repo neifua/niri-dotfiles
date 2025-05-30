@@ -1,0 +1,13 @@
+[mgr]
+sort_by = "natural"
+sort_translit = true
+show_hidden = true
+show_symlink = true
+
+[opener]
+edit = [
+  { run = 'nvim "$@"', block = true, for = "unix" },
+]
+open = [
+	{ run = 'xdg-open "$@"', desc = "Open" },
+]
