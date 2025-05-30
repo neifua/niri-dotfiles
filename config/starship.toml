@@ -1,6 +1,6 @@
 "$schema" = 'https://starship.rs/config-schema.json'
 
-add_newline = false
+add_newline = true
 
 format = """$username\
 $shell\
@@ -88,19 +88,19 @@ style = "bg:overlay fg:gold"
 symbol = " "
 
 [git_branch]
-format = "[](fg:overlay)[ $symbol $branch ]($style)[](fg:overlay) "
+format = "[](fg:overlay)[ $symbol$branch ]($style)[](fg:overlay) "
 style = "bg:overlay fg:foam"
-symbol = ""
+symbol = " "
 
 [hg_branch]
-format = "[](fg:overlay)[ $symbol $branch ]($style)[](fg:overlay) "
+format = "[](fg:overlay)[ $symbol$branch ]($style)[](fg:overlay) "
 style = "bg:overlay fg:foam"
-symbol = ""
+symbol = " "
 
 [fossil_branch]
-format = "[](fg:overlay)[ $symbol $branch ]($style)[](fg:overlay) "
+format = "[](fg:overlay)[ $symbol$branch ]($style)[](fg:overlay) "
 style = "bg:overlay fg:foam"
-symbol = ""
+symbol = " "
 
 [git_status]
 disabled = false
@@ -126,7 +126,7 @@ zsh_indicator = "󰬡 zsh"
 fish_indicator= "󰈺 fsh"
 powershell_indicator = " psh"
 ion_indicator = " ion"
-elvish_indicator = "󰬌 esh"
+elvish_indicator = "λ esh"
 tcsh_indicator = "󰬛 tsh"
 xonsh_indicator = "󰬟 xsh"
 cmd_indicator = " cmd"
