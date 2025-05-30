@@ -2,9 +2,7 @@
 let term = (try { $env.TERM } catch { "" })
 echo $"TERM is ($term)"
 if ($term == "xterm-kitty") {
-    catnap
-} else {
-    echo "Not Kitty terminal, skipping catnap"
+    fastfetch
 }
 
 # plugins
