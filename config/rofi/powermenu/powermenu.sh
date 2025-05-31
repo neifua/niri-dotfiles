@@ -10,36 +10,40 @@ dir="$HOME/.config/rofi/powermenu"
 theme='style'
 
 # CMDs
-uptime="`uptime -p | sed -e 's/up //g'`"
+user="$(whoami)"
 host=`hostname`
+uptime="`uptime -p | sed -e 's/up //g'`"
+distro="$(. /etc/os-release && echo "$NAME")"
+today="$(date +"%B %d, %Y")"
+time="$(date +"%I:%M %p")"
 
 # Options
-shutdown='Off'
+shutdown='Poweroff'
 reboot='Reboot'
 lock='Lock'
 suspend='Sleep'
-logout='Logout'
+# logout='Logout'
 yes='Y'
 no='N'
 
 # Rofi CMD
 rofi_cmd() {
 	rofi -dmenu \
-		-p "$host" \
-		-mesg "Uptime: $uptime" \
+		-p "$user" \
+		-mesg "$time   ──   $today" \
 		-theme ${dir}/${theme}.rasi
 }
 
-# Confirmation CMD
+Confirmation CMD
 confirm_cmd() {
-	rofi -theme-str 'window {location: center; anchor: center; fullscreen: false; width: 250px;}' \
+	rofi -theme-str 'window {location: center; anchor: center; fullscreen: false; width: 200px;}' \
 		-theme-str 'mainbox {children: [ "message", "listview" ];}' \
 		-theme-str 'listview {columns: 2; lines: 1;}' \
 		-theme-str 'element-text {horizontal-align: 0.5;}' \
 		-theme-str 'textbox {horizontal-align: 0.5;}' \
 		-dmenu \
 		-p 'Confirmation' \
-		-mesg 'Are you Sure?' \
+		-mesg 'Confirm?' \
 		-theme ${dir}/${theme}.rasi
 }
 
@@ -50,7 +54,7 @@ confirm_exit() {
 
 # Pass variables to rofi dmenu
 run_rofi() {
-	echo -e "$lock\n$suspend\n$logout\n$reboot\n$shutdown" | rofi_cmd
+	echo -e "$lock\n$suspend\n$reboot\n$shutdown" | rofi_cmd
 }
 
 # Execute Command
@@ -64,11 +68,11 @@ run_cmd() {
 		elif [[ $1 == '--suspend' ]]; then
 			mpc -q pause
 			systemctl suspend
-		elif [[ $1 == '--logout' ]]; then
-			if [[ "$DESKTOP_SESSION" == 'niri-session' ]]; then
-				niri msg action quit
-			fi
-		fi
+		# elif [[ $1 == '--logout' ]]; then
+		# 	if [[ "$XDG_CURRENT_DESKTOP" == 'niri' ]]; then
+		# 		niri msg action quit
+		# 	fi
+    fi
 	else
 		exit 0
 	fi
@@ -84,14 +88,14 @@ case ${chosen} in
 		run_cmd --reboot
         ;;
     $lock)
-		if [[ -x '/sbin/swaylock' ]]; then
-			~/.config/swaylock/lockscreen.sh
+		if [[ -x '/usr/bin/swaylock' ]]; then
+			$HOME/.config/swaylock/lockscreen.sh
 		fi
         ;;
     $suspend)
 		run_cmd --suspend
         ;;
-    $logout)
-		run_cmd --logout
-        ;;
+  #   $logout)
+		# run_cmd --logout
+  #       ;;
 esac

@@ -1,100 +1,113 @@
 {
-	"margin-top": 12,
-	"margin-right": 15,
-	"margin-left": 10,
+	"margin-top": 10,
+	"margin-right": 12,
+	"margin-left": 20,
     "modules-left": [
-        "niri/workspaces"
+      "custom/icon",
+      "custom/seperator1",
+      "cpu",
+      "custom/seperator3",
+      "memory",
+      "custom/seperator1",
+      "tray"
     ],
     "modules-center": [
     ],
     "modules-right": [
-        "network",
-        "custom/seperator1",
-        "cpu",
-        "custom/seperator2",
-        "memory",
-        "custom/seperator1",
-        "pulseaudio",
-        "custom/seperator2",
-        "backlight",
-        "custom/seperator2",
-        "battery",
-        "custom/seperator1",
-        "clock",
-        "custom/seperator1",
-        "tray"
+      "network",
+      "custom/seperator1",
+      "pulseaudio",
+      "custom/seperator3",
+      "backlight",
+      "custom/seperator3",
+      "battery",
+      "custom/seperator1",
+      "clock"
     ],
 
-	"custom/seperator1": {
-		"format": "  |  "
-	},
+    "custom/seperator1": {
+      "format": "  |  "
+    },
 
     "custom/seperator2": {
-        "format": "  ──  "
+      "format": "  ──  "
     },
 
-    "niri/workspaces": {
-	"format": "{icon}",
-	"format-icons": {
-		"active": "●",
-		"default": "○"
-	    }
+    "custom/seperator3": {
+      "format": "  ·  "
     },
+
+    "custom/icon": {
+      "format": "",
+      "on-click": "sh ~/.config/rofi/powermenu/powermenu.sh"
+    },
+
+    // "niri/workspaces": {
+    //   "format": "{icon}",
+    //   "format-icons": {
+    //     "active": "●",
+    //     "default": "○"
+    //   }
+    // },
 
     "network": {
-        "format-wifi" : "WLA",
-        "format-ethernet": "ETH",
-        "format-disconnected" : "OFF",
+      "format-wifi" : "WLA",
+      "format-ethernet": "ETH",
+      "format-disconnected" : "OFF",
 	    "on-click": "nmcli device status | grep wlan0 | grep -q connected && nmcli device disconnect wlan0 || nmcli device connect wlan0",
 	    "interval": 1,
-	    "nospacing": 1
+      "tooltip": false
     },
 
     "backlight": {
-        "format-icons": ["", "", "", "", "", "", "", "", ""],
-        "format": "{percent}% of BRT"
+      "format": "BRT {percent}%",
+      "tooltip": false
     },
 
-	"pulseaudio": {
-		"format": "{volume}% of VOL",
-		"format-muted": "MUTED",
-        "format-bluetooth": "{volume}% of BLT",
-        "format-headphones": "{volume}% of HPH",
-        "on-click": "wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle"
-	},
+    "pulseaudio": {
+		  "format": "VOL {volume}%",
+		  "format-muted": "MUTED",
+      "format-bluetooth": "BLT {volume}%",
+      "on-click": "wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle",
+      "tooltip": false
+    },
 
     "cpu": {
-        "interval": 1,
-        "format": "{}% of CPU",
-        "format-warning": "{}% HOT",
-        "format-critical": "{}% CRT"
+      "interval": 1,
+      "format": "CPU {}%",
+      "format-warning": "HOT {}%",
+      "format-critical": "CRT {}%",
+      "tooltip": false
     },
 
     "memory": {
-        "interval": 1,
-        "format": "{used:0.1f}gb of RAM",
-        "format-warning": "{used:0.1f}gb HOT",
-        "format-critical": "{used:0.1f}gb CRT"
+      "interval": 1,
+      "format": "RAM {used:0.1f}gb",
+      "format-warning": "HOT {used:0.1f}gb",
+      "format-critical": "CRT {used:0.1f}gb",
+      "tooltip": false
     },
 
     "battery": {
-        "format": "{capacity}% of BAT",
-        "format-charging": "{capacity}% CHARGING",
-        "format-full": "{capacity}% FULL",
-        "interval": 5,
-        "states": {
-            "warning": 20,
-            "critical": 10
+      "format": "BAT {capacity}%",
+      "format-charging": "CHR {capacity}%",
+      "format-full": "MAX {capacity}%",
+      "interval": 1,
+      "states": {
+        "warning": 20,
+        "critical": 10
         },
         "tooltip": false
     },
 
     "tray": {
-        "icon-size": 16,
-        "spacing": 15
+      "icon-size": 16,
+      "spacing": 15,
+      "tooltip": false
     },
 
     "clock": {
-    "format": "{:%OI:%OM %p  ──  %d/%m/%Y}"
+      "format": "{:%a / %B %d, %Y  ──  %OI:%OM %p}",
+      "tooltip": false
     }
 }

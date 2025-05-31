@@ -1,10 +1,11 @@
 * {
-    font-family: "JetBrainsMono Nerd Font";
-    font-size: 15px;
+  font-family: "JetbrainsMono Nerd Font";
+  font-weight: bold;
+  font-size: 15px;
 }
 
 window#waybar {
-    background-color: transparent;
+  background-color: transparent;
 }
 
 button:hover {
@@ -18,16 +19,24 @@ button:hover {
 }
 
 #workspaces button {
-    padding: 0 7px;
-    background-color: transparent;
-    color: #e2d5d7;
+  padding: 0 7px;
+  background-color: transparent;
+  color: #e0def4;
 }
 
 #workspaces button.focused {
-	color: #e2d5d7;
-	font-weight: bold;
+  color: #e0def4;
+  font-weight: bold;
 }
 
-#clock, #tray, #cpu, #memory, #battery, #pulseaudio, #backlight, #custom-logout, #network {
-	color: #e2d5d7;
+#clock, #tray, #cpu, #memory, #battery, #pulseaudio, #backlight, #custom-logout, #network, #custom-icon {
+  color: #e0def4;
+}
+
+#custom-icon {
+  padding-right: 7px;
+}
+
+#clock {
+  padding-right: 7px;
 }

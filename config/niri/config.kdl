@@ -93,7 +93,7 @@ input {
 output "eDP-1" {
     // off
     mode "1920x1080"
-    scale 1.0
+    scale 1.1
     transform "normal"
     // position x=1280 y=0
     variable-refresh-rate // on-demand=true
@@ -128,10 +128,10 @@ layout {
     }
     border {
         // off
-        width 3
-        active-color "#98878D"
+        width 2
+        active-color "#c4a7e7"
         inactive-color "#191724"
-        urgent-color "#e2d5d7"
+        urgent-color "#eb6f92"
         // active-gradient from="#ffbb66" to="#ffc880" angle=45 relative-to="workspace-view"
         // inactive-gradient from="#505050" to="#808080" angle=45 relative-to="workspace-view"
     }
@@ -139,9 +139,9 @@ layout {
     shadow {
         on
         draw-behind-window true
-        softness 30
-        spread 5
-        offset x=0 y=5
+        softness 40
+        spread 1
+        offset x=0 y=0
         color "#0007"
     }
 
@@ -151,6 +151,8 @@ layout {
         top 0
         bottom 0
     }
+
+    background-color "transparent"
 }
 
 // ** Spawn at startup ** //
@@ -194,9 +196,9 @@ overview {
     workspace-shadow {
         // off
         softness 40
-        spread 10
-        offset x=0 y=10
-        color "#00000050"
+        spread 1
+        offset x=0 y=0
+        color "#0007"
     }
 }
 gestures {
@@ -239,6 +241,18 @@ window-rule {
     clip-to-geometry true
     tiled-state true
     baba-is-float false
+}
+
+layer-rule {
+  match namespace="rofi"
+  shadow {
+    on
+    draw-behind-window false
+    softness 40
+    spread 1
+    offset x=0 y=0
+    color "#0007"
+    }
 }
 
 binds {
