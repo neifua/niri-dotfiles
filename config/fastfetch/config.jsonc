@@ -39,7 +39,7 @@
         {
             "key": "│ {#cyan}\udb80\udced  date      {#magenta}│",
             "type": "datetime",
-            "format": "{weekday-short}, {day-in-month}/{month}/{year}",
+            "format": "{weekday-short} / {month-name-short} {day-in-month}, {year}",
             "keyColor": "magenta"
         },
         {
