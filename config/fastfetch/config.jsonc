@@ -39,7 +39,7 @@
         {
             "key": "│ {#cyan}\udb80\udced  date      {#magenta}│",
             "type": "datetime",
-            "format": "{weekday-short} ─ {day-in-month}╱{month}╱{year}",
+            "format": "{weekday-short}, {day-in-month}/{month}/{year}",
             "keyColor": "magenta"
         },
         {
@@ -51,6 +51,7 @@
         {
             "key": "│ {#red}\ueb29  pkgs      {#magenta}│",
             "type": "packages",
+            "format": "{all}",
             "keyColor": "magenta"
         },
         {
