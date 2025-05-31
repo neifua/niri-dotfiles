@@ -37,5 +37,7 @@ cp -r Wallpapers/ ~/Pictures/
 |**`Mod + Enter`**|**`Spawn Apps Launcher`**|
 |**`Mod + Shift + E`**|**`Spawn Powermenu`**|
 
-## Screenshot
-![image](https://github.com/user-attachments/assets/b5dfe29c-5949-4cc3-b7ab-a054cecaacfb)
+## Screenshots
+![Screenshot from 2025-05-31 21-46-22](https://github.com/user-attachments/assets/ead7414f-f0dc-41be-9d74-6bec00542df5)
+![Screenshot from 2025-05-31 21-49-24](https://github.com/user-attachments/assets/2c32fc66-61f1-4eb1-b02f-302df17f53f8)
+![Screenshot from 2025-05-31 21-54-10](https://github.com/user-attachments/assets/f5a844fa-a6b4-420d-8ed2-38701ca29778)
