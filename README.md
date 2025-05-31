@@ -8,30 +8,22 @@ This repo is my personal [niri](https://github.com/YaLTeR/niri) dotfiles. I use 
 - You might need to tweak some paths or programs depending on your system.
 
 ## Installation
-- Install dependencies:
+- Dependencies:
 
 ```
 sudo pacman -S wlroots xwayland-satellite xdg-desktop-portal-gtk xdg-desktop-portal-gnome gnome-keyring polkit-gnome nemo brightnessctl pipewire pavucontrol
 ```
 ```
-yay -S kitty swww swayidle swaync swayosd waybar swaylock-effects rofi-wayland nushell emote nemo yazi vivid
+yay -S kitty swww swayidle swayosd dunst waybar swaylock-effects rofi-wayland nushell emote nemo yazi vivid
 ```
 
-- Clone repository:
+- Cloning:
 
 ```
 git clone https://github.com/neifua/niri-dotfiles.git
 cd niri-dotfiles
 cp -r config/* ~/.config/
-```
-
-- For wallpapers:
-
-```
-cp -r Wallpapers/ ~/Pictures
-```
-```
-swww img ~/Pictures/Wallpapers/<your chosen wallpaper>
+cp -r Wallpapers/ ~/Pictures/
 ```
 
 ## Simple keybinds
@@ -39,10 +31,10 @@ swww img ~/Pictures/Wallpapers/<your chosen wallpaper>
 |:-|:-|
 |**`Mod + C`**|**`Close Window`**|
 |**`Mod + Q`**|**`Spawn Kitty`**|
-|**`Mod + E`**|**`Spawn Nemo`**|
+|**`Mod + E`**|**`Spawn Yazi`**|
 |**`Mod + Period`**|**`Spawn Emote`**|
 |**`Mod + L`**|**`Spawn Swaylock`**|
-|**`Mod + Enter`**|**`Spawn App Launcher`**|
+|**`Mod + Enter`**|**`Spawn Apps Launcher`**|
 |**`Mod + Shift + E`**|**`Spawn Powermenu`**|
 
 ## Screenshot
