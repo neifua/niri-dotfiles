@@ -38,7 +38,7 @@ input {
     mouse {
         // off
         // natural-scroll
-        accel-speed 0.1
+        accel-speed 0.3
         accel-profile "flat"
         // scroll-factor 1.0
         // scroll-method "no-scroll"
@@ -104,7 +104,7 @@ output "eDP-1" {
 
 // ** Layouts ** //
 layout {
-    gaps 11
+    gaps 8
     center-focused-column "never"
     preset-column-widths {
         proportion 0.25
@@ -130,7 +130,7 @@ layout {
         // off
         width 3
         active-color "#98878D"
-        inactive-color "#0f0d15"
+        inactive-color "#191724"
         urgent-color "#e2d5d7"
         // active-gradient from="#ffbb66" to="#ffc880" angle=45 relative-to="workspace-view"
         // inactive-gradient from="#505050" to="#808080" angle=45 relative-to="workspace-view"
@@ -246,7 +246,7 @@ binds {
 
             // ** Apps launcher ** //
     Mod+Q repeat=false          { spawn "kitty"; }
-    Mod+E repeat=false          { spawn "nemo"; }
+    Mod+E repeat=false          { spawn "kitty" "yazi"; }
     Mod+Period repeat=false     { spawn "emote"; }
     Mod+L repeat=false          { spawn "~/.config/swaylock/lockscreen.sh"; }
     Mod+Return repeat=false     { spawn "~/.config/rofi/launcher/launcher.sh"; }
@@ -266,7 +266,7 @@ binds {
     XF86MonBrightnessDown   { spawn "sh" "-c" "exec swayosd-client --brightness -5"; }
 
             // ** Overview ** //
-    Mod+G repeat=false { toggle-overview; }
+    Mod+Z repeat=false { toggle-overview; }
 
             // ** Window management ** //
     Mod+C { close-window; }
