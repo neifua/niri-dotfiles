@@ -7,6 +7,7 @@ $shell\
 $directory\
 $git_branch\
 $hg_branch\
+fossil_branch\
 $git_status\
 $fill\
 $package\
@@ -105,7 +106,7 @@ symbol = " "
 [git_status]
 disabled = false
 style = "bg:overlay fg:love"
-format = "[](fg:overlay)([$all_status$ahead_behind]($style))[](fg:overlay)"
+format = "[](fg:overlay)([$all_status$ahead_behind]($style))[](fg:overlay) "
 up_to_date = '[ ✓ ](bg:overlay fg:iris)'
 untracked = '[?\($count\)](bg:overlay fg:gold)'
 stashed = '[\$](bg:overlay fg:iris)'
@@ -126,9 +127,6 @@ zsh_indicator = "󰬡 zsh"
 fish_indicator= "󰈺 fsh"
 powershell_indicator = " psh"
 ion_indicator = " ion"
-elvish_indicator = "λ esh"
-tcsh_indicator = "󰬛 tsh"
-xonsh_indicator = "󰬟 xsh"
 cmd_indicator = " cmd"
 nu_indicator = "⮞ nu"
 unknown_indicator = ' unknown'
