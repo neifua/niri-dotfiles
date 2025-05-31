@@ -11,7 +11,7 @@ This repo is my personal [niri](https://github.com/YaLTeR/niri) dotfiles. I use 
 - Dependencies:
 
 ```
-sudo pacman -S wlroots xwayland-satellite xdg-desktop-portal-gtk xdg-desktop-portal-gnome gnome-keyring polkit-gnome nemo brightnessctl pipewire pavucontrol
+sudo pacman -S wlroots xwayland-satellite xdg-desktop-portal-gtk xdg-desktop-portal-gnome gnome-keyring polkit-gnome brightnessctl pipewire pavucontrol
 ```
 ```
 yay -S kitty swww swayidle swayosd dunst waybar swaylock-effects rofi-wayland nushell emote nemo yazi vivid
