@@ -204,12 +204,6 @@ window-rule {
   match app-id="vesktop"
   default-column-width { proportion 1.0; }
 }
-    // ** Roblox ** //
-window-rule {
-  match title="Sober"
-  default-column-width { proportion 1.0; }
-  variable-refresh-rate true
-}
     // ** Layer rules  ** //
 layer-rule {
   match namespace="rofi"
