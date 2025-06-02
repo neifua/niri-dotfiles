@@ -1,8 +1,7 @@
 # Remove welcome message
 $env.config.show_banner = false
 
-# Env paths
-$env.path ++= ["$HOME/bin"]
+# Envs
 $env.path ++= ["/sbin"]
 $env.path ++= ["/bin"]
 $env.path ++= ["/usr/local/sbin"]
