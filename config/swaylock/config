@@ -1,0 +1,61 @@
+image=$HOME/Pictures/Wallpapers/rose-pine.jpg
+
+font=CodeNewRoman Nerd Font
+font-size=50
+
+effect-blur= 5x1
+fade-in= 0.4
+
+clock
+timestr= %I:%M %p
+datestr= %b %d, %Y
+
+ignore-empty-password
+disable-caps-lock-text
+show-failed-attempts
+daemonize
+
+no-unlock-indicator
+indicator
+indicator-radius=90
+indicator-thickness=14
+indicator-idle-visible
+
+# Background color
+color=#191724
+
+# Layout text colors
+layout-bg-color=#00000000
+layout-border-color=#00000000
+layout-text-color=#e0def4
+
+# Text color
+text-color=#e0def4
+text-clear-color=#e0def4
+text-ver-color=#e0def4
+text-wrong-color=#e0def4
+
+# Highlight segments
+bs-hl-color=#19172466
+key-hl-color=#19172466
+
+# Highlight segments separator
+separator-color=#00000000
+
+# Inside of the indicator
+inside-color=#191724
+inside-clear-color=#191724
+inside-ver-color=#191724
+inside-wrong-color=#191724
+
+# Line between the inside and ring
+line-color=#31748f11
+line-clear-color=#9ccfd811
+line-ver-color=#c4a7e711
+line-wrong-color=#eb6f9211
+
+# Indicator ring
+ring-color=#c4a7e7aa
+ring-clear-color=#f6c177aa
+ring-ver-color=#9ccfd8aa
+ring-wrong-color=#eb6f92aa
