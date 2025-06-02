@@ -31,7 +31,15 @@ dofile(vim.g.base46_cache .. "statusline")
 
 require "options"
 require "autocmds"
+require('livepreview.config').set()
 
 vim.schedule(function()
   require "mappings"
 end)
+
+vim.o.autowriteall = true
+vim.api.nvim_create_autocmd({ 'InsertLeavePre', 'TextChanged', 'TextChangedP' }, {
+    pattern = '*', callback = function()
+        vim.cmd('silent! write')
+    end
+})

@@ -30,6 +30,16 @@ return {
   lazy = false, 
   },
 
+  {
+  'brianhuster/live-preview.nvim',
+  dependencies = {
+      'nvim-telescope/telescope.nvim', -- or 'ibhagwan/fzf-lua', or 'echasnovski/mini.pick'
+  },
+  config = function()
+    require("live-preview").setup()
+  end,
+  },
+
   -- test new blink
   { import = "nvchad.blink.lazyspec" },
 

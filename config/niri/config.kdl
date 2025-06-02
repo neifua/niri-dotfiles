@@ -108,12 +108,14 @@ layout {
 // ** Spawn at startup ** //
 spawn-at-startup "dbus-update-activation-environment" "--systemd" "--all"
 spawn-at-startup "xwayland-satellite"
-spawn-at-startup "swww-daemon"
+// spawn-at-startup "swww-daemon"
+spawn-at-startup "swaybg" "-i" "/home/neifua/Pictures/Wallpapers/rose-pine.jpg"
 // spawn-at-startup "eww" "daemon"
 spawn-at-startup "waybar"
 spawn-at-startup "blueman-applet"
 spawn-at-startup "dunst"
 spawn-at-startup "sh" "/home/neifua/.config/swayidle/autolock.sh"
+spawn-at-startup "fcitx5"
 spawn-at-startup "exec swayosd-server"
 spawn-at-startup "sh" "-c" "systemctl enable --now swayosd-libinput-backend.service"
 spawn-at-startup "sh" "-c" "exec swayosd-server"
@@ -170,10 +172,10 @@ hotkey-overlay {
 // ** Animations ** //
 animations {
     // off
-    // slowdown 3.0
+    slowdown 1.0
     window-open {
-        duration-ms 250
-        curve "linear"
+        duration-ms 200
+        curve "ease-out-cubic"
     }
 }
 
@@ -182,10 +184,6 @@ animations {
 window-rule {
     match app-id=r#"firefox$"# title="^Picture-in-Picture$"
     open-floating true
-}
-window-rule {
-  match app-id="firefox"
-  default-column-width { proportion 0.75; }
 }
     // ** Screenshot block out ** //
 window-rule {
@@ -212,7 +210,6 @@ window-rule {
   default-column-width { proportion 1.0; }
   variable-refresh-rate true
 }
-
     // ** Layer rules  ** //
 layer-rule {
   match namespace="rofi"
@@ -233,7 +230,7 @@ binds {
     Mod+Q repeat=false          { spawn "kitty"; }
     Mod+E repeat=false          { spawn "kitty" "yazi"; }
     Mod+Period repeat=false     { spawn "emote"; }
-    Mod+L repeat=false          { spawn "~/.config/swaylock/lockscreen.sh"; }
+    Mod+L repeat=false          { spawn "swaylock"; }
     Mod+Return repeat=false     { spawn "~/.config/rofi/launcher/launcher.sh"; }
     Mod+Shift+E repeat=false    { spawn "~/.config/rofi/powermenu/powermenu.sh"; }
 
