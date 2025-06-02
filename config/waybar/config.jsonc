@@ -1,45 +1,42 @@
 {
 	"margin-top": 10,
-	"margin-right": 12,
+	"margin-right": 20,
 	"margin-left": 20,
     "modules-left": [
       "custom/icon",
       "custom/seperator1",
       "cpu",
-      "custom/seperator3",
-      "memory",
-      "custom/seperator1",
-      "tray"
+      "custom/seperator2",
+      "memory"
     ],
     "modules-center": [
     ],
     "modules-right": [
-      "network",
+      "clock",
       "custom/seperator1",
       "pulseaudio",
-      "custom/seperator3",
+      "custom/seperator2",
       "backlight",
-      "custom/seperator3",
+      "custom/seperator2",
       "battery",
       "custom/seperator1",
-      "clock"
+      "tray"
     ],
 
     "custom/seperator1": {
-      "format": "  |  "
+      "format": "  |  ",
+      "tooltip": false
     },
 
     "custom/seperator2": {
-      "format": "  ──  "
-    },
-
-    "custom/seperator3": {
-      "format": "  ·  "
+      "format": "  ·  ",
+      "tooltip": false
     },
 
     "custom/icon": {
       "format": "",
-      "on-click": "sh ~/.config/rofi/powermenu/powermenu.sh"
+      "on-click": "sh $HOME/.config/rofi/powermenu/powermenu.sh",
+      "tooltip": false
     },
 
     // "niri/workspaces": {
@@ -55,7 +52,7 @@
       "format-ethernet": "ETH",
       "format-disconnected" : "OFF",
 	    "on-click": "nmcli device status | grep wlan0 | grep -q connected && nmcli device disconnect wlan0 || nmcli device connect wlan0",
-	    "interval": 1,
+      "interval": 1,
       "tooltip": false
     },
 

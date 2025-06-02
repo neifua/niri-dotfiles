@@ -1,155 +1,105 @@
 // ** Input ** //
 input {
-    keyboard {
-        xkb {
-            layout "us"
-            // variant "colemak_dh_ortho"
-            // options "compose:ralt,ctrl:nocaps"
-            // model ""
-            // rules ""
-            // file "~/.config/keymap.xkb"
-        }
-        // repeat-delay 600
-        // repeat-rate 25
-        // track-layout "global"
-        // numlock
+  keyboard {
+    xkb {
+      layout "us"
+    }
+    // numlock
     }
 
     touchpad {
-        // off
-        tap
-        // dwt
-        // dwtp
-        // drag false
-        // drag-lock
-        natural-scroll
-        accel-speed 0.4
-        accel-profile "flat"
-        // scroll-factor 1.0
-        scroll-method "two-finger"
-        // scroll-button 273
-        // tap-button-map "left-middle-right"
-        // click-method "clickfinger"
-        // left-handed
-        disabled-on-external-mouse
-        // middle-emulation
+      // off
+      tap
+      // dwt
+      // dwtp
+      // drag false
+      // drag-lock
+      natural-scroll
+      accel-speed 0.2
+      accel-profile "adaptive"
+      // scroll-factor 1.0
+      scroll-method "two-finger"
+      // scroll-button 273
+      // tap-button-map "left-middle-right"
+      // click-method "clickfinger"
+      // left-handed
+      disabled-on-external-mouse
+      // middle-emulation
     }
 
     mouse {
-        // off
-        // natural-scroll
-        accel-speed 0.3
-        accel-profile "flat"
-        // scroll-factor 1.0
-        // scroll-method "no-scroll"
-        // scroll-button 273
-        // left-handed
-        // middle-emulation
+      // off
+      // natural-scroll
+      accel-speed 0.2
+      accel-profile "flat"
+      // scroll-factor 1.0
+      // scroll-method "no-scroll"
+      // scroll-button 273
+      // left-handed
+      // middle-emulation
     }
-
-    trackpoint {
-        // off
-        // natural-scroll
-        // accel-speed 0.2
-        // accel-profile "flat"
-        // scroll-method "on-button-down"
-        // scroll-button 273
-        // left-handed
-        // middle-emulation
-    }
-
-    trackball {
-        // off
-        // natural-scroll
-        // accel-speed 0.2
-        // accel-profile "flat"
-        // scroll-method "on-button-down"
-        // scroll-button 273
-        // left-handed
-        // middle-emulation
-    }
-
-    tablet {
-        off
-        // map-to-output "eDP-1"
-        // left-handed
-        // calibration-matrix 1.0 0.0 0.0 0.0 1.0 0.0
-    }
-
-    touch {
-        off
-        // map-to-output "eDP-1"
-    }
-
-    // disable-power-key-handling
-    // warp-mouse-to-focus
-    // focus-follows-mouse max-scroll-amount="0%"
-    // workspace-auto-back-and-forth
-    // mod-key "Super"
-    // mod-key-nested "Alt"
 }
 
 // ** Output ** //
 output "eDP-1" {
-    // off
-    mode "1920x1080"
-    scale 1.1
-    transform "normal"
-    // position x=1280 y=0
-    variable-refresh-rate // on-demand=true
-    // focus-at-startup
-    // background-color "#003300"
-    // backdrop-color "#001100"
+  // off
+  mode "1920x1080"
+  scale 1.1
+  transform "normal"
+  // position x=1280 y=0
+  variable-refresh-rate // on-demand=true
 }
 
 // ** Layouts ** //
 layout {
-    gaps 12
-    center-focused-column "never"
-    preset-column-widths {
-        proportion 0.25
-        // proportion 0.33333
-        proportion 0.5
-        // proportion 0.66667
-        proportion 0.75
-        proportion 1.0
-        // fixed 1920
-    }
+  gaps 12
+  center-focused-column "never"
+  preset-column-widths {
+    proportion 0.25
+    // proportion 0.33333
+    proportion 0.5
+    // proportion 0.66667
+    proportion 0.75
+    proportion 1.0
 
+    // fixed 1920
+    }
+    
     // preset-window-heights { }
     default-column-width { proportion 0.5; }
     focus-ring {
-        off
-        width 4
-        active-color "#7fc8ff"
-        inactive-color "#505050"
-        // active-gradient from="#80c8ff" to="#bbddff" angle=45
-        // inactive-gradient from="#505050" to="#808080" angle=45 relative-to="workspace-view"
-    }
-    border {
-        // off
-        width 2
-        active-color "#c4a7e7"
-        inactive-color "#191724"
-        urgent-color "#eb6f92"
-        // active-gradient from="#ffbb66" to="#ffc880" angle=45 relative-to="workspace-view"
-        // inactive-gradient from="#505050" to="#808080" angle=45 relative-to="workspace-view"
+      off
+      // width 4
+      // active-color "#7fc8ff"
+      // inactive-color "#505050"
+      // active-gradient from="#80c8ff" to="#bbddff" angle=45
+      // inactive-gradient from="#505050" to="#808080" angle=45 relative-to="workspace-view"
     }
 
+    border {
+      // off
+      width 2
+      active-color "#c4a7e7"
+      inactive-color "#191724"
+      urgent-color "#eb6f92"
+      // active-gradient from="#ffbb66" to="#ffc880" angle=45 relative-to="workspace-view"
+      // inactive-gradient from="#505050" to="#808080" angle=45 relative-to="workspace-view"
+    }
+    
     shadow {
-        on
-        draw-behind-window true
-        softness 40
-        spread 1
-        offset x=0 y=0
-        color "#0007"
+      on
+      draw-behind-window true
+      softness 40
+      spread 1
+      offset x=0 y=0
+      color "#0007"
     }
 
     struts {
-        left 0
-        right 0
-        top 0
-        bottom 0
+      left 0
+      right 0
+      top 0
+      bottom 0
     }
 
     background-color "transparent"
@@ -161,7 +111,8 @@ spawn-at-startup "xwayland-satellite"
 spawn-at-startup "swww-daemon"
 // spawn-at-startup "eww" "daemon"
 spawn-at-startup "waybar"
-spawn-at-startup "swaync"
+spawn-at-startup "blueman-applet"
+spawn-at-startup "dunst"
 spawn-at-startup "sh" "/home/neifua/.config/swayidle/autolock.sh"
 spawn-at-startup "exec swayosd-server"
 spawn-at-startup "sh" "-c" "systemctl enable --now swayosd-libinput-backend.service"
@@ -176,31 +127,35 @@ screenshot-path "~/Pictures/Screenshots/Screenshot from %Y-%m-%d %H-%M-%S.png"
 
 // ** Env ** //
 environment {
-    QT_QPA_PLATFORM "wayland"
-    DISPLAY ":0"
-    ELECTRON_OZONE_PLATFORM_HINT "auto"
+  DISPLAY ":0"
+  QT_QPA_PLATFORM "wayland"
+  ELECTRON_OZONE_PLATFORM_HINT "auto"
+  XDG_CURRENT_DESKTOP "Niri"
+  GTK_THEME "Rosepine-Dark"
+  MY_TERMINAL "kitty"
 }
 
 // ** Cursor ** //
 cursor {
-    xcursor-theme "Bibata-Modern-Ice"
-    xcursor-size 22
-    hide-when-typing
-    // hide-after-inactive-ms 1000
+  xcursor-theme "Bibata-Modern-Ice"
+  xcursor-size 22
+  hide-when-typing
+  // hide-after-inactive-ms 1000
 }
 
 // ** Overview ** //
 overview {
-    zoom 0.6
-    backdrop-color "#191724"
-    workspace-shadow {
-        // off
-        softness 40
-        spread 1
-        offset x=0 y=0
-        color "#0007"
-    }
+  zoom 0.6
+  backdrop-color "#191724"
+  workspace-shadow {
+    // off
+    softness 40
+    spread 1
+    offset x=0 y=0
+    color "#0007"
+  }
 }
+
 gestures {
     hot-corners {
         off
@@ -228,21 +183,37 @@ window-rule {
     match app-id=r#"firefox$"# title="^Picture-in-Picture$"
     open-floating true
 }
+window-rule {
+  match app-id="firefox"
+  default-column-width { proportion 0.75; }
+}
     // ** Screenshot block out ** //
 window-rule {
-    match app-id=r#"^org\.keepassxc\.KeePassXC$"#
-    match app-id=r#"^org\.gnome\.World\.Secrets$"#
-    block-out-from "screen-capture"
+  match app-id=r#"^org\.keepassxc\.KeePassXC$"#
+  match app-id=r#"^org\.gnome\.World\.Secrets$"#
+  block-out-from "screen-capture"
     // block-out-from "screencast"
 }
     // ** Corners ** //
 window-rule {
-    geometry-corner-radius 0
-    clip-to-geometry true
-    tiled-state true
-    baba-is-float false
+  geometry-corner-radius 0
+  clip-to-geometry true
+  tiled-state true
+  baba-is-float false
+}
+    // ** Discord ** //
+window-rule {
+  match app-id="vesktop"
+  default-column-width { proportion 1.0; }
+}
+    // ** Roblox ** //
+window-rule {
+  match title="Sober"
+  default-column-width { proportion 1.0; }
+  variable-refresh-rate true
 }
 
+    // ** Layer rules  ** //
 layer-rule {
   match namespace="rofi"
   shadow {
@@ -427,4 +398,9 @@ binds {
 
             // ** Monitors ** //
     Mod+Shift+P repeat=false { power-off-monitors; }
+}
+
+debug {
+  preview-render "screencast"
+  disable-cursor-plane
 }
