@@ -38,6 +38,7 @@ cp -r Wallpapers/ ~/Pictures/
 |**`Mod + Shift + E`**|**`Spawn Powermenu`**|
 
 ## Screenshots
-![Screenshot from 2025-05-31 21-46-22](https://github.com/user-attachments/assets/ead7414f-f0dc-41be-9d74-6bec00542df5)
-![Screenshot from 2025-05-31 21-49-24](https://github.com/user-attachments/assets/2c32fc66-61f1-4eb1-b02f-302df17f53f8)
-![Screenshot from 2025-05-31 21-54-10](https://github.com/user-attachments/assets/f5a844fa-a6b4-420d-8ed2-38701ca29778)
+![Screenshot from 2025-06-04 00-29-32](https://github.com/user-attachments/assets/7339b10d-9def-4d8a-8208-6f0132b7ae6c)
+
+![Screenshot from 2025-06-04 00-31-43](https://github.com/user-attachments/assets/8ea0d065-6d1a-43b5-bced-14bb278b0c5a)
+
