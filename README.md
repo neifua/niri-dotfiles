@@ -22,7 +22,7 @@ yay -S kitty swww swayidle swayosd dunst waybar swaylock-effects rofi-wayland nu
 ```
 git clone https://github.com/neifua/niri-dotfiles.git
 cd niri-dotfiles
-cp -r config/* ~/.config/
+cp -r .config/* ~/.config/
 cp -r Wallpapers/ ~/Pictures/
 ```
 
