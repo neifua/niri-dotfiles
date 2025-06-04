@@ -214,10 +214,10 @@ layer-rule {
   match namespace="waybar"
   shadow {
     on
-    draw-behind-window false
+    draw-behind-window true
     softness 30
-    spread 2
-    offset x=0 y=5
+    spread 1
+    offset x=0 y=0
     color "#0007"
     }
 }
