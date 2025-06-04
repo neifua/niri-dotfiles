@@ -30,7 +30,7 @@ input {
     mouse {
       // off
       // natural-scroll
-      accel-speed 0.2
+      accel-speed 0.1
       accel-profile "flat"
       // scroll-factor 1.0
       // scroll-method "no-scroll"
@@ -219,9 +219,9 @@ layer-rule {
   shadow {
     on
     draw-behind-window false
-    softness 40
-    spread 1
-    offset x=0 y=0
+    softness 30
+    spread 2
+    offset x=0 y=5
     color "#0007"
     }
 }
