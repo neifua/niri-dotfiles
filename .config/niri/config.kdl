@@ -206,7 +206,7 @@ window-rule {
     // ** Spotify ** //
 window-rule {
   match app-id="Spotify"
-  default-column-width { proportion 1.0; }
+  default-column-width { proportion 0.8; }
 }
     // ** Layer rules  ** //
 layer-rule {
