@@ -34,20 +34,6 @@
       "tooltip": false
     },
 
-    // "custom/icon": {
-    //   "format": "",
-    //   "on-click": "sh $HOME/.config/rofi/powermenu/powermenu.sh",
-    //   "tooltip": false
-    // },
-
-    // "niri/workspaces": {
-    //   "format": "{icon}",
-    //   "format-icons": {
-    //     "active": "●",
-    //     "default": "○"
-    //   }
-    // },
-
     "network": {
       "format-wifi" : "WLA",
       "format-ethernet": "ETH",
