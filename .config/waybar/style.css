@@ -18,7 +18,7 @@ button:hover {
 	font-weight: bold;
 }
 
-#clock, #tray, #cpu, #memory, #battery, #pulseaudio, #backlight, #custom-logout, #network, #custom-icon, #cava {
+#clock, #tray, #cpu, #memory, #battery, #pulseaudio, #backlight, #custom-logout, #network, #custom-icon {
   color: #e0def4;
   margin-top: 8px;
   margin-bottom: 7px;
