@@ -178,6 +178,7 @@ animations {
     // ** Open files ** //
 window-rule {
   match app-id="Xdg-desktop-portal-gtk" title="Open Files"
+  match app-id="xdg-desktop-portal-gtk" title="Open Folder"
   default-column-width { proportion 0.5; }
   open-floating true
 }
@@ -212,7 +213,7 @@ window-rule {
     // ** Spotify ** //
 window-rule {
   match app-id="Spotify"
-  default-column-width { proportion 0.8; }
+  default-column-width { proportion 0.75; }
 }
 
     // ** Layer rules  ** //
@@ -222,7 +223,7 @@ layer-rule {
   shadow {
     on
     draw-behind-window true
-    softness 30
+    softness 40
     spread 1
     offset x=0 y=0
     color "#0007"
