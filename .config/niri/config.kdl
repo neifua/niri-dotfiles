@@ -47,7 +47,7 @@ output "eDP-1" {
   scale 1.1
   transform "normal"
   // position x=1280 y=0
-  variable-refresh-rate // on-demand=true
+  variable-refresh-rate on-demand=true
 }
 
 // ** Layouts ** //
@@ -206,7 +206,7 @@ window-rule {
     // ** Spotify ** //
 window-rule {
   match app-id="Spotify"
-  default-column-width { proportion 0.7; }
+  default-column-width { proportion 1.0; }
 }
     // ** Layer rules  ** //
 layer-rule {
