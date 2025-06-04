@@ -175,7 +175,13 @@ animations {
 }
 
 // ** Window rules ** //
-    // ** Firefox
+    // ** Open files ** //
+window-rule {
+  match app-id="Xdg-desktop-portal-gtk" title="Open Files"
+  default-column-width { proportion 0.5; }
+  open-floating true
+}
+    // ** Firefox ** //
 window-rule {
   match app-id=r#"firefox$"# title="^Picture-in-Picture$"
   open-floating true
@@ -208,6 +214,7 @@ window-rule {
   match app-id="Spotify"
   default-column-width { proportion 0.8; }
 }
+
     // ** Layer rules  ** //
 layer-rule {
   match namespace="rofi"
