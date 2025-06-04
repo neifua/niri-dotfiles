@@ -171,11 +171,7 @@ hotkey-overlay {
 // ** Animations ** //
 animations {
     // off
-    slowdown 1.0
-    window-open {
-        duration-ms 200
-        curve "ease-out-cubic"
-    }
+    slowdown 0.6
 }
 
 // ** Window rules ** //
