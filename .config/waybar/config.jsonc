@@ -4,13 +4,13 @@
 	"margin-right": 0,
 	"margin-left": 0,
     "modules-left": [
-      "custom/icon",
-      "custom/seperator1",
       "clock"
     ],
     "modules-center": [
     ],
     "modules-right": [
+      "network",
+      "custom/seperator1",
       "cpu",
       "custom/seperator2",
       "memory",
@@ -34,11 +34,11 @@
       "tooltip": false
     },
 
-    "custom/icon": {
-      "format": "",
-      "on-click": "sh $HOME/.config/rofi/powermenu/powermenu.sh",
-      "tooltip": false
-    },
+    // "custom/icon": {
+    //   "format": "",
+    //   "on-click": "sh $HOME/.config/rofi/powermenu/powermenu.sh",
+    //   "tooltip": false
+    // },
 
     // "niri/workspaces": {
     //   "format": "{icon}",
@@ -106,7 +106,7 @@
     },
 
     "clock": {
-      "format": "{:%a / %B %d, %Y  ──  %OI:%OM %p}",
+      "format": "{:%a / %B %d, %Y  |  %OI:%OM %p}",
       "tooltip": false
     }
 }
