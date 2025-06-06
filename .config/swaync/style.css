@@ -1,0 +1,316 @@
+@define-color cc-bg rgba(48, 52, 70, 0.95);
+@define-color noti-border-color rgba(238, 190, 190, 0.15);
+@define-color noti-bg rgb(48, 52, 70);
+@define-color noti-bg-darker rgb(35, 38, 52);
+@define-color noti-bg-hover rgb(98, 104, 128);
+@define-color noti-bg-focus rgba(81, 87, 109, 0.6);
+@define-color noti-close-bg rgba(234, 153, 156, 0.1);
+@define-color noti-close-bg-hover rgba(234, 153, 156, 0.15);
+@define-color text-color rgb(198, 208, 245);
+@define-color text-color-disabled rgb(165, 173, 206);
+@define-color bg-selected rgb(65, 69, 89);
+
+* {
+    font-family: FiraCode Nerd Font;
+    font-weight: bolder;
+}
+
+
+
+.control-center .notification-row:focus,
+.control-center .notification-row:hover {
+    opacity: 1;
+    background: #191724
+}
+
+.notification-row {
+    outline: none;
+}
+
+.notification {
+    border-radius: 0px;
+    margin: 0px;
+    padding: 0;
+    border: 2px solid #c4a7e7
+}
+
+.notification-content {
+    background: transparent;
+    padding: 4px;
+    border-radius: 0px
+}
+
+.close-button {
+    background: #191724;
+    color: #e0def4;
+    text-shadow: none;
+    padding: 0;
+    border-radius: 0px;
+    margin-top: 15px;
+    margin-right: 10px;
+    box-shadow: none;
+    border: none;
+    min-width: 12px;
+    min-height: 12px
+}
+
+.close-button:hover {
+    box-shadow: none;
+    background: #eb6f92;
+    transition: all .15s ease-in-out;
+    border: none
+}
+
+.notification-default-action,
+.notification-action {
+    font-family: JetbrainsMono Nerd Font;
+    padding: 4px;
+    margin: 0;
+    box-shadow: none;
+    background: #191724;
+    border: none;
+    color: @text-color;
+    transition: all .15s ease-in-out
+}
+
+.notification-default-action:hover,
+.notification-action:hover {
+    -gtk-icon-effect: none;
+    background: #0f0d15
+}
+
+.notification-default-action {
+    border-radius: 0px
+}
+
+.notification-default-action:not(:only-child) {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0
+}
+
+.notification-action {
+    border-radius: 0;
+    border-top: none;
+    border-right: none
+}
+
+.notification-action:first-child {
+    border-bottom-left-radius: 0px;
+    background: #191724
+}
+
+.notification-action:last-child {
+    border-bottom-right-radius: 0px;
+    background: #191724
+}
+
+.inline-reply {
+    margin-top: 12px
+}
+
+.inline-reply-entry {
+    background: #191724;
+    color: #e0def4;
+    caret-color: #e0def4;
+    border: 1px solid #c4a7e7;
+    border-radius: 0px
+}
+
+.inline-reply-button {
+    margin-left: 4px;
+    background: #191724;
+    border: 1px solid #c4a7e7;
+    border-radius: 0px;
+    color: @text-color
+}
+
+.inline-reply-button:disabled {
+    background: initial;
+    color: #e0def4;
+    border: 1px solid transparent
+}
+
+.inline-reply-button:hover {
+    background: #eb6f92
+}
+
+.body-image {
+    margin-top: 6px;
+    background-color: #fff;
+    border-radius: 0px
+}
+
+.summary {
+    font-size: 16px;
+    font-weight: 500;
+    background: transparent;
+    color: #e0def4;
+    text-shadow: none
+}
+
+.time {
+    font-size: 14px;
+    font-weight: 700;
+    background: transparent;
+    color: #e0def4;
+    text-shadow: none;
+    margin: 15px
+}
+
+.body {
+    font-size: 14px;
+    font-weight: 400;
+    background: transparent;
+    color: #e0def4;
+    text-shadow: none
+}
+
+.control-center {
+    background: #191724;
+    border: 3px solid #c4a7e7;
+    border-radius: 0px;
+}
+
+.control-center-list {
+    background: transparent
+}
+
+.control-center-list-placeholder {
+    opacity: 0
+}
+
+.floating-notifications {
+    background: transparent
+}
+
+.blank-window {
+    background: alpha(black, 0.2)
+}
+
+.widget-title {
+    color: #e0def4;
+    margin: 12px;
+    font-size: 1.3rem
+}
+
+.widget-title>button {
+    font-size: initial;
+    color: #e0def4;
+    text-shadow: none;
+    background: #191724;
+    border: 2px solid #c4a7e7;
+    box-shadow: none;
+    border-radius: 0px
+}
+
+.widget-title>button:hover {
+    background: #0f0d15 
+}
+
+.widget-dnd {
+    color: #e0def4;
+    margin: 12px;
+    font-size: 1.2rem
+}
+
+.widget-dnd>switch {
+    font-size: initial;
+    border-radius: 0px;
+    background: #191724;
+    border: 2px solid #c4a7e7;
+    box-shadow: none
+}
+
+.widget-dnd>switch:checked {
+    background: #c4a7e7
+}
+
+.widget-dnd>switch slider {
+    background: #e0def4;
+    border-radius: 0px
+}
+
+.widget-label {
+    margin: 10px;
+}
+
+.widget-label>label {
+    font-size: 1.5rem;
+    color: #e0def4;
+}
+
+.widget-mpris {
+    color: #e0def4;
+    background: #191724;
+    padding: 5px 5px 5px 5px;
+    margin: 10px;
+    border-radius: 0px;
+}
+
+.widget-mpris-player {
+    padding: 5px 5px;
+    margin: 10px;
+    border-radius: 0px;
+}
+
+.widget-mpris-title {
+    font-weight: 600;
+    font-size: 1.25rem
+}
+
+.widget-mpris-subtitle {
+    font-size: 1.1rem
+}
+
+.widget-mpris>box>button {
+  border-radius: 0px; /* Removed rounded corners */
+}
+
+.widget-volume {
+    background: #191724;
+    padding: 8px;
+    margin: 10px;
+    border-radius: 0px;
+    font-size: x-large;
+    color: #e0def4
+}
+
+.widget-volume>box>button {
+    background: transparent;
+    border: none
+}
+
+.per-app-volume {
+    background-color: #191724;
+    padding: 4px 8px 8px;
+    margin: 0 8px 8px;
+    border-radius: 0px
+}
+
+.widget-backlight {
+    background: #191724;
+    padding: 8px;
+    margin: 10px;
+    border-radius: 0px;
+    font-size: x-large;
+    color: #e0def4
+}
+
+.widget-inhibitors {
+    margin: 8px;
+    font-size: 1.5rem
+}
+
+.widget-inhibitors>button {
+    font-size: initial;
+    color: #e0def4;
+    text-shadow: none;
+    background: #191724;
+    border: 2px solid #c4a7e7;
+    box-shadow: none;
+    border-radius: 0px
+}
+
+.widget-inhibitors>button:hover {
+    background: #191724
+}

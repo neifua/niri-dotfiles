@@ -1,0 +1,97 @@
+{
+  "custom/seperator1": {
+      "format": "  |  ",
+      "tooltip": false
+    },
+
+    "custom/seperator2": {
+      "format": "  ·  ",
+      "tooltip": false
+    },
+
+    "network": {
+      "format-wifi" : "<span foreground='#c4a7e7'>WLA</span>",
+      "format-ethernet": "<span foreground='#c4a7e7'>ETH</span>",
+      "format-disconnected" : "<span foreground='#6e6a86'>OFF</span>",
+	    "on-click": "nm-connection-editor",
+      "on-click-right": "nmcli device status | grep wlan0 | grep -q connected && nmcli device disconnect wlan0 || nmcli device connect wlan0",
+      "interval": 1,
+      "tooltip": false
+    },
+
+    "backlight": {
+      "format": "<span foreground='#ebbcba'>BRT: </span>{percent}%",
+      "tooltip": false
+    },
+
+    "pulseaudio": {
+		  "format": "<span foreground='#ebbcba'>VOL: </span>{volume}%",
+		  "format-muted": "<span foreground='#6e6a86'>MUTED</span>",
+      "format-bluetooth": "<span foreground='#ebbcba'>BLT: </span>{volume}%",
+      "on-click-right": "wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle",
+      "on-click": "pavucontrol",
+      "tooltip": false
+    },
+
+    "cpu": {
+      "interval": 1,
+      "format": "<span foreground='#31748f'>CPU: </span>{}%",
+      "format-warning": "<span foreground='#f6c177'>HOT: </span>{}%",
+      "format-critical": "<span foreground='#eb6f92'>CRT: </span>{}%",
+      "tooltip": false
+    },
+
+    "memory": {
+      "interval": 1,
+      "format": "<span foreground='#31748f'>RAM: </span>{used:0.1f}gb",
+      "format-warning": "<span foreground='#f6c177'>HOT: </span>{used:0.1f}gb",
+      "format-critical": "<span foreground='#eb6f92'>CRT: </span>{used:0.1f}gb",
+      "tooltip": false
+    },
+
+    "battery": {
+      "format": "<span foreground='#c4a7e7'>BAT: </span>{capacity}%",
+      "format-charging": "<span foreground='#f6c177'>CHR: </span>{capacity}%",
+      "format-full": "<span foreground='#9ccfd8'>MAX: </span>{capacity}%",
+      "interval": 1,
+      "states": {
+        "warning": 20,
+        "critical": 10
+        },
+        "tooltip": false
+    },
+
+    "clock": {
+      "format": "{:%a / %B %d  ─  %OI:%OM %p}",
+      "tooltip": false
+    },
+
+    "bluetooth": {
+      "format": "<span foreground= '#6e6a86'>BLT: </span>OFF",
+      "format-disabled": "",
+      "format-connected-battery": "<span foreground='#9ccfd8'>BLT: </span>ON ({device_battery_percentage})",
+      "on-click": "blueman-manager"
+    },
+
+    "custom/swaync": {
+    "tooltip": true,
+    "format": "{icon}: {text}",
+    "format-icons": {
+      "notification": "<span foreground='#eb6f92'>NOTI</span>",
+      "none": "<span foreground='#6e6a86'>NOTI</span>",
+      "dnd-notification": "<span foreground='#eb6f92'>DND</span>",
+      "dnd-none": "<span foreground='#6e6a86'>DND</span>",
+      "inhibited-notification": "<span foreground='#eb6f92'>IHB</span>",
+      "inhibited-none": "<span foreground='#6e6a86'>IHB</span>",
+      "dnd-inhibited-notification":
+        "<span foreground='#eb6f92'>DND-IHB</span>",
+      "dnd-inhibited-none": "<span foreground='#6e6a86'>DND-IHB</span>"
+    },
+    "return-type": "json",
+    "exec-if": "which swaync-client",
+    "exec": "swaync-client -swb",
+    "on-click": "sleep 0.1 && swaync-client -t -sw",
+    "on-click-right": "swaync-client -d -sw",
+    "escape": false
+  },
+}

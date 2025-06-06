@@ -1,7 +1,7 @@
 * {
   font-family: "JetbrainsMono Nerd Font";
   font-weight: bold;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 window#waybar {
@@ -18,16 +18,16 @@ button:hover {
 	font-weight: bold;
 }
 
-#clock, #tray, #cpu, #memory, #battery, #pulseaudio, #backlight, #custom-logout, #network, #custom-icon {
+#clock, #tray, #cpu, #memory, #battery, #pulseaudio, #backlight, #custom-logout, #network, #custom-icon, #custom-swaync, #bluetooth {
   color: #e0def4;
-  margin-top: 8px;
-  margin-bottom: 7px;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
 
 #clock {
-  margin-left: 20px;
+  padding-left: 2.2em;
 }
 
-#tray {
-  margin-right: 9px;
+#custom-swaync {
+  padding-right: 1.2em;
 }

@@ -113,11 +113,12 @@ spawn-at-startup "xwayland-satellite"
 // spawn-at-startup "eww" "daemon"
 spawn-at-startup "waybar"
 spawn-at-startup "blueman-applet"
-spawn-at-startup "dunst"
+spawn-at-startup "swaync"
+// spawn-at-startup "dunst"
 spawn-at-startup "sh" "/home/neifua/.config/swayidle/autolock.sh"
 spawn-at-startup "fcitx5"
 spawn-at-startup "exec swayosd-server"
-spawn-at-startup "sh" "-c" "systemctl enable --now swayosd-libinput-backend.service"
+spawn-at-startup "sudo systemctl enable --now swayosd-libinput-backend.service"
 spawn-at-startup "sh" "-c" "exec swayosd-server"
 spawn-at-startup "/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1"
 
@@ -242,13 +243,15 @@ binds {
     Mod+Shift+E repeat=false    { spawn "~/.config/rofi/powermenu/powermenu.sh"; }
 
             // ** Audio ** //
-    // XF86AudioRaiseVolume allow-when-locked=true { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "0.1+"; }
-    // XF86AudioLowerVolume allow-when-locked=true { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "0.1-"; }
-    // XF86AudioMute        allow-when-locked=true { spawn "wpctl" "set-mute" "@DEFAULT_AUDIO_SINK@" "toggle"; }
-    // XF86AudioMicMute     allow-when-locked=true { spawn "wpctl" "set-mute" "@DEFAULT_AUDIO_SOURCE@" "toggle"; }
+    // XF86AudioRaiseVolume  allow-when-locked=true { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "5%+"; }
+    // XF86AudioLowerVolume  allow-when-locked=true { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "5%-"; }
+    // XF86AudioMute         allow-when-locked=true { spawn "wpctl" "set-mute" "@DEFAULT_AUDIO_SINK@" "toggle"; }
+    // XF86AudioMicMute      allow-when-locked=true { spawn "wpctl" "set-mute" "@DEFAULT_AUDIO_SOURCE@" "toggle"; }
+    // XF86MonBrightnessUp   allow-when-locked=true { spawn "brightnessctl" "set" "+5%"; }
+    // XF86MonBrightnessDown allow-when-locked=true { spawn "brightnessctl" "set" "5%-"; }
             // ** Swayosd required ** //
-    XF86AudioRaiseVolume    { spawn "sh" "-c" "exec swayosd-client --output-volume raise --max-volume 150"; }
-    XF86AudioLowerVolume    { spawn "sh" "-c" "exec swayosd-client --output-volume lower --max-volume 150"; }
+    XF86AudioRaiseVolume    { spawn "sh" "-c" "exec swayosd-client --output-volume +1 --max-volume 153"; }
+    XF86AudioLowerVolume    { spawn "sh" "-c" "exec swayosd-client --output-volume -1 --max-volume 153"; }
     XF86AudioMute           { spawn "sh" "-c" "exec swayosd-client --output-volume mute-toggle"; }
     XF86AudioMicMute        { spawn "sh" "-c" "exec swayosd-client --input-volume mute-toggle"; }
     XF86MonBrightnessUp     { spawn "sh" "-c" "exec swayosd-client --brightness +5"; }

@@ -1,8 +1,11 @@
 {
-  "height": 20,
-	"margin-top": 0,
+  "include": "$HOME/.config/waybar/modules",
+	"ipc": true,
+  "fixed-center": true,
+  "margin-top": 0,
 	"margin-right": 0,
 	"margin-left": 0,
+  
     "modules-left": [
       "clock"
     ],
@@ -20,79 +23,9 @@
       "backlight",
       "custom/seperator2",
       "battery",
-      "custom/seperator1",
-      "tray"
-    ],
-
-    "custom/seperator1": {
-      "format": "  |  ",
-      "tooltip": false
-    },
-
-    "custom/seperator2": {
-      "format": "  ·  ",
-      "tooltip": false
-    },
-
-    "network": {
-      "format-wifi" : "WLA",
-      "format-ethernet": "ETH",
-      "format-disconnected" : "OFF",
-	    "on-click": "nmcli device status | grep wlan0 | grep -q connected && nmcli device disconnect wlan0 || nmcli device connect wlan0",
-      "interval": 1,
-      "tooltip": false
-    },
-
-    "backlight": {
-      "format": "BRT {percent}%",
-      "tooltip": false
-    },
-
-    "pulseaudio": {
-		  "format": "VOL {volume}%",
-		  "format-muted": "MUTED",
-      "format-bluetooth": "BLT {volume}%",
-      "on-click": "wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle",
-      "on-click-right": "pavucontrol",
-      "tooltip": false
-    },
-
-    "cpu": {
-      "interval": 1,
-      "format": "CPU {}%",
-      "format-warning": "HOT {}%",
-      "format-critical": "CRT {}%",
-      "tooltip": false
-    },
-
-    "memory": {
-      "interval": 1,
-      "format": "RAM {used:0.1f}gb",
-      "format-warning": "HOT {used:0.1f}gb",
-      "format-critical": "CRT {used:0.1f}gb",
-      "tooltip": false
-    },
-
-    "battery": {
-      "format": "BAT {capacity}%",
-      "format-charging": "CHR {capacity}%",
-      "format-full": "MAX {capacity}%",
-      "interval": 1,
-      "states": {
-        "warning": 20,
-        "critical": 10
-        },
-        "tooltip": false
-    },
-
-    "tray": {
-      "icon-size": 16,
-      "spacing": 15,
-      "tooltip": false
-    },
-
-    "clock": {
-      "format": "{:%a / %B %d, %Y  |  %OI:%OM %p}",
-      "tooltip": false
-    }
+      "custom/seperator2",
+      "bluetooth",
+      "custom/seperator2",
+      "custom/swaync"
+  ]
 }

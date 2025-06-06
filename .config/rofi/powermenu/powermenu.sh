@@ -30,7 +30,7 @@ no='N'
 rofi_cmd() {
 	rofi -dmenu \
 		-p "$user" \
-		-mesg "$time   ──   $today" \
+		-mesg "$time  ─  $today" \
 		-theme ${dir}/${theme}.rasi
 }
 
