@@ -13,9 +13,6 @@ This repo is my personal [niri](https://github.com/YaLTeR/niri) dotfiles. I use 
 ```
 sudo pacman -S wlroots xwayland-satellite xdg-desktop-portal-gtk gnome-keyring polkit pavucontrol kitty swayidle waybar rofi-wayland nemo
 ```
-```
-yay -S kitty swww swayidle swayosd dunst waybar swaylock-effects rofi-wayland nushell emote nemo yazi vivid
-```
 For [swayosd](https://github.com/ErikReider/SwayOSD), [swaylock-effects](https://github.com/mortie/swaylock-effects), [swaync](https://github.com/ErikReider/SwayNotificationCenter), [nushell](https://www.nushell.sh/book/installation.html), [vivid](https://github.com/sharkdp/vivid) check their github repo or website to build from source or manually add the repos and install it.
 
 - Cloning:
