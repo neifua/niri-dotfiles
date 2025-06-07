@@ -8,8 +8,8 @@ $env.path ++= ["/usr/local/sbin"]
 $env.path ++= ["/usr/local/bin"]
 $env.path ++= ["/usr/sbin"]
 $env.path ++= ["/usr/bin"]
-$env.path ++= ["$HOME/.local/bin"]
-$env.path ++= ["$HOME/.cargo/bin/"]
+$env.path ++= ["~/.local/bin"]
+$env.path ++= ["~/.cargo/bin"]
 
 # Default editor
 $env.config.buffer_editor = 'nvim'

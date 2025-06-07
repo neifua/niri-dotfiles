@@ -16,6 +16,7 @@ export PATH="$HOME/.local/bin:$PATH"
 export PATH="$HOME/.cargo/bin:$PATH"
 export PATH="/usr/local/bin:$PATH"
 export PATH="$HOME/bin:$PATH"
+export PATH="$HOME/go/bin:$PATH"
 export VISUAL=nvim
 export EDITOR={$VISUAL}
 # export LS_COLORS="$(vivid generate rose-pine)"
@@ -29,7 +30,7 @@ export EDITOR={$VISUAL}
 
 # programs
 eval "$(starship init bash)"
-eval "$(zoxide init bash)"
+# eval "$(zoxide init bash)"
 
 # yazi
 function y() {
