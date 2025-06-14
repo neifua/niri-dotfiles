@@ -52,7 +52,7 @@ output "eDP-1" {
 
 // ** Layouts ** //
 layout {
-  gaps 8
+  gaps 10
   center-focused-column "never"
   preset-column-widths {
     proportion 0.25
@@ -113,11 +113,9 @@ spawn-at-startup "waybar"
 spawn-at-startup "blueman-applet"
 spawn-at-startup "swaync"
 spawn-at-startup "sh" "/home/neifua/.config/swayidle/autolock.sh"
-spawn-at-startup "fcitx5"
-spawn-at-startup "exec swayosd-server"
-spawn-at-startup "sudo systemctl enable --now swayosd-libinput-backend.service"
+spawn-at-startup "sh" "-c" "systemctl enable --now swayosd-libinput-backend.service"
 spawn-at-startup "sh" "-c" "exec swayosd-server"
-spawn-at-startup "/usr/libexec/kf6/polkit-kde-authentication-agent-1"
+spawn-at-startup "/usr/libexec/polkit-gnome-authentication-agent-1"
 
 // ** Prefer no csd ** //
 prefer-no-csd
@@ -210,7 +208,7 @@ window-rule {
 }
     // ** Spotify ** //
 window-rule {
-  match app-id="Spotify"
+  match app-id="spotify"
   default-column-width { proportion 0.75; }
 }
 
