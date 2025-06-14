@@ -167,11 +167,11 @@ format = "[](fg:overlay)[ $symbol$version ]($style)[](fg:overlay)"
 disabled = false
 symbol = " "
 
-[cpp]
-style = "bg:overlay fg:love"
-format = "[](fg:overlay)[ $symbol$version ]($style)[](fg:overlay)"
-disabled = false
-symbol = " "
+# [cpp]
+# style = "bg:overlay fg:love"
+# format = "[](fg:overlay)[ $symbol$version ]($style)[](fg:overlay)"
+# disabled = false
+# symbol = " "
 
 [cmake]
 style = "bg:overlay fg:love"

@@ -1,5 +1,5 @@
 #!/bin/bash
 
 swayidle -w \
-  timeout 300 'swaylock' \
-  before-sleep 'swaylock'
+  timeout 300 'gtklock' \
+  before-sleep 'gtklock'

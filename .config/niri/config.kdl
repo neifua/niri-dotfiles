@@ -52,7 +52,7 @@ output "eDP-1" {
 
 // ** Layouts ** //
 layout {
-  gaps 10
+  gaps 8
   center-focused-column "never"
   preset-column-widths {
     proportion 0.25
@@ -110,6 +110,7 @@ spawn-at-startup "dbus-update-activation-environment" "--systemd" "--all"
 spawn-at-startup "xwayland-satellite"
 // spawn-at-startup "eww" "daemon"
 spawn-at-startup "waybar"
+spawn-at-startup "swaybg" "-i" "/home/neifua/Pictures/Wallpapers/rose-pine.jpg"
 spawn-at-startup "blueman-applet"
 spawn-at-startup "swaync"
 spawn-at-startup "sh" "/home/neifua/.config/swayidle/autolock.sh"
@@ -231,9 +232,10 @@ binds {
 
             // ** Apps launcher ** //
     Mod+Q repeat=false          { spawn "kitty"; }
-    Mod+E repeat=false          { spawn "nemo"; }
-    Mod+Period repeat=false     { spawn "emote"; }
-    Mod+L repeat=false          { spawn "swaylock"; }
+    Mod+E repeat=false          { spawn "kitty" "yazi"; }
+    Mod+Ctrl+E repeat=false     { spawn "nemo"; }
+    Mod+Period repeat=false     { spawn "flatpak" "run" "com.tomjwatson.Emote"; }
+    Mod+L repeat=false          { spawn "gtklock"; }
     Mod+Return repeat=false     { spawn "~/.config/rofi/launcher/launcher.sh"; }
     Mod+Shift+E repeat=false    { spawn "~/.config/rofi/powermenu/powermenu.sh"; }
 

@@ -1,0 +1,4 @@
+* {
+    font: "DepartureMono Nerd Font 11";
+    font-weight: bold;
+}
