@@ -19,7 +19,9 @@ export PATH="$HOME/bin:$PATH"
 export PATH="$HOME/go/bin:$PATH"
 export VISUAL=nvim
 export EDITOR={$VISUAL}
-# export LS_COLORS="$(vivid generate rose-pine)"
+export LS_COLORS="$(vivid generate rose-pine)"
+export GOPATH="$HOME/go"
+export PKG_CONFIG_PATH="/usr/local/lib64/pkgconfig:$PKG_CONFIG_PATH"
 
 ##################################################
 
@@ -30,7 +32,6 @@ export EDITOR={$VISUAL}
 
 # programs
 eval "$(starship init bash)"
-# eval "$(zoxide init bash)"
 
 # yazi
 function y() {
