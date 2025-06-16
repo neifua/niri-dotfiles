@@ -1,21 +1,7 @@
-@define-color cc-bg rgba(48, 52, 70, 0.95);
-@define-color noti-border-color rgba(238, 190, 190, 0.15);
-@define-color noti-bg rgb(48, 52, 70);
-@define-color noti-bg-darker rgb(35, 38, 52);
-@define-color noti-bg-hover rgb(98, 104, 128);
-@define-color noti-bg-focus rgba(81, 87, 109, 0.6);
-@define-color noti-close-bg rgba(234, 153, 156, 0.1);
-@define-color noti-close-bg-hover rgba(234, 153, 156, 0.15);
-@define-color text-color rgb(198, 208, 245);
-@define-color text-color-disabled rgb(165, 173, 206);
-@define-color bg-selected rgb(65, 69, 89);
-
 * {
-    font-family: FiraCode Nerd Font;
+    font-family: DepartureMono Nerd Font;
     font-weight: bolder;
 }
-
-
 
 .control-center .notification-row:focus,
 .control-center .notification-row:hover {
@@ -25,18 +11,22 @@
 
 .notification-row {
     outline: none;
+    margin-right: -7px;
+    margin-bottom: 0px;
 }
 
 .notification {
     border-radius: 0px;
     margin: 0px;
     padding: 0;
-    border: 2px solid #c4a7e7
+    border: 3px solid #c4a7e7
 }
 
 .notification-content {
     background: transparent;
-    padding: 4px;
+    padding-left: 15px;
+    padding-top: 0.6em;
+    padding-bottom: 0.6em;
     border-radius: 0px
 }
 
