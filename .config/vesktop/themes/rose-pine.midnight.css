@@ -15,14 +15,14 @@
 
 body {
     /* font options */
-    --font: ''; /* change to '' for default discord font */
-    --code-font: 'JetbrainsMono Nerd Font'; /* change to '' for default discord font */
-    font-weight: 400; /* normal text font weight. DOES NOT AFFECT BOLD TEXT */
+    --font: 'DepartureMono Nerd Font'; /* change to '' for default discord font */
+    --code-font: 'DepartureMono Nerd Font'; /* change to '' for default discord font */
+    font-weight: 300; /* normal text font weight. DOES NOT AFFECT BOLD TEXT */
 
     /* sizes */
-    --gap: 10px; /* spacing between panels */
-    --divider-thickness: 4px; /* thickness of unread messages divider and highlighted message borders */
-    --border-thickness: 1px; /* thickness of borders around main panels. DOES NOT AFFECT OTHER BORDERS */
+    --gap: 8px; /* spacing between panels */
+    --divider-thickness: 6px; /* thickness of unread messages divider and highlighted message borders */
+    --border-thickness: 3px; /* thickness of borders around main panels. DOES NOT AFFECT OTHER BORDERS */
 
     /* animation/transition options */
     --animations: on; /* off: disable animations/transitions, on: enable animations/transitions */
