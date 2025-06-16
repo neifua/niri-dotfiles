@@ -1,11 +1,37 @@
 * {
   font-family: "DepartureMono Nerd Font";
   font-weight: bold;
-  font-size: 14px;
+  font-size: 13px;
 }
 
 window#waybar {
   background-color: #191724;
+}
+
+#workspaces {
+  color: #e0def4;
+  padding-left: 1em;
+}
+
+#workspaces button {
+  color: #e0def4;
+  padding-left: 0px;
+  padding-right: 5px;
+}
+
+button:hover {
+	box-shadow: none;
+	text-shadow: none;
+	background: none;
+	transition: none;
+	border-color: transparent;
+	color: #eb6f92;
+	font-weight: bold;
+}
+
+#workspaces button.focused {
+  color: #c4a7e7;
+  font-weight: bold;
 }
 
 button:hover {
@@ -18,16 +44,10 @@ button:hover {
 	font-weight: bold;
 }
 
-#clock, #tray, #cpu, #memory, #battery, #pulseaudio, #backlight, #custom-logout, #network, #custom-icon, #custom-swaync, #bluetooth {
+#clock, #tray, #cpu, #memory, #battery, #pulseaudio, #backlight, #custom-logout, #network, #custom-icon, #custom-swaync, #bluetooth, #custom-seperator1, #custom-seperator2 {
   color: #e0def4;
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
 }
 
-#clock {
-  padding-left: 2.2em;
-}
-
-#custom-swaync {
-  padding-right: 1.2em;
+#tray {
+  padding-right: 1em;
 }

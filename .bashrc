@@ -26,9 +26,9 @@ export PKG_CONFIG_PATH="/usr/local/lib64/pkgconfig:$PKG_CONFIG_PATH"
 ##################################################
 
 # fetch
-# if [[ "$TERM" == "xterm-kitty" && -n "$KITTY_WINDOW_ID" && -z "$VSCODE_PID" && -z "$NVIM" ]]; then
-#     fastfetch
-# fi
+if [[ "$TERM" == "xterm-kitty" && -n "$KITTY_WINDOW_ID" && -z "$VSCODE_PID" && -z "$NVIM" ]]; then
+    fastfetch
+fi
 
 # programs
 eval "$(starship init bash)"

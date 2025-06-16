@@ -7,16 +7,13 @@
 	"margin-left": 0,
   
     "modules-left": [
-      "clock"
+      "niri/workspaces"
     ],
     "modules-center": [
+      "clock"
     ],
     "modules-right": [
       "network",
-      "custom/seperator1",
-      "cpu",
-      "custom/seperator2",
-      "memory",
       "custom/seperator1",
       "pulseaudio",
       "custom/seperator2",
@@ -24,8 +21,8 @@
       "custom/seperator2",
       "battery",
       "custom/seperator2",
-      "bluetooth",
-      "custom/seperator2",
-      "custom/swaync"
+      "custom/swaync",
+      "custom/seperator1",
+      "tray"
   ]
 }

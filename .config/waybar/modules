@@ -9,6 +9,10 @@
       "tooltip": false
     },
 
+    "niri/workspaces": {
+      "format": "{value}"
+    },
+
     "network": {
       "format-wifi" : "<span foreground='#c4a7e7'>WLA</span>",
       "format-ethernet": "<span foreground='#c4a7e7'>ETH</span>",
@@ -20,14 +24,14 @@
     },
 
     "backlight": {
-      "format": "<span foreground='#ebbcba'>BRT: </span>{percent}%",
+      "format": "<span foreground='#ebbcba'>BRT</span>: {percent}%",
       "tooltip": false
     },
 
     "pulseaudio": {
-		  "format": "<span foreground='#ebbcba'>VOL: </span>{volume}%",
+		  "format": "<span foreground='#ebbcba'>VOL</span>: {volume}%",
 		  "format-muted": "<span foreground='#6e6a86'>MUTED</span>",
-      "format-bluetooth": "<span foreground='#ebbcba'>BLT: </span>{volume}%",
+      "format-bluetooth": "<span foreground='#ebbcba'>BLT</span>: {volume}%",
       "on-click-right": "wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle",
       "on-click": "pavucontrol",
       "tooltip": false
@@ -35,24 +39,24 @@
 
     "cpu": {
       "interval": 1,
-      "format": "<span foreground='#31748f'>CPU: </span>{}%",
-      "format-warning": "<span foreground='#f6c177'>HOT: </span>{}%",
-      "format-critical": "<span foreground='#eb6f92'>CRT: </span>{}%",
+      "format": "<span foreground='#31748f'>CPU</span>: {}%",
+      "format-warning": "<span foreground='#f6c177'>HOT</span>: {}%",
+      "format-critical": "<span foreground='#eb6f92'>CRT</span>: {}%",
       "tooltip": false
     },
 
     "memory": {
       "interval": 1,
-      "format": "<span foreground='#31748f'>RAM: </span>{used:0.1f}gb",
-      "format-warning": "<span foreground='#f6c177'>HOT: </span>{used:0.1f}gb",
-      "format-critical": "<span foreground='#eb6f92'>CRT: </span>{used:0.1f}gb",
+      "format": "<span foreground='#31748f'>RAM</span>: {used:0.1f}gb",
+      "format-warning": "<span foreground='#f6c177'>HOT</span>: {used:0.1f}gb",
+      "format-critical": "<span foreground='#eb6f92'>CRT</span>: {used:0.1f}gb",
       "tooltip": false
     },
 
     "battery": {
-      "format": "<span foreground='#c4a7e7'>BAT: </span>{capacity}%",
-      "format-charging": "<span foreground='#f6c177'>CHR: </span>{capacity}%",
-      "format-full": "<span foreground='#9ccfd8'>MAX: </span>{capacity}%",
+      "format": "<span foreground='#c4a7e7'>BAT</span>: {capacity}%",
+      "format-charging": "<span foreground='#f5c177'>CHR</span>: {capacity}%",
+      "format-full": "<span foreground='#9ccfd8'>MAX</span>: {capacity}%",
       "interval": 1,
       "states": {
         "warning": 20,
@@ -62,14 +66,14 @@
     },
 
     "clock": {
-      "format": "{:%a / %B %d  ─  %OI:%OM %p}",
+      "format": "{:%B %d, %Y  |  %OI:%OM %p}",
       "tooltip": false
     },
 
     "bluetooth": {
-      "format": "<span foreground= '#6e6a86'>BLT: </span>OFF",
+      "format": "<span foreground= '#6e6a86'>BLT</span>: OFF",
       "format-disabled": "",
-      "format-connected-battery": "<span foreground='#9ccfd8'>BLT: </span>ON ({device_battery_percentage})",
+      "format-connected-battery": "<span foreground='#9ccfd8'>BLT</span>: ON ({device_battery_percentage})",
       "on-click": "blueman-manager"
     },
 
@@ -94,4 +98,9 @@
     "on-click-right": "swaync-client -d -sw",
     "escape": false
   },
+
+    "tray": {
+      "icon-size": 15,
+      "spacing": 12,
+  }
 }
