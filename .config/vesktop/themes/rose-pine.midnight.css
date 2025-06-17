@@ -15,8 +15,8 @@
 
 body {
     /* font options */
-    --font: 'DepartureMono Nerd Font'; /* change to '' for default discord font */
-    --code-font: 'DepartureMono Nerd Font'; /* change to '' for default discord font */
+    --font: ''; /* change to '' for default discord font */
+    --code-font: 'JetbrainsMono Nerd Font'; /* change to '' for default discord font */
     font-weight: 300; /* normal text font weight. DOES NOT AFFECT BOLD TEXT */
 
     /* sizes */
