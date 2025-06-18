@@ -115,7 +115,8 @@ spawn-at-startup "blueman-applet"
 spawn-at-startup "swaync"
 // spawn-at-startup "sosd" "daemon"
 spawn-at-startup "sh" "/home/neifua/.config/swayidle/autolock.sh"
-spawn-at-startup "sh" "-c" "systemctl enable --now swayosd-libinput-backend.service"
+// spawn-at-startup "sh" "-c" "systemctl enable --now swayosd-libinput-backend.service"
+spawn-at-startup "sudo systemctl enable --now swayosd-libinput-backend.service"
 spawn-at-startup "sh" "-c" "exec swayosd-server"
 spawn-at-startup "/usr/libexec/polkit-gnome-authentication-agent-1"
 spawn-at-startup "vesktop"
@@ -181,6 +182,13 @@ window-rule {
   default-column-width { proportion 0.5; }
   open-floating true
 }
+    // ** Select files ** //
+window-rule {
+  match title="Select Files"
+  default-window-height { fixed 700; }
+  max-width 1200
+  open-floating true
+}
     // ** Firefox ** //
 window-rule {
   match app-id=r#"firefox$"# title="^Picture-in-Picture$"
@@ -213,6 +221,11 @@ window-rule {
 window-rule {
   match app-id="spotify"
   default-column-width { proportion 0.75; }
+}
+    // ** Whatsapp ** //
+window-rule {
+  match app-id="wasistlos"
+  default-column-width { proportion 0.8; }
 }
 
     // ** Layer rules  ** //
