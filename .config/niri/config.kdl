@@ -268,7 +268,7 @@ binds {
     XF86MonBrightnessDown   { spawn "sh" "-c" "exec swayosd-client --brightness -5"; }
 
             // ** Overview ** //
-    Mod+Z repeat=false { toggle-overview; }
+    Mod+W repeat=false { toggle-overview; }
 
             // ** Window management ** //
     Mod+C { close-window; }
