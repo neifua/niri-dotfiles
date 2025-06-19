@@ -15,9 +15,9 @@ input {
       // drag false
       // drag-lock
       natural-scroll
-      accel-speed 0.2
-      accel-profile "adaptive"
-      // scroll-factor 1.0
+      accel-speed 0.7
+      accel-profile "flat"
+      scroll-factor 0.5
       scroll-method "two-finger"
       // scroll-button 273
       // tap-button-map "left-middle-right"
@@ -52,7 +52,7 @@ output "eDP-1" {
 
 // ** Layouts ** //
 layout {
-  gaps 8
+  gaps 6
   center-focused-column "never"
   preset-column-widths {
     proportion 0.25
