@@ -14,7 +14,7 @@ This repo is my personal [niri](https://github.com/YaLTeR/niri) dotfiles. I use 
 |**`Mod + Q`**|**`Spawn Kitty`**|
 |**`Mod + E`**|**`Spawn Yazi`**|
 |**`Mod + Period`**|**`Spawn Emote`**|
-|**`Mod + L`**|**`Spawn Swaylock`**|
+|**`Mod + L`**|**`Spawn Gtklock`**|
 |**`Mod + Enter`**|**`Spawn Apps Launcher`**|
 |**`Mod + Shift + E`**|**`Spawn Powermenu`**|
 
