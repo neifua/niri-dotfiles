@@ -17,12 +17,12 @@ body {
     /* font options */
     --font: ''; /* change to '' for default discord font */
     --code-font: 'JetbrainsMono Nerd Font'; /* change to '' for default discord font */
-    font-weight: 300; /* normal text font weight. DOES NOT AFFECT BOLD TEXT */
+    font-weight: 500; /* normal text font weight. DOES NOT AFFECT BOLD TEXT */
 
     /* sizes */
-    --gap: 8px; /* spacing between panels */
+    --gap: 5px; /* spacing between panels */
     --divider-thickness: 6px; /* thickness of unread messages divider and highlighted message borders */
-    --border-thickness: 3px; /* thickness of borders around main panels. DOES NOT AFFECT OTHER BORDERS */
+    --border-thickness: 2px; /* thickness of borders around main panels. DOES NOT AFFECT OTHER BORDERS */
 
     /* animation/transition options */
     --animations: on; /* off: disable animations/transitions, on: enable animations/transitions */
@@ -64,9 +64,9 @@ body {
     --bg-floating: var(--bg-3); /* set this to a more opaque color if floating panels look too transparent. only applies if panel blur is on  */
 
     /* chatbar options */
-    --custom-chatbar: aligned; /* off: default chatbar, aligned: chatbar aligned with the user panel, separated: chatbar separated from chat */
-    --chatbar-height: 47px; /* height of the chatbar (52px by default, 47px recommended for aligned, 56px recommended for separated) */
-    --chatbar-padding: 5px; /* padding of the chatbar. only applies in aligned mode. */
+    --custom-chatbar: separated; /* off: default chatbar, aligned: chatbar aligned with the user panel, separated: chatbar separated from chat */
+    --chatbar-height: 55px; /* height of the chatbar (52px by default, 47px recommended for aligned, 56px recommended for separated) */
+    --chatbar-padding: 8px; /* padding of the chatbar. only applies in aligned mode. */
 
     /* other options */
     --small-user-panel: off; /* off: default user panel, on: smaller user panel like in old discord */
@@ -85,9 +85,9 @@ body {
     --text-5: hsl(248, 15%, 35%); /* muted channels/chats and timestamps */
 
     /* background and dark colors */
-  --bg-1: ;      /* slightly lighter, for clicked buttons */
+  --bg-1: #191724;      /* slightly lighter, for clicked buttons */
   --bg-2: #191724;      /* regular dark buttons */
-  --bg-3: #191724;      /* secondary elements, spacing */
+  --bg-3: #232136;      /* secondary elements, spacing */
   --bg-4: #191724;       /* main background color */
   --hover: hsla(311, 25%, 50%, 0.1);   /* hover effect with your hue */
   --active: hsla(311, 25%, 50%, 0.2);  /* clicked/active elements */
