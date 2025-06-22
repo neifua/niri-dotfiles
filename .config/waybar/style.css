@@ -1,7 +1,7 @@
 * {
   font-family: "DepartureMono Nerd Font";
   font-weight: bold;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 window#waybar {
@@ -11,12 +11,14 @@ window#waybar {
 #workspaces {
   color: #e0def4;
   padding-left: 1em;
+  margin-top: 0.3em;
+  margin-bottom: 0.1em;
 }
 
 #workspaces button {
   color: #e0def4;
   padding-left: 0px;
-  padding-right: 5px;
+  padding-right: 3px;
 }
 
 button:hover {
@@ -46,8 +48,10 @@ button:hover {
 
 #clock, #tray, #cpu, #memory, #battery, #pulseaudio, #backlight, #custom-logout, #network, #custom-icon, #custom-swaync, #bluetooth, #custom-seperator1, #custom-seperator2 {
   color: #e0def4;
+  margin-top: 0.3em;
+  margin-bottom: 0.1em;
 }
 
-#tray {
+#clock {
   padding-right: 1em;
 }

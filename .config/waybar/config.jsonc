@@ -12,10 +12,13 @@
       "niri/workspaces"
     ],
     "modules-center": [
-      "clock"
     ],
     "modules-right": [
       "network",
+      "custom/seperator1",
+      "cpu",
+      "custom/seperator2",
+      "memory",
       "custom/seperator1",
       "pulseaudio",
       "custom/seperator2",
@@ -25,6 +28,8 @@
       "custom/seperator2",
       "custom/swaync",
       "custom/seperator1",
-      "tray"
+      "tray",
+      "custom/seperator1",
+      "clock"
   ]
 }
