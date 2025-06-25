@@ -65,14 +65,6 @@ return {
     end,
   },
 
-  -- formatting!
-  {
-    "stevearc/conform.nvim",
-    opts = {
-      formatters_by_ft = { lua = { "stylua" } },
-    },
-  },
-
   -- git stuff
   {
     "lewis6991/gitsigns.nvim",
@@ -241,62 +233,6 @@ return {
     opts = {
       defaults = {
         ["<leader>cF"] = { name = "+Format Injected Langs" },
-      },
-    },
-  },
-
-  {
-    "stevearc/conform.nvim",
-    event = { "BufWritePre" },
-    cmd = { "ConformInfo" },
-    keys = {
-      {
-        "<leader>cF",
-        function()
-          require("conform").format {
-            formatters = { "injected" },
-            timeout_ms = 3000,
-          }
-        end,
-        mode = { "n", "v" },
-        desc = "Format Injected Langs",
-      },
-    },
-    opts = {
-      format_on_save = {
-        timeout_ms = 3000,
-        lsp_fallback = true,
-      },
-
-      formatters_by_ft = {
-        lua = { "stylua" },
-        fish = { "fish_indent" },
-        sh = { "shfmt" },
-        bash = { "shfmt" },
-        zsh = { "shfmt" },
-        python = { "black" },
-        javascript = { "prettier" },
-        typescript = { "prettier" },
-        javascriptreact = { "prettier" },
-        typescriptreact = { "prettier" },
-        json = { "prettier" },
-        jsonc = { "prettier" },
-        yaml = { "prettier" },
-        html = { "prettier" },
-        css = { "prettier" },
-        scss = { "prettier" },
-        markdown = { "prettier" },
-        markdown_inline = { "prettier" },
-        toml = { "taplo" },
-        rust = { "rustfmt" },
-        go = { "gofmt" },
-        c = { "clang_format" },
-        cpp = { "clang_format" },
-        java = { "clang_format" },
-      },
-
-      formatters = {
-        injected = { options = { ignore_errors = true } },
       },
     },
   },
