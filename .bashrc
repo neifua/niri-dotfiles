@@ -24,6 +24,7 @@ export GOPATH="$HOME/go"
 export PKG_CONFIG_PATH="/usr/local/lib64/pkgconfig:$PKG_CONFIG_PATH"
 export QML_IMPORT_PATH="/usr/lib64/qt6/qml"
 export PATH="$PWD/depot_tools:$PATH"
+export GTKLOCK_MODULE_DIR="/usr/lib/gtklock/modules"
 
 ##################################################
 
