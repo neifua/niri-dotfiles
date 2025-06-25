@@ -37,3 +37,5 @@ vim.schedule(function()
 end)
 
 vim.lsp.enable "qmlls"
+vim.lsp.enable "dprint"
+vim.lsp.enable "ast_grep"
