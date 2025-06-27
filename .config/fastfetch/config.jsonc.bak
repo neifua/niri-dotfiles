@@ -1,0 +1,71 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+    "type": "file",
+    "source": "$HOME/.config/fastfetch/flower.txt",
+    "padding": {
+      "top": 1,
+      "left": 3,
+      "right": 12,
+    },
+    "color": {
+      "1": "magenta",
+    },
+  },
+  "display": {
+    "separator": ": ",
+  },
+  "modules": [
+    "break",
+    "break",
+    "break",
+    {
+      "key": "user",
+      "type": "title",
+      "format": "{user-name}",
+      "keyColor": "magenta",
+    },
+    {
+      "key": "os",
+      "type": "os",
+      "format": "{name}",
+      "keyColor": "magenta",
+    },
+    {
+      "key": "uptime",
+      "type": "uptime",
+      "format": "{?1}{1}d {?}{?2}{2}h {?}{3}m",
+      "keyColor": "magenta",
+    },
+    {
+      "key": "wm",
+      "type": "wm",
+      "format": "{pretty-name}",
+      "keyColor": "magenta",
+    },
+    {
+      "key": "packages",
+      "type": "packages",
+      "format": "{all}",
+      "keyColor": "magenta",
+    },
+    {
+      "key": "terminal",
+      "type": "terminal",
+      "format": "{pretty-name}",
+      "keyColor": "magenta",
+    },
+    {
+      "key": "shell",
+      "type": "shell",
+      "format": "{pretty-name}",
+      "keyColor": "magenta",
+    },
+    "break",
+    {
+      "type": "colors",
+      "symbol": "square",
+      "keyColor": "magenta",
+    },
+  ],
+}
