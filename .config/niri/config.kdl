@@ -108,6 +108,8 @@ layout {
 // ** Spawn at startup ** //
 spawn-at-startup "dbus-update-activation-environment" "--systemd" "--all"
 spawn-at-startup "xwayland-satellite"
+spawn-at-startup "nm-applet"
+spawn-at-startup "blueman-applet"
 // spawn-at-startup "eww" "daemon"
 spawn-at-startup "waybar"
 spawn-at-startup "swaybg" "-i" "/home/neifua/Pictures/Wallpapers/MC_snow.jpg"
@@ -127,15 +129,15 @@ screenshot-path "~/Pictures/Screenshots/Screenshot from %Y-%m-%d %H-%M-%S.png"
 
 // ** Env ** //
 environment {
-  DISPLAY ":1"
+  DISPLAY ":0"
   QT_QPA_PLATFORM "wayland"
   ELECTRON_OZONE_PLATFORM_HINT "auto"
 }
 
 // ** Cursor ** //
 cursor {
-  xcursor-theme "Polarnight-cursors"
-  xcursor-size 21
+  xcursor-theme "BreezeX-RosePineDawn-Linux"
+  xcursor-size 28
   hide-when-typing
   // hide-after-inactive-ms 1000
 }
@@ -207,6 +209,13 @@ window-rule {
   clip-to-geometry true
   tiled-state true
   baba-is-float false
+}
+    // ** VLC ** //
+window-rule {
+  match app-id="vlc"
+  match app-id="mpv"
+  default-column-width { proportion 1.0; }
+  default-window-height { proportion 1.0; }
 }
     // ** Discord ** //
 window-rule {
