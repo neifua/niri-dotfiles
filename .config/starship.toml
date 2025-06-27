@@ -2,48 +2,10 @@
 
 add_newline = false
 
-format = """$username\
-$directory\
+format = """
 $git_branch\
-$fill\
 $package\
-$aws\
-$azure\
-$buf\
-$bun\
-$c\
-$cmake\
-$crystal\
-$dart\
-$deno\
-$docker_context\
-$dotnet\
-$elixir\
-$elm\
-$erlang\
-$fennel\
-$golang\
-$java\
-$julia\
-$kotlin\
-$lua\
-$meson\
-$nim\
-$nodejs\
-$openstack\
-$perl\
-$php\
-$python\
-$rlang\
-$ruby\
-$rust\
-$scala\
-$solidity\
-$swift\
-$terraform\
-$typst\
-$vlang\
-$zig\n\
+$directory\
 $character\
 """
 
@@ -67,263 +29,25 @@ style_user = "fg:iris"
 
 [character]
 disabled = false
-format = " $symbol "
-success_symbol = '[󱞪](#c4a7e7)'
-error_symbol = '[󱞪](#eb6f92)'
+format = "$symbol "
+success_symbol = '[|](fg:iris)'
+error_symbol = '[|](fg:love)'
 
 [directory]
-format = " [$path ]($style)"
-style = "fg:foam"
+disabled = false
+format = " [$path]($style) "
+style = "fg:pine"
 truncation_length = 3
 truncation_symbol = "…/"
 
-[package]
-format = "[ $symbol$version ]($style)"
-style = "fg:gold"
-symbol = " "
-
 [git_branch]
-format = "[ $symbol$branch ]($style)"
-style = "fg:pine"
+disabled = false
+format = " [$symbol$branch]($style)"
+style = "fg:foam"
 symbol = " "
 
-# [shell]
-# disabled = false
-# format = "[ $indicator ]($style)"
-# style = "fg:iris"
-# bash_indicator = "bsh"
-# zsh_indicator = "zsh"
-# fish_indicator= "fsh"
-# powershell_indicator = "psh"
-# ion_indicator = "ion"
-# cmd_indicator = "cmd"
-# nu_indicator = "nu"
-# unknown_indicator = ' unknown'
-
-# Languages
-
-[aws]
-style = "fg:love"
-format = "[ $symbol$profile ]($style)"
+[package]
 disabled = false
-symbol = " "
-
-[azure]
-style = "fg:love"
-format = "[ $symbol$subscription ]($style)"
-disabled = false
-symbol = " "
-[azure.subscription_aliases]
-very-long-subscription-name = 'vlsn'
-
-[buf]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = "󰆚 "
-
-[bun]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[c]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[cmake]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[crystal]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[dart]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[deno]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[docker_context]
-style = "fg:love"
-format = "[ $symbol$context ]($style)"
-disabled = false
-symbol = " "
-
-[dotnet]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[elixir]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[elm]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[erlang]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[fennel]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[golang]
-style = "fg:love"
-format = "[ $symbol$version$mod_version ]($style)"
-disabled = false
-symbol = " "
-
-[java]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[julia]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[kotlin]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[lua]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[meson]
-style = "fg:love"
-truncation_length = "2"
-truncation_symbol = "…/"
-format = "[ $symbol$project ]($style)"
-disabled = false
-symbol = "󰏔 "
-
-[nim]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[nodejs]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[openstack]
-style = "fg:love"
-format = "[ $symbol$cloud$project ]($style)"
-disabled = false
-symbol = " "
-
-[perl]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[php]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[python]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[rlang]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[ruby]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[rust]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[scala]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[solidity]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[swift]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[terraform]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[typst]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[vlang]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
-
-[zig]
-style = "fg:love"
-format = "[ $symbol$version ]($style)"
-disabled = false
-symbol = " "
+format = "  [$symbol$version]($style) "
+style = "fg:gold"
+symbol = " "

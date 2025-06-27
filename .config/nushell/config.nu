@@ -1,9 +1,9 @@
 # fetch
-# let term = (try { $env.TERM } catch { "" })
-# echo $"TERM is ($term)"
-# if ($term == "xterm-kitty") {
-#     fastfetch
-# }
+let term = (try { $env.TERM } catch { "" })
+echo $"TERM is ($term)"
+if ($term == "xterm-kitty") {
+    fastfetch
+}
 
 # plugins
 const NU_PLUGIN_DIRS = [

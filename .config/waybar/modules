@@ -1,16 +1,17 @@
 {
-  "custom/seperator1": {
+  "custom/separator1": {
       "format": "  |  ",
       "tooltip": false
     },
 
-    "custom/seperator2": {
+    "custom/separator2": {
       "format": "  ·  ",
       "tooltip": false
     },
 
     "niri/workspaces": {
-      "format": "{value}"
+      "format": "{icon}",
+      "current-only": true,
     },
 
     "network": {
@@ -37,15 +38,7 @@
       "tooltip": false
     },
 
-    "cpu": {
-      "interval": 1,
-      "format": "<span foreground='#31748f'>CPU</span>: {}%",
-      "format-warning": "<span foreground='#f6c177'>HOT</span>: {}%",
-      "format-critical": "<span foreground='#eb6f92'>CRT</span>: {}%",
-      "tooltip": false
-    },
-
-    "memory": {
+      "memory": {
       "interval": 1,
       "format": "<span foreground='#31748f'>RAM</span>: {used:0.1f}gb",
       "format-warning": "<span foreground='#f6c177'>HOT</span>: {used:0.1f}gb",
@@ -97,10 +90,27 @@
     "on-click": "sleep 0.1 && swaync-client -t -sw",
     "on-click-right": "swaync-client -d -sw",
     "escape": false
-  },
+    },
 
     "tray": {
       "icon-size": 15,
       "spacing": 12,
-  }
+    },
+ 
+    "group/tray-system": {
+      "orientation": "inherit",
+      "drawer": {
+        "transition-duration": 700,
+        "transition-left-to-right": false,
+      },
+      "modules": [
+        "custom/tray-icon",
+        "tray"
+      ]
+    },
+
+      "custom/tray-icon": {
+        "format": "󱊔",
+        "tooltip": false
+    },
 }

@@ -2,34 +2,29 @@
   "layer": "bottom",
   "position": "bottom",
   "include": "$HOME/.config/waybar/modules",
-	"ipc": true,
+  "ipc": true,
   "fixed-center": true,
   "margin-top": 0,
-	"margin-right": 0,
-	"margin-left": 0,
-  
-    "modules-left": [
-      "niri/workspaces"
-    ],
-    "modules-center": [
-    ],
-    "modules-right": [
-      "network",
-      "custom/seperator1",
-      "cpu",
-      "custom/seperator2",
-      "memory",
-      "custom/seperator1",
-      "pulseaudio",
-      "custom/seperator2",
-      "backlight",
-      "custom/seperator2",
-      "battery",
-      "custom/seperator2",
-      "custom/swaync",
-      "custom/seperator1",
-      "tray",
-      "custom/seperator1",
-      "clock"
-  ]
+  "margin-right": 0,
+  "margin-left": 0,
+
+  "modules-left": ["niri/workspaces"],
+  "modules-center": [],
+  "modules-right": [
+    "network",
+    "custom/separator1",
+    "memory",
+    "custom/separator1",
+    "pulseaudio",
+    "custom/separator2",
+    "backlight",
+    "custom/separator2",
+    "battery",
+    "custom/separator2",
+    "custom/swaync",
+    "custom/separator1",
+    "clock",
+    "custom/separator1",
+    "group/tray-system",
+  ],
 }
