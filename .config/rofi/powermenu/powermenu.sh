@@ -88,8 +88,8 @@ case ${chosen} in
 		run_cmd --reboot
         ;;
     $lock)
-		if [[ -x '/usr/bin/swaylock' ]]; then
-			$HOME/.config/swaylock/lockscreen.sh
+		if [[ -x '/usr/bin/gtklock' ]]; then
+			gtklock
 		fi
         ;;
     $suspend)
