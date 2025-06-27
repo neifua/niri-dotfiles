@@ -6,7 +6,7 @@
     "padding": {
       "top": 2,
       "left": 0,
-      "right": 6,
+      "right": 8,
     },
     "color": {
       "1": "#ffffff",
@@ -47,6 +47,7 @@
       "symbol": "square",
       "keyColor": "magenta",
     },
+    "break",
     "break",
   ],
 }
