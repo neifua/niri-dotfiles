@@ -1,29 +1,41 @@
+#
+# ~/.config/fish/config.fish
+#
+
+# Interactive shell setup
 if status is-interactive
-    # Commands to run in interactive sessions can go here
+    # fetch
+  if test "$TERM" = "xterm-kitty" -a -n "$KITTY_WINDOW_ID" -a -z "$VSCODE_PID" -a -z "$NVIM"
+    fastfetch
+  end
+
+  # starship
+  starship init fish | source
+
+  # yazi
+  function y
+	  set tmp (mktemp -t "yazi-cwd.XXXXXX")
+	  yazi $argv --cwd-file="$tmp"
+	  if read -z cwd < "$tmp"; and [ -n "$cwd" ]; and [ "$cwd" != "$PWD" ]
+		  builtin cd -- "$cwd"
+	  end
+	  rm -f -- "$tmp"
+  end
 end
+
+##############################################################################
 
 # Envs
-set -x PATH $HOME/.local/bin $PATH
-set -x PATH $HOME/.cargo/bin $PATH
-set -x PATH /usr/local/bin $PATH
-set -x PATH $HOME/bin $PATH
-set -x PATH $HOME/go/bin $PATH
-set -x PATH $PWD/depot_tools $PATH
-set -x VISUAL nvim
-set -x EDITOR $VISUAL
-set -x LS_COLORS (vivid generate rose-pine)
-set -x GOPATH $HOME/go
-set -x PKG_CONFIG_PATH /usr/local/lib64/pkgconfig:$PKG_CONFIG_PATH
-set -x QML_IMPORT_PATH /usr/lib64/qt6/qml
-set -x GTKLOCK_MODULE_DIR /usr/lib/gtklock/modules
-
-# fetch
-if test "$TERM" = "xterm-kitty" -a -n "$KITTY_WINDOW_ID" -a -z "$VSCODE_PID" -a -z "$NVIM"
-    fastfetch
-end
-
-# theme
-fish_config theme choose "Rosé Pine"
-
-# starship
-starship init fish | source
+set -gx PATH $HOME/.local/bin $PATH
+set -gx PATH $HOME/.cargo/bin $PATH
+set -gx PATH /usr/local/bin $PATH
+set -gx PATH $HOME/bin $PATH
+set -gx PATH $HOME/go/bin $PATH
+set -gx PATH $PWD/depot_tools $PATH
+set -gx PATH /home/neifua/.lmstudio/bin $PATH
+set -gx EDITOR nvim
+set -gx LS_COLORS (vivid generate rose-pine)
+set -gx GOPATH $HOME/go
+set -gx PKG_CONFIG_PATH /usr/local/lib64/pkgconfig:$PKG_CONFIG_PATH
+set -gx QML_IMPORT_PATH /usr/lib64/qt6/qml
+set -gx GTKLOCK_MODULE_DIR /usr/lib/gtklock/modules
