@@ -1,4 +1,3 @@
-// ** Input ** //
 input {
   keyboard {
     xkb {
@@ -40,7 +39,6 @@ input {
     }
 }
 
-// ** Output ** //
 output "eDP-1" {
   // off
   mode "1920x1080"
@@ -50,7 +48,6 @@ output "eDP-1" {
   variable-refresh-rate on-demand=true
 }
 
-// ** Layouts ** //
 layout {
   gaps 6
   center-focused-column "never"
@@ -105,7 +102,6 @@ layout {
     background-color "transparent"
 }
 
-// ** Spawn at startup ** //
 spawn-at-startup "dbus-update-activation-environment" "--systemd" "--all"
 spawn-at-startup "xwayland-satellite"
 // spawn-at-startup "eww" "daemon"
@@ -120,20 +116,16 @@ spawn-at-startup "fcitx5"
 spawn-at-startup "sh" "-c" "exec swayosd-server"
 spawn-at-startup "/usr/libexec/polkit-gnome-authentication-agent-1"
 
-// ** Prefer no csd ** //
 prefer-no-csd
 
-// ** Screenshot ** //
 screenshot-path "~/Pictures/Screenshots/Screenshot from %Y-%m-%d %H-%M-%S.png"
 
-// ** Env ** //
 environment {
   DISPLAY ":0"
   QT_QPA_PLATFORM "wayland"
   ELECTRON_OZONE_PLATFORM_HINT "auto"
 }
 
-// ** Cursor ** //
 cursor {
   xcursor-theme "BreezeX-RosePineDawn-Linux"
   xcursor-size 28
@@ -141,7 +133,6 @@ cursor {
   // hide-after-inactive-ms 1000
 }
 
-// ** Overview ** //
 overview {
   zoom 0.6
   backdrop-color "#191724"
@@ -160,79 +151,60 @@ gestures {
     }
 }
 
-// ** Skip hotkey overlay ** //
 hotkey-overlay {
     skip-at-startup
 }
 
-// ** Animations ** //
 animations {
     // off
-    slowdown 1.0
+    slowdown 0.8
 }
 
-// ** Window rules ** //
-    // ** Open files ** //
 window-rule {
   match app-id="Xdg-desktop-portal-gtk" title="Open Files"
   match app-id="xdg-desktop-portal-gtk" title="Open Folder"
   default-column-width { proportion 0.5; }
   open-floating true
 }
-    // ** Select files ** //
+
 window-rule {
   match title="Select Files"
   default-window-height { fixed 700; }
   max-width 1200
   open-floating true
 }
-    // ** Firefox ** //
-window-rule {
-  match app-id=r#"firefox$"# title="^Picture-in-Picture$"
-  open-floating true
-}
-window-rule {
-  match app-id="firefox" title="Library"
-  open-floating true
-}
-    // ** Screenshot block out ** //
+
 window-rule {
   match app-id=r#"^org\.keepassxc\.KeePassXC$"#
   match app-id=r#"^org\.gnome\.World\.Secrets$"#
   block-out-from "screen-capture"
-    // block-out-from "screencast"
+  // block-out-from "screencast"
 }
-    // ** Corners ** //
+
 window-rule {
   geometry-corner-radius 0
   clip-to-geometry true
   tiled-state true
   baba-is-float false
 }
-    // ** VLC ** //
+
 window-rule {
   match app-id="vlc"
   match app-id="mpv"
   default-column-width { proportion 1.0; }
   default-window-height { proportion 1.0; }
 }
-    // ** Discord ** //
+
 window-rule {
   match app-id="vesktop"
   default-column-width { proportion 1.0; }
 }
-    // ** Spotify ** //
+
 window-rule {
   match app-id="spotify"
   default-column-width { proportion 0.75; }
 }
-    // ** Whatsapp ** //
-window-rule {
-  match app-id="wasistlos"
-  default-column-width { proportion 0.8; }
-}
 
-    // ** Layer rules  ** //
 layer-rule {
   match namespace="rofi"
   // match namespace="waybar"
@@ -249,7 +221,6 @@ layer-rule {
 binds {
     // Mod+Shift+Slash { show-hotkey-overlay; }
 
-            // ** Apps launcher ** //
     Mod+Q repeat=false          { spawn "kitty"; }
     Mod+E repeat=false          { spawn "kitty" "yazi"; }
     Mod+Ctrl+E repeat=false     { spawn "nemo"; }
@@ -259,14 +230,13 @@ binds {
     Mod+Shift+E repeat=false    { spawn "~/.config/rofi/powermenu/powermenu.sh"; }
     Alt+9 repeat=false    { spawn "~/.config/waybar/restart_waybar.sh"; }
 
-            // ** Audio ** //
     // XF86AudioRaiseVolume  allow-when-locked=true { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "1%+"; }
     // XF86AudioLowerVolume  allow-when-locked=true { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "1%-"; }
     // XF86AudioMute         allow-when-locked=true { spawn "wpctl" "set-mute" "@DEFAULT_AUDIO_SINK@" "toggle"; }
     // XF86AudioMicMute      allow-when-locked=true { spawn "wpctl" "set-mute" "@DEFAULT_AUDIO_SOURCE@" "toggle"; }
     // XF86MonBrightnessUp   allow-when-locked=true { spawn "brightnessctl" "set" "+5%"; }
     // XF86MonBrightnessDown allow-when-locked=true { spawn "brightnessctl" "set" "5%-"; }
-            // ** Swayosd required ** //
+
     XF86AudioRaiseVolume    { spawn "sh" "-c" "exec swayosd-client --output-volume +1 --max-volume 153"; }
     XF86AudioLowerVolume    { spawn "sh" "-c" "exec swayosd-client --output-volume -1 --max-volume 153"; }
     XF86AudioMute           { spawn "sh" "-c" "exec swayosd-client --output-volume mute-toggle"; }
@@ -274,10 +244,8 @@ binds {
     XF86MonBrightnessUp     { spawn "sh" "-c" "exec swayosd-client --brightness +5"; }
     XF86MonBrightnessDown   { spawn "sh" "-c" "exec swayosd-client --brightness -5"; }
 
-            // ** Overview ** //
     Mod+W repeat=false { toggle-overview; }
 
-            // ** Window management ** //
     Mod+C { close-window; }
 
     Mod+Left repeat=false         { focus-column-left; }
@@ -408,19 +376,15 @@ binds {
     // Mod+Space       { switch-layout "next"; }
     // Mod+Shift+Space { switch-layout "prev"; }
 
-            // ** Screenshot ** //
     Mod+Shift+S repeat=false { screenshot; }
     Print repeat=false       { screenshot-screen; }
     Alt+Print repeat=false   { screenshot-window; }
 
-            // ** Keyboard ** //
     Mod+Escape allow-inhibiting=false { toggle-keyboard-shortcuts-inhibit; }
 
-            // ** Quit ** //
     // Mod+Shift+E repeat=false  { quit; }
-    Ctrl+Alt+Delete repeat=false { quit; }
+    // Ctrl+Alt+Delete repeat=false { quit; }
 
-            // ** Monitors ** //
     Mod+Shift+P repeat=false { power-off-monitors; }
 }
 
