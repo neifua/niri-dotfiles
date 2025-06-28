@@ -23,7 +23,7 @@ window {
     location:                    center;
     anchor:                      center;
     fullscreen:                  false;
-    width:                       292px;
+    width:                       351px;
     x-offset:                    0px;
     y-offset:                    0px;
 
@@ -68,7 +68,7 @@ inputbar {
 textbox-prompt-colon {
     enabled:                     true;
     expand:                      false;
-    str:                         "  ";
+    str:                         "[]";
     padding:                     8px 12px;
     border-radius:               0px;
     background-color:            @urgent;
@@ -115,7 +115,7 @@ error-message {
 listview {
     enabled:                     true;
     columns:                     1;
-    lines:                       4;
+    lines:                       5;
     cycle:                       true;
     dynamic:                     true;
     scrollbar:                   false;
@@ -124,7 +124,7 @@ listview {
     fixed-height:                true;
     fixed-columns:               true;
     
-    spacing:                     5px;
+    spacing:                     3px;
     margin:                      0px;
     padding:                     0px;
     border:                      0px solid;
