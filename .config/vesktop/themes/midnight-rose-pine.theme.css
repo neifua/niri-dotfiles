@@ -15,9 +15,9 @@
 
 body {
   /* font, change to '' for default discord font */
-  --font: "Figtree"; /* change to '' for default discord font */
-  --code-font: "JetbrainsMono Nerd Font"; /* change to '' for default discord font */
-  font-weight: 400 /* normal text font weight. DOES NOT AFFECT BOLD TEXT */;
+  --font: "RobotoMono Nerd Font"; /* change to '' for default discord font */
+  --code-font: "Lilex Nerd Font Mono"; /* change to '' for default discord font */
+  font-weight: 370 /* normal text font weight. DOES NOT AFFECT BOLD TEXT */;
 
   /* sizes */
   --gap: 5px; /* spacing between panels */
@@ -150,7 +150,7 @@ body {
   --dnd: var(--red-2); /* change to #d83a42 for default */
   --idle: var(--yellow-2); /* change to #ca9654 for default */
   --streaming: var(--purple-2); /* change to #593695 for default */
-  --offline: var(--text-4); /* change to #83838b for default offline color */
+  --offline: var(--text-5); /* change to #83838b for default offline color */
 
   /* border colors */
   --border-light: var(--hover); /* general light border color */
