@@ -1,5 +1,5 @@
 * {
-    font-family: DepartureMono Nerd Font;
+    font-family: JetbrainsMono Nerd Font;
     font-weight: bolder;
 }
 
@@ -16,17 +16,18 @@
 }
 
 .notification {
+    margin: -2px;
     border-radius: 0px;
-    margin: 0px;
-    padding: 0;
     border: 3px solid #c4a7e7
 }
 
 .notification-content {
+    color: #e0def4;
     background: transparent;
-    padding-left: 15px;
-    padding-top: 0.6em;
-    padding-bottom: 0.6em;
+    padding-left: 10px;
+    padding-right: 0px;
+    margin-top: -0.8em;
+    margin-bottom: 2px;
     border-radius: 0px
 }
 
@@ -53,7 +54,6 @@
 
 .notification-default-action,
 .notification-action {
-    font-family: JetbrainsMono Nerd Font;
     padding: 4px;
     margin: 0;
     box-shadow: none;
@@ -95,7 +95,7 @@
 }
 
 .inline-reply {
-    margin-top: 12px
+    margin-top: 0px
 }
 
 .inline-reply-entry {
@@ -125,7 +125,7 @@
 }
 
 .body-image {
-    margin-top: 6px;
+    margin-top: 0px;
     background-color: #fff;
     border-radius: 0px
 }
@@ -180,6 +180,7 @@
 .widget-title {
     color: #e0def4;
     margin: 12px;
+    padding-left: 0.7em;
     font-size: 1.3rem
 }
 

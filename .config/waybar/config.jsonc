@@ -3,13 +3,13 @@
   "position": "bottom",
   "include": "$HOME/.config/waybar/modules",
   "ipc": true,
-  "fixed-center": true,
+  "fixed-center": false,
   "margin-top": 0,
   "margin-right": 0,
   "margin-left": 0,
 
   "modules-left": ["niri/workspaces"],
-  "modules-center": [],
+  "modules-center": ["wlr/taskbar"],
   "modules-right": [
     "network",
     "custom/separator1",

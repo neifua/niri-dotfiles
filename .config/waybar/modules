@@ -10,7 +10,7 @@
     },
 
     "niri/workspaces": {
-      "format": "{icon}",
+      "format": "{value}",
       "current-only": true,
     },
 
@@ -112,5 +112,18 @@
       "custom/tray-icon": {
         "format": "󱊔",
         "tooltip": false
+    },
+
+        "wlr/taskbar": {
+      "format": "{icon}",
+      "icon-size": 17,
+      "icon-theme": "Kaze-25.06",
+      "tooltip-format": "{title}",
+      "on-click": "activate",
+      "on-click-middle": "close",
+      "ignore-list": [
+      ],
+      "app_ids-mapping": {
+      },
     },
 }

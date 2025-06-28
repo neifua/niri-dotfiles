@@ -10,8 +10,8 @@ window#waybar {
 
 #workspaces {
   color: #e0def4;
-  padding-left: 0.5em;
-  margin-top: 0.3em;
+  padding-left: 0em;
+  margin-top: 0.2em;
   margin-bottom: 0em;
   box-shadow: none;
   text-shadow: none;
@@ -21,18 +21,8 @@ window#waybar {
 }
 
 #workspaces button {
-  color: #c4a7e7;
+  color: #e0def4;
   margin-left: 0px;
-}
-
-button:hover {
-  box-shadow: none;
-  text-shadow: none;
-  background: none;
-  transition: none;
-  border-color: transparent;
-  color: #191724;
-  font-weight: bold;
 }
 
 #clock,
@@ -43,13 +33,14 @@ button:hover {
 #backlight,
 #network,
 #bluetooth,
+#taskbar,
 #custom-icon,
 #custom-swaync,
 #custom-tray-icon,
 #custom-separator1,
 #custom-separator2 {
   color: #e0def4;
-  margin-top: 0.3em;
+  margin-top: 0.2em;
   margin-bottom: 0em;
 }
 
@@ -59,4 +50,8 @@ button:hover {
 
 #custom-tray-icon {
   padding-right: 1.6em;
+}
+
+#taskbar button {
+  margin-left: 5px;
 }
