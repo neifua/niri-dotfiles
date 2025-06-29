@@ -18,9 +18,7 @@
       "format-wifi" : "<span foreground='#c4a7e7'>WLA</span>",
       "format-ethernet": "<span foreground='#c4a7e7'>ETH</span>",
       "format-disconnected" : "<span foreground='#6e6a86'>OFF</span>",
-	    "on-click": "nm-connection-editor",
       "on-click-right": "nmcli device status | grep wlan0 | grep -q connected && nmcli device disconnect wlan0 || nmcli device connect wlan0",
-      "interval": 1,
       "tooltip": false
     },
 
@@ -39,18 +37,18 @@
     },
 
       "memory": {
-      "interval": 1,
+      "interval": 0,
       "format": "<span foreground='#31748f'>RAM</span>: {used:0.1f}gb",
       "format-warning": "<span foreground='#f6c177'>HOT</span>: {used:0.1f}gb",
       "format-critical": "<span foreground='#eb6f92'>CRT</span>: {used:0.1f}gb",
-      "tooltip": false
+      "tooltip": false,
     },
 
     "battery": {
+      "interval": 1,
       "format": "<span foreground='#c4a7e7'>BAT</span>: {capacity}%",
       "format-charging": "<span foreground='#f5c177'>CHR</span>: {capacity}%",
       "format-full": "<span foreground='#9ccfd8'>MAX</span>: {capacity}%",
-      "interval": 1,
       "states": {
         "warning": 20,
         "critical": 10
@@ -59,7 +57,8 @@
     },
 
     "clock": {
-      "format": "{:%B %d, %Y / %OI:%OM %p}",
+      "format": "{:%I:%M %p}",
+      "format-alt": "{:%a - %b %d, %Y}",
       "tooltip": false
     },
 
