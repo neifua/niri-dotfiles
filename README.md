@@ -8,12 +8,14 @@ This repo is my personal [niri](https://github.com/YaLTeR/niri) dotfiles. I use 
 - You might need to tweak some paths or programs depending on your system.
 
 ## Sys info
-- OS: openSUSE Tumbleweed
-- Terminal: kitty
-- Apps launcer: rofi
-- File managers: yazi & Nemo
-- Lockscreen: gtklock
-- Editor: nvim
+- OS: [openSUSE Tumbleweed](https://www.opensuse.org/)
+- Terminal: [kitty](https://github.com/kovidgoyal/kitty)
+- Bar: [waybar](https://github.com/Alexays/Waybar)
+- Apps launcer: [rofi](https://github.com/davatorium/rofi)
+- File managers: [yazi](https://github.com/sxyazi/yazi) & [Nemo](https://github.com/linuxmint/nemo)
+- Lockscreen: [gtklock](https://github.com/jovanlanik/gtklock)
+- Notification: [swaync](https://github.com/ErikReider/SwayNotificationCenter)
+- Editor: [nvim](https://neovim.io/)
 
 ## Simple keybinds
 |**Keybinds**|**Action**|
