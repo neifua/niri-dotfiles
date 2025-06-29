@@ -19,4 +19,4 @@ This repo is my personal [niri](https://github.com/YaLTeR/niri) dotfiles. I use 
 |**`Mod + Shift + E`**|**`Spawn Powermenu`**|
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/0e6cf873-6a60-4df2-aee0-1fb2166fa7d3)
+![image](https://github.com/user-attachments/assets/fa04918e-5cbe-41f1-8096-9a5b24ddbb70)
