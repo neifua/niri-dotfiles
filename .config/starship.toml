@@ -22,8 +22,8 @@ iris = '#c4a7e7'
 [character]
 disabled = false
 format = "$symbol "
-success_symbol = "[;](fg:ffffff)"
-error_symbol = "[;](fg:love)"
+success_symbol = "[|](fg:ffffff)"
+error_symbol = "[|](fg:love)"
 
 [directory]
 disabled = false
@@ -34,12 +34,12 @@ truncation_symbol = "…/"
 
 [git_branch]
 disabled = false
-format = " [$symbol$branch]($style)"
+format = " [$symbol$branch]($style),"
 style = "fg:foam"
 symbol = " "
 
 [package]
 disabled = false
-format = "  [$symbol$version]($style) "
+format = "  [$symbol$version]($style), "
 style = "fg:gold"
 symbol = " "
