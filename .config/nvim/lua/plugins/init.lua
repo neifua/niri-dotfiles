@@ -329,7 +329,7 @@ return {
 
       dashboard.section.footer.opts.hl = "AlphaFooter"
       dashboard.section.buttons.opts.hl = "AlphaButtons"
-      dashboard.opts.layout[1].val = 6
+      dashboard.opts.layout[1].val = 2
 
       require("alpha").setup(dashboard.opts)
     end,
