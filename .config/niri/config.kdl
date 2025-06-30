@@ -29,7 +29,7 @@ input {
     mouse {
       // off
       // natural-scroll
-      accel-speed -0.1
+      accel-speed -0.2
       accel-profile "flat"
       // scroll-factor 1.0
       // scroll-method "no-scroll"
@@ -42,14 +42,14 @@ input {
 output "eDP-1" {
   // off
   mode "1920x1080"
-  scale 1.0
+  scale 1.2
   transform "normal"
   // position x=1280 y=0
   variable-refresh-rate on-demand=true
 }
 
 layout {
-  gaps 6
+  gaps 5
   center-focused-column "never"
   preset-column-widths {
     proportion 0.25
@@ -121,7 +121,7 @@ environment {
 
 cursor {
   xcursor-theme "BreezeX-RosePineDawn-Linux"
-  xcursor-size 28
+  xcursor-size 30
   hide-when-typing
   // hide-after-inactive-ms 1000
 }
@@ -154,7 +154,7 @@ animations {
 }
 
 window-rule {
-  match app-id="Xdg-desktop-portal-gtk" title="Open Files"
+  match app-id="xdg-desktop-portal-gtk" title="Open Files"
   match app-id="xdg-desktop-portal-gtk" title="Open Folder"
   default-column-width { proportion 0.5; }
   open-floating true
@@ -162,8 +162,6 @@ window-rule {
 
 window-rule {
   match title="Select Files"
-  default-window-height { fixed 700; }
-  max-width 1200
   open-floating true
 }
 
@@ -190,6 +188,7 @@ window-rule {
 
 window-rule {
   match app-id="vesktop"
+  match app-id="thunderbird-esr"
   default-column-width { proportion 1.0; }
 }
 

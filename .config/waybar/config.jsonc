@@ -1,6 +1,6 @@
 {
   "layer": "bottom",
-  "position": "bottom",
+  "position": "top",
   "include": "$HOME/.config/waybar/modules",
   "ipc": true,
   "fixed-center": false,

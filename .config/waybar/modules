@@ -37,7 +37,7 @@
     },
 
       "memory": {
-      "interval": 0,
+      "interval": 1,
       "format": "<span foreground='#31748f'>RAM</span>: {used:0.1f}gb",
       "format-warning": "<span foreground='#f6c177'>HOT</span>: {used:0.1f}gb",
       "format-critical": "<span foreground='#eb6f92'>CRT</span>: {used:0.1f}gb",
@@ -92,7 +92,7 @@
     },
 
     "tray": {
-      "icon-size": 15,
+      "icon-size": 16,
       "spacing": 12,
     },
  
