@@ -92,8 +92,8 @@
     },
 
     "tray": {
-      "icon-size": 16,
-      "spacing": 12,
+      "icon-size": 15,
+      "spacing": 13,
     },
  
     "group/tray-system": {
@@ -115,7 +115,7 @@
 
         "wlr/taskbar": {
       "format": "{icon}",
-      "icon-size": 17,
+      "icon-size": 18,
       "icon-theme": "Kaze-25.06",
       "tooltip-format": "{title}",
       "on-click": "activate",
