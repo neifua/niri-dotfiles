@@ -159,7 +159,7 @@ window-rule {
   match app-id="xdg-desktop-portal-gtk" title="File Upload"
   match app-id="xdg-desktop-portal-gtk" title="Save File"
   default-column-width { proportion 0.5; }
-  default-window-height { fixed 670; }
+  default-window-height { fixed 680; }
   open-floating true
 }
 
@@ -187,6 +187,7 @@ window-rule {
 window-rule {
   match app-id="vesktop"
   match app-id="thunderbird-esr"
+  match app-id="com.obsproject.Studio"
   default-column-width { proportion 1.0; }
 }
 
