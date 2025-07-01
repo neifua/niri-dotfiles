@@ -12,9 +12,9 @@
   "modules-center": ["wlr/taskbar"],
   "modules-right": [
     "network",
-    "custom/separator1",
-    "memory",
     "custom/separator2",
+    "memory",
+    "custom/separator1",
     "pulseaudio",
     "custom/separator2",
     "backlight",
