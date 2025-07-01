@@ -42,7 +42,7 @@ input {
 output "eDP-1" {
   // off
   mode "1920x1080"
-  scale 1.2
+  scale 1.15
   transform "normal"
   // position x=1280 y=0
   variable-refresh-rate on-demand=true
@@ -100,7 +100,7 @@ spawn-at-startup "xwayland-satellite"
 // spawn-at-startup "eww" "daemon"
 // spawn-at-startup "quickshell"
 spawn-at-startup "waybar"
-spawn-at-startup "swaybg" "-i" "/home/neifua/Pictures/Wallpapers/MC_snow.jpg"
+spawn-at-startup "swaybg" "-i" "/home/neifua/Pictures/Wallpapers/store.jpg"
 spawn-at-startup "swaync"
 // spawn-at-startup "sosd" "daemon"
 spawn-at-startup "sh" "/home/neifua/.config/swayidle/autolock.sh"
@@ -157,8 +157,9 @@ window-rule {
   match app-id="xdg-desktop-portal-gtk" title="Open Files"
   match app-id="xdg-desktop-portal-gtk" title="Open Folder"
   match app-id="xdg-desktop-portal-gtk" title="File Upload"
-  default-column-width { proportion 0.7; }
-  default-window-height { fixed 750; }
+  match app-id="xdg-desktop-portal-gtk" title="Save File"
+  default-column-width { proportion 0.5; }
+  default-window-height { fixed 670; }
   open-floating true
 }
 
