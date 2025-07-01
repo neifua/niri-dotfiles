@@ -15,6 +15,7 @@ This repo is my personal [niri](https://github.com/YaLTeR/niri) dotfiles. I use 
 - File managers: [yazi](https://github.com/sxyazi/yazi) & [Nemo](https://github.com/linuxmint/nemo)
 - Lockscreen: [gtklock](https://github.com/jovanlanik/gtklock)
 - Notification: [swaync](https://github.com/ErikReider/SwayNotificationCenter)
+- Shell: [fish](https://fishshell.com/)
 - Editor: [nvim](https://neovim.io/)
 
 ## Simple keybinds
