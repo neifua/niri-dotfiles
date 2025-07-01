@@ -153,13 +153,22 @@ animations {
     slowdown 0.85
 }
 
+// window-rule {
+//   match app-id="kitty"
+//   default-column-width { proportion 0.35; }
+//   default-window-height { proportion 0.5; }
+//   open-floating true
+// }
+
 window-rule {
-  match app-id="xdg-desktop-portal-gtk" title="Open Files"
-  match app-id="xdg-desktop-portal-gtk" title="Open Folder"
-  match app-id="xdg-desktop-portal-gtk" title="File Upload"
-  match app-id="xdg-desktop-portal-gtk" title="Save File"
-  default-column-width { proportion 0.5; }
-  default-window-height { fixed 680; }
+  match app-id="xdg-desktop-portal-gtk"
+  // match app-id="xdg-desktop-portal-gtk" title="Open File"
+  // match app-id="xdg-desktop-portal-gtk" title="Open Files"
+  // match app-id="xdg-desktop-portal-gtk" title="Open Folder"
+  // match app-id="xdg-desktop-portal-gtk" title="File Upload"
+  // match app-id="xdg-desktop-portal-gtk" title="Save File"
+  default-column-width { proportion 0.45; }
+  default-window-height { proportion 0.65; }
   open-floating true
 }
 
