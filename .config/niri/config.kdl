@@ -220,7 +220,7 @@ binds {
     Mod+L repeat=false          { spawn "gtklock"; }
     Mod+Return repeat=false     { spawn "~/.config/rofi/launcher/launcher.sh"; }
     Mod+Shift+E repeat=false    { spawn "~/.config/rofi/powermenu/powermenu.sh"; }
-    Alt+9 repeat=false          { spawn "~/.config/waybar/restart_waybar.sh"; }
+    Alt+Shift+9 repeat=false    { spawn "~/.config/waybar/restart_waybar.sh"; }
 
     // XF86AudioRaiseVolume  allow-when-locked=true { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "1%+"; }
     // XF86AudioLowerVolume  allow-when-locked=true { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "1%-"; }
