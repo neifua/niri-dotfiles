@@ -23,7 +23,8 @@ export EDITOR={$VISUAL}
 export LS_COLORS="$(vivid generate rose-pine)"
 export GOPATH="$HOME/go"
 export PKG_CONFIG_PATH="/usr/local/lib64/pkgconfig:$PKG_CONFIG_PATH"
-export QML_IMPORT_PATH="/usr/lib64/qt6/qml"
+# export QML_IMPORT_PATH="/usr/lib64/qt6/qml"
+export PATH="\$PATH:/usr/lib64/qt6/bin"
 export PATH="$PWD/depot_tools:$PATH"
 export GTKLOCK_MODULE_DIR="/usr/lib/gtklock/modules"
 
