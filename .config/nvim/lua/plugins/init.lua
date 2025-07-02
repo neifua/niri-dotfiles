@@ -415,7 +415,6 @@ return {
     event = "VeryLazy",
     dependencies = {
       "MunifTanjim/nui.nvim",
-      "rcarriga/nvim-notify",
     },
     config = function()
       require("noice").setup {
@@ -440,13 +439,6 @@ return {
           long_message_to_split = true,
         },
       }
-    end,
-  },
-
-  {
-    "rcarriga/nvim-notify",
-    config = function()
-      vim.notify = require "notify"
     end,
   },
 
@@ -576,18 +568,15 @@ return {
         desc = "Open Yank History",
       },
 
-      -- Basic yank/paste
       { "y", "<Plug>(YankyYank)", mode = { "n", "x" }, desc = "Yank Text" },
       { "p", "<Plug>(YankyPutAfter)", mode = { "n", "x" }, desc = "Put Text After Cursor" },
       { "P", "<Plug>(YankyPutBefore)", mode = { "n", "x" }, desc = "Put Text Before Cursor" },
       { "gp", "<Plug>(YankyGPutAfter)", mode = { "n", "x" }, desc = "Put After Selection" },
       { "gP", "<Plug>(YankyGPutBefore)", mode = { "n", "x" }, desc = "Put Before Selection" },
 
-      -- Cycle through yank history
       { "[y", "<Plug>(YankyCycleForward)", desc = "Cycle Forward Yank" },
       { "]y", "<Plug>(YankyCycleBackward)", desc = "Cycle Backward Yank" },
 
-      -- Indentation-aware put
       { "]p", "<Plug>(YankyPutIndentAfterLinewise)", desc = "Put Indented After (Linewise)" },
       { "[p", "<Plug>(YankyPutIndentBeforeLinewise)", desc = "Put Indented Before (Linewise)" },
       { "]P", "<Plug>(YankyPutIndentAfterLinewise)", desc = "Put Indented After (Linewise)" },
@@ -598,7 +587,6 @@ return {
       { ">P", "<Plug>(YankyPutIndentBeforeShiftRight)", desc = "Put Before + Shift Right" },
       { "<P", "<Plug>(YankyPutIndentBeforeShiftLeft)", desc = "Put Before + Shift Left" },
 
-      -- With filters
       { "=p", "<Plug>(YankyPutAfterFilter)", desc = "Put After + Filter" },
       { "=P", "<Plug>(YankyPutBeforeFilter)", desc = "Put Before + Filter" },
     },

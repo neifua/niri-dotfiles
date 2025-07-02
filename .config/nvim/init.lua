@@ -39,3 +39,8 @@ end)
 vim.lsp.enable "qmlls"
 vim.lsp.enable "dprint"
 vim.lsp.enable "ast_grep"
+
+vim.opt.number = true
+vim.opt.relativenumber = true
+
+require("lspconfig").lua_ls.setup {}
