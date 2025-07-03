@@ -1,7 +1,7 @@
 * {
-  font-family: "DepartureMono Nerd Font";
-  font-weight: bold;
-  font-size: 14px;
+  font-family: "Lilex Nerd Font Mono";
+  /* font-weight: bold; */
+  font-size: 14.5px;
 }
 
 window#waybar {
@@ -11,6 +11,7 @@ window#waybar {
 #workspaces {
   color: #e0def4;
   padding-left: 0em;
+  margin-top: 0.3em;
   /* box-shadow: none; */
   /* text-shadow: none; */
   /* background: none; */
@@ -38,14 +39,15 @@ window#waybar {
 #custom-separator1,
 #custom-separator2 {
   color: #e0def4;
+  margin-top: 0.3em;
 }
 
 #tray {
-  padding-right: 1.1em;
+  padding-right: 0.9em;
 }
 
 #custom-tray-icon {
-  padding-right: 1.6em;
+  padding-right: 1.1em;
 }
 
 #taskbar button {
