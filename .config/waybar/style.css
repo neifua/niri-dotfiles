@@ -1,7 +1,7 @@
 * {
   font-family: "DepartureMono Nerd Font";
   font-weight: bold;
-  font-size: 14.5px;
+  font-size: 14px;
 }
 
 window#waybar {
@@ -11,13 +11,11 @@ window#waybar {
 #workspaces {
   color: #e0def4;
   padding-left: 0em;
-  margin-top: 0.2em;
-  margin-bottom: 0em;
-  box-shadow: none;
-  text-shadow: none;
-  background: none;
-  transition: none;
-  border-color: transparent;
+  /* box-shadow: none; */
+  /* text-shadow: none; */
+  /* background: none; */
+  /* transition: none; */
+  /* border-color: transparent; */
 }
 
 #workspaces button {
@@ -40,8 +38,6 @@ window#waybar {
 #custom-separator1,
 #custom-separator2 {
   color: #e0def4;
-  margin-top: 0.2em;
-  margin-bottom: 0em;
 }
 
 #tray {
