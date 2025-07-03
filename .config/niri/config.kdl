@@ -207,7 +207,7 @@ window-rule {
 
 window-rule {
   match app-id="spotify"
-  default-column-width { proportion 0.75; }
+  default-column-width { proportion 1.0; }
   open-on-workspace "2"
 }
 
