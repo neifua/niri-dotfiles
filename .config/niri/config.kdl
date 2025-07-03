@@ -105,7 +105,6 @@ spawn-at-startup "swaync"
 // spawn-at-startup "sosd" "daemon"
 spawn-at-startup "sh" "/home/neifua/.config/swayidle/autolock.sh"
 spawn-at-startup "fcitx5"
-// spawn-at-startup "sh" "-c" "systemctl enable --now swayosd-libinput-backend.service"
 spawn-at-startup "sh" "-c" "exec swayosd-server"
 spawn-at-startup "/usr/libexec/polkit-gnome-authentication-agent-1"
 

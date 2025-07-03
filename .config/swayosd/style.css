@@ -1,0 +1,33 @@
+window#osd {
+  color: inherit;
+  border-radius: 10px;
+}
+
+window#osd image {
+  color: inherit;
+}
+
+.osd {
+  color: inherit;
+}
+
+.osd image {
+  color: inherit;
+}
+
+#container {
+  color: inherit;
+  border-radius: 0px;
+  margin: 7px;
+  -gtk-icon-size: 12px;
+}
+
+#container image {
+  color: inherit;
+}
+
+.title-4 {
+  color: #e0def4;
+  font-size: 17px;
+  font-family: Lilex Nerd Font Mono;
+}
