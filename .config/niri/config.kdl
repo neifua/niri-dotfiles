@@ -193,26 +193,16 @@ window-rule {
 }
 
 window-rule {
+  match app-id="spotify"
   match app-id="vesktop"
-  default-column-width { proportion 1.0; }
-  open-on-workspace "2"
-}
-
-window-rule {
   match app-id="thunderbird-esr"
   match app-id="com.obsproject.Studio"
   default-column-width { proportion 1.0; }
 }
 
-window-rule {
-  match app-id="spotify"
-  default-column-width { proportion 1.0; }
-  open-on-workspace "2"
-}
-
 layer-rule {
   match namespace="rofi"
-  // match namespace="waybar"
+  match namespace="waybar"
   shadow {
     on
     draw-behind-window true
