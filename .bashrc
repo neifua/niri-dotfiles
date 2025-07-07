@@ -12,18 +12,15 @@ PS1='[\u@\h \W]\$ '
 ##############################################################################
 
 # Envs
-export PATH="$HOME/.local/bin:$PATH"
-export PATH="$HOME/.cargo/bin:$PATH"
-export PATH="/usr/local/bin:$PATH"
-export PATH="$HOME/bin:$PATH"
-export PATH="/usr/local/go/$PATH"
-export PATH="$PATH:/home/neifua/.lmstudio/bin"
+export PATH=$HOME/.local/bin:$PATH
+export PATH=$HOME/.cargo/bin:$PATH
+export PATH=/usr/local/bin:$PATH
+export PATH=$HOME/bin:$PATH
 export VISUAL=nvim
 export EDITOR={$VISUAL}
-export LS_COLORS="$(vivid generate rose-pine)"
-export GOPATH="$HOME/go"
-export PKG_CONFIG_PATH="/usr/local/lib64/pkgconfig:$PKG_CONFIG_PATH"
-export PATH="/usr/lib64/qt6/bin$PATH"
+export LS_COLORS=$(vivid generate rose-pine)
+export GOPATH=$HOME/go
+export PATH=/usr/lib64/qt6/bin$PATH
 
 ##############################################################################
 

@@ -30,13 +30,10 @@ set -gx PATH $HOME/.local/bin $PATH
 set -gx PATH $HOME/.cargo/bin $PATH
 set -gx PATH /usr/local/bin $PATH
 set -gx PATH $HOME/bin $PATH
-set -gx PATH /usr/local/go/bin/ $PATH
-set -gx GOROOT /usr/local/go/ $PATH
 set -gx PATH /usr/lib64/qt6/bin $PATH
 set -gx EDITOR nvim
 set -gx LS_COLORS (vivid generate rose-pine)
 set -gx GOPATH $HOME/go
-set -gx PKG_CONFIG_PATH /usr/local/lib64/pkgconfig:$PKG_CONFIG_PATH
 set -gx GTK_IM_MODULE fcitx
 set -gx QT_IM_MODULE fcitx
 set -gx SDL_IM_MODULE fcitx
