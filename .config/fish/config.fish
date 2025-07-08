@@ -23,6 +23,11 @@ if status is-interactive
   end
 end
 
+# Aliases
+alias py="python3"
+alias c="gcc"
+alias cpp="g++"
+
 ##############################################################################
 
 # Envs

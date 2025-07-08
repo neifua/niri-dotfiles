@@ -7,6 +7,9 @@
 
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
+alias py='python3'
+alias c='gcc'
+alias cpp='g++'
 PS1='[\u@\h \W]\$ '
 
 ##############################################################################
