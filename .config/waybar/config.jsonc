@@ -22,8 +22,8 @@
   "wlr/taskbar": {
     "format": "{icon}   {app_id}",
     "markup": true,
-    "icon-theme": "Kaze-25.06.2",
-    "icon-size": 20,
+    "icon-theme": "Adwaita",
+    "icon-size": 22,
     "on-click": "activate",
   },
 
