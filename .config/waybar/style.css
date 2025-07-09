@@ -4,7 +4,7 @@
   text-shadow: none;
   box-shadow: none;
   border-radius: 0;
-  font-weight: 500;
+  font-weight: 400;
 }
 
 window#waybar {
@@ -21,8 +21,13 @@ window#waybar {
   padding: 0 10px;
 }
 
+#taskbar {
+  font-size: 15px;
+  color: #e0def4;
+}
+
 #taskbar button {
-  min-width: 6.5em;
+  min-width: 7.5em;
   border-radius: 0;
   border-bottom: 3px solid #26233a;
   transition-property: border-color;
@@ -33,17 +38,13 @@ window#waybar {
   border-bottom: 3px solid #c4a7e7;
 }
 
-#clock {
-  font-size: 15px;
-  margin-left: 12px;
-}
-
 #tray {
   color: #e0def4;
   background-color: #26233a;
   padding: 0px 10px;
   margin-top: 6px;
   margin-bottom: 5px;
+  margin-left: 10px;
   border-radius: 10px;
   border-width: 0px;
 }
@@ -52,7 +53,8 @@ window#waybar {
 #backlight,
 #pulseaudio,
 #cpu,
-#memory {
+#memory,
+#network {
   background-color: #26233a;
   font-family: "GeistMono Nerd Font Propo";
   font-size: 16px;
@@ -62,20 +64,38 @@ window#waybar {
   margin-bottom: 5px;
 }
 
+#network {
+  font-size: 18px;
+  color: #e0def4;
+  margin-right: 10px;
+  border-radius: 10px;
+}
+
 #pulseaudio {
   color: #e0def4;
   border-radius: 10px 0px 0px 10px;
 }
 
+#battery {
+  border-radius: 0px 10px 10px 0px;
+}
+
+#pulseaudio.warning,
+#battery.warning {
+  color: #ebbcba;
+}
+
+#pulseaudio.critical,
+#battery.critical {
+  color: #eb6f92;
+}
+
+#network.disabled,
+#network.disconnected,
 #pulseaudio.muted,
 #pulseaudio.muted.warning,
 #pulseaudio.muted.critical {
   color: #6e6a86;
-}
-
-#battery {
-  margin-right: 10px;
-  border-radius: 0px 10px 10px 0px;
 }
 
 #cpu {
@@ -87,19 +107,15 @@ window#waybar {
   border-radius: 0px 10px 10px 0px;
 }
 
-#battery.warning,
-#pulseaudio.warning {
-  color: #ebbcba;
-}
-
-#battery.critical,
-#pulseaudio.critical {
-  color: #eb6f92;
+#clock {
+  color: #e0def4;
+  font-size: 15px;
+  margin-left: 12px;
 }
 
 #custom-notification {
   font-family: "GeistMono Nerd Font Propo";
-  font-size: 16px;
+  font-size: 17px;
   color: #e0def4;
   padding-right: 2px;
   padding-left: 14px;

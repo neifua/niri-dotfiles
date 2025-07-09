@@ -9,6 +9,7 @@
   "modules-left": ["wlr/taskbar"],
   "modules-center": [],
   "modules-right": [
+    "network",
     "cpu",
     "memory",
     "pulseaudio",
@@ -19,8 +20,20 @@
     "custom/notification",
   ],
 
+  "network": {
+    "interval": 1,
+    "format": "{icon}",
+    "format-icons": ["󰤯", "󰤟", "󰤢", "󰤥", "󰤨"],
+    "format-ethernet": "",
+    "format-disconnected": "󱘖",
+    "format-disabled": "󰤭",
+    "on-click": "kitty bash -c nmtui-connect",
+    "on-click-right": "nmcli device status | grep wlp0s20f3 | grep -q connected && nmcli device disconnect wlp0s20f3 || nmcli device connect wlp0s20f3",
+    "tooltip": false,
+  },
+
   "wlr/taskbar": {
-    "format": "{icon} {app_id}",
+    "format": "{icon}   {app_id}",
     "markup": true,
     "icon-theme": "Adwaita",
     "icon-size": 22,
@@ -69,7 +82,7 @@
   },
 
   "tray": {
-    "icon-size": 19,
+    "icon-size": 18,
     "spacing": 8,
   },
 
@@ -95,16 +108,14 @@
       "dnd-none": "<span foreground='#6e6a86'></span>",
       "inhibited-notification": "<span foreground='#ebbcba'>󱅫</span>",
       "inhibited-none": "<span foreground='#ebbcba'></span>",
-      "dnd-inhibited-notification":
-        "span foreground='#9ccfd8'>󱅫</span>",
-      "dnd-inhibited-none": "<span foreground='#9ccfd8'></span>"
+      "dnd-inhibited-notification": "span foreground='#9ccfd8'>󱅫</span>",
+      "dnd-inhibited-none": "<span foreground='#9ccfd8'></span>",
     },
     "return-type": "json",
     "exec-if": "which swaync-client",
     "exec": "swaync-client -swb",
     "on-click": "sleep 0.1 && swaync-client -t -sw",
     "on-click-right": "swaync-client -d -sw",
-    "escape": false
-    },
-  }
+    "escape": false,
+  },
 }
