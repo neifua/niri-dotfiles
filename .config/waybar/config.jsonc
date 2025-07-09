@@ -1,30 +1,105 @@
 {
   "layer": "bottom",
   "position": "bottom",
-  "include": "$HOME/.config/waybar/modules",
-  "ipc": true,
-  "fixed-center": false,
-  "margin-top": 0,
-  "margin-right": 0,
-  "margin-left": 0,
+  "mod": "dock",
+  "exclusive": true,
+  "passthrough": false,
+  "gtk-layer-shell": true,
 
-  "modules-left": ["niri/workspaces"],
-  "modules-center": ["wlr/taskbar"],
+  "modules-left": ["wlr/taskbar"],
+  "modules-center": [],
   "modules-right": [
-    "network",
-    "custom/separator2",
+    "cpu",
     "memory",
-    "custom/separator1",
     "pulseaudio",
-    "custom/separator2",
     "backlight",
-    "custom/separator2",
     "battery",
-    "custom/separator2",
-    "custom/swaync",
-    "custom/separator2",
+    "tray",
     "clock",
-    "custom/separator1",
-    "group/tray-system",
+    "custom/notification",
   ],
+
+  "wlr/taskbar": {
+    "format": "{icon}   {app_id}",
+    "markup": true,
+    "icon-theme": "Kaze-25.06.2",
+    "icon-size": 20,
+    "on-click": "activate",
+  },
+
+  "pulseaudio": {
+    "format": "{icon} {volume}%",
+    "format-bluetooth": " {volume}%",
+    "format-muted": "󰖁 {volume}%",
+    "format-icons": ["󰕿", "󰖀", "󰕾"],
+  },
+
+  "battery": {
+    "interval": 1,
+    "states": {
+      "warning": 30,
+      "critical": 15,
+    },
+    "format": "{icon} {capacity}%",
+    "format-icons": {
+      "charging": ["󱐋"],
+      "discharging": ["󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹"],
+      "warning": ["󰂃"],
+      "critical": ["󰂃"],
+    },
+    "tooltip": false,
+  },
+
+  "backlight": {
+    "format": "{icon} {percent}%",
+    "format-icons": ["󰃞", "󰃟", "󰃠"],
+  },
+
+  "clock": {
+    "format": "{:>%I:%M %p \n %d/%m/%Y}",
+    "interval": 1,
+    "align": 1,
+    "justify": "right",
+    "tooltip": false,
+  },
+
+  "tray": {
+    "icon-size": 19,
+    "spacing": 8,
+  },
+
+  "cpu": {
+    "interval": 1,
+    "format": " {usage}%",
+    "tooltip": false,
+  },
+
+  "memory": {
+    "interval": 1,
+    "format": " {percentage}%",
+    "tooltip": false,
+  },
+
+  "custom/notification": {
+    "tooltip": true,
+    "format": "{icon}",
+    "format-icons": {
+      "notification": "<span foreground='#eb6f92'>󱅫</span>",
+      "none": "<span foreground='#e0def4'></span>",
+      "dnd-notification": "<span foreground='#6e6a86'>󱅫</span>",
+      "dnd-none": "<span foreground='#6e6a86'></span>",
+      "inhibited-notification": "<span foreground='#ebbcba'>󱅫</span>",
+      "inhibited-none": "<span foreground='#ebbcba'></span>",
+      "dnd-inhibited-notification":
+        "span foreground='#9ccfd8'>󱅫</span>",
+      "dnd-inhibited-none": "<span foreground='#9ccfd8'></span>"
+    },
+    "return-type": "json",
+    "exec-if": "which swaync-client",
+    "exec": "swaync-client -swb",
+    "on-click": "sleep 0.1 && swaync-client -t -sw",
+    "on-click-right": "swaync-client -d -sw",
+    "escape": false
+    },
+  }
 }

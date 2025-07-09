@@ -1,55 +1,107 @@
 * {
-  font-family: "Lilex Nerd Font Mono";
-  /* font-weight: bold; */
-  font-size: 16.5px;
+  font-family: "Noto Sans", sans-serif;
+  border: none;
+  text-shadow: none;
+  box-shadow: none;
+  border-radius: 0;
+  font-weight: 500;
+  font-size: 13.5px;
 }
 
 window#waybar {
   background-color: #191724;
-}
-
-#workspaces {
   color: #e0def4;
-  padding-left: 0em;
-  margin-top: 0.3em;
-  /* box-shadow: none; */
-  /* text-shadow: none; */
-  /* background: none; */
-  /* transition: none; */
-  /* border-color: transparent; */
+
+  padding: 0 5px;
+
+  transition-property: background-color;
+  transition-duration: 0.5s;
 }
 
-#workspaces button {
-  color: #e0def4;
-  margin-left: 0px;
-}
-
-#clock,
-#tray,
-#memory,
-#battery,
-#pulseaudio,
-#backlight,
-#network,
-#bluetooth,
-#taskbar,
-#custom-icon,
-#custom-swaync,
-#custom-tray-icon,
-#custom-separator1,
-#custom-separator2 {
-  color: #e0def4;
-  margin-top: 0.3em;
-}
-
-#tray {
-  padding-right: 0.9em;
-}
-
-#custom-tray-icon {
-  padding-right: 1.1em;
+.modules-right {
+  padding: 0 10px;
 }
 
 #taskbar button {
-  margin-left: 5px;
+  min-width: 130px;
+
+  border-radius: 0;
+  border-bottom: 3px solid #26233a;
+
+  transition-property: border-color;
+  transition-duration: 150ms;
+}
+
+#taskbar button.active {
+  border-bottom: 3px solid #c4a7e7;
+}
+
+#clock {
+  font-size: 15px;
+  font-family: "Noto Sans", sans-serif;
+  margin-left: 12px;
+}
+
+#tray {
+  color: #e0def4;
+  background-color: #26233a;
+  padding: 4px 8px;
+  margin-top: 6px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+  border-width: 0px;
+}
+
+#battery,
+#backlight,
+#pulseaudio,
+#cpu,
+#memory {
+  background-color: #26233a;
+  font-family: "GeistMono Nerd Font Mono";
+  font-size: 16px;
+  color: #e0def4;
+  padding: 0px 10px;
+  margin-top: 6px;
+  margin-bottom: 5px;
+}
+
+#pulseaudio {
+  padding-left: 15px;
+  border-radius: 10px 0px 0px 10px;
+}
+
+#battery {
+  padding-right: 15px;
+  margin-right: 10px;
+  border-radius: 0px 10px 10px 0px;
+}
+
+#cpu {
+  padding-left: 15px;
+  border-radius: 10px 0px 0px 10px;
+}
+
+#memory {
+  padding-right: 15px;
+  margin-right: 10px;
+  border-radius: 0px 10px 10px 0px;
+}
+
+#battery.warning {
+  color: #ebbcba;
+}
+
+#battery.critical {
+  color: #eb6f92;
+}
+
+#custom-notification {
+  font-family: "GeistMono Nerd Font Mono";
+  font-size: 25px;
+  color: #e0def4;
+  padding-right: 4px;
+  padding-left: 14px;
+  margin-top: 6px;
+  margin-bottom: 5px;
 }
