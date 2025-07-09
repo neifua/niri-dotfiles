@@ -20,7 +20,7 @@
   ],
 
   "wlr/taskbar": {
-    "format": "{icon}   {app_id}",
+    "format": "{icon} {app_id}",
     "markup": true,
     "icon-theme": "Adwaita",
     "icon-size": 22,
