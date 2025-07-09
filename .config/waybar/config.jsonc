@@ -36,7 +36,9 @@
       "normal": 60,
       "warning": 100,
       "critical": 154,
-    }
+    },
+    "on-click-right": "wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle",
+    "on-click": "pavucontrol",
   },
 
   "battery": {
