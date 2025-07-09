@@ -32,6 +32,11 @@
     "format-bluetooth": " {volume}%",
     "format-muted": "󰖁 {volume}%",
     "format-icons": ["󰕿", "󰖀", "󰕾"],
+    "states": {
+      "normal": 60,
+      "warning": 100,
+      "critical": 154,
+    }
   },
 
   "battery": {

@@ -45,7 +45,7 @@ window#waybar {
 #tray {
   color: #e0def4;
   background-color: #26233a;
-  padding: 4px 8px;
+  padding: 0px 10px;
   margin-top: 6px;
   margin-bottom: 5px;
   border-radius: 10px;
@@ -67,32 +67,35 @@ window#waybar {
 }
 
 #pulseaudio {
-  padding-left: 15px;
+  color: #e0def4;
   border-radius: 10px 0px 0px 10px;
 }
 
+#pulseaudio.muted {
+  color: #6e6a86;
+}
+
 #battery {
-  padding-right: 15px;
   margin-right: 10px;
   border-radius: 0px 10px 10px 0px;
 }
 
 #cpu {
-  padding-left: 15px;
   border-radius: 10px 0px 0px 10px;
 }
 
 #memory {
-  padding-right: 15px;
   margin-right: 10px;
   border-radius: 0px 10px 10px 0px;
 }
 
-#battery.warning {
-  color: #ebbcba;
+#battery.warning,
+#pulseaudio.warning {
+  color: #f6c177;
 }
 
-#battery.critical {
+#battery.critical,
+#pulseaudio.critical {
   color: #eb6f92;
 }
 
@@ -100,8 +103,8 @@ window#waybar {
   font-family: "GeistMono Nerd Font Mono";
   font-size: 25px;
   color: #e0def4;
-  padding-right: 4px;
-  padding-left: 14px;
+  padding-right: 2px;
+  padding-left: 12px;
   margin-top: 6px;
   margin-bottom: 5px;
 }
