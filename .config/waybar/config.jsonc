@@ -30,8 +30,8 @@
   "pulseaudio": {
     "format": "{icon} {volume}%",
     "format-bluetooth": " {volume}%",
-    "format-muted": "󰖁 {volume}%",
-    "format-icons": ["󰕿", "󰖀", "󰕾"],
+    "format-muted": " {volume}%",
+    "format-icons": ["", "", ""],
     "states": {
       "normal": 60,
       "warning": 100,
@@ -47,17 +47,15 @@
     },
     "format": "{icon} {capacity}%",
     "format-icons": {
-      "charging": ["󱐋"],
-      "discharging": ["󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹"],
-      "warning": ["󰂃"],
-      "critical": ["󰂃"],
+      "charging": ["<span foreground='#f6c177'>🔌</span>"],
+      "discharging": ["󰂎", "󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹"],
     },
     "tooltip": false,
   },
 
   "backlight": {
     "format": "{icon} {percent}%",
-    "format-icons": ["󰃞", "󰃟", "󰃠"],
+    "format-icons": ["🌕", "🌔", "🌓", "🌒", "🌑"],
   },
 
   "clock": {
@@ -81,7 +79,7 @@
 
   "memory": {
     "interval": 1,
-    "format": " {percentage}%",
+    "format": " {used} GiB",
     "tooltip": false,
   },
 
