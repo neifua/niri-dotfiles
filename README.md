@@ -31,5 +31,5 @@ This repo is my personal [niri](https://github.com/YaLTeR/niri) dotfiles. I use 
 |**`Mod + Shift + E`**|**`Spawn Rofi Powermenu`**|
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/ce62cd40-ef0d-4406-86ec-3be1a392dcd5)
-![image](https://github.com/user-attachments/assets/169dceee-43ec-4f33-aa20-717c248999f3)
+![image](https://github.com/user-attachments/assets/b7bcf12c-b3b3-47f3-a7a1-3fa12fdc0004)
+![image](https://github.com/user-attachments/assets/ac2d9d4c-c508-4bbc-97e1-2dd67c8f7d20)
