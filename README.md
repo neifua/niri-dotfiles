@@ -32,3 +32,4 @@ This repo is my personal [niri](https://github.com/YaLTeR/niri) dotfiles. I use 
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/ce62cd40-ef0d-4406-86ec-3be1a392dcd5)
+![image](https://github.com/user-attachments/assets/169dceee-43ec-4f33-aa20-717c248999f3)
