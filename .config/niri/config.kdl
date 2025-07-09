@@ -222,8 +222,8 @@ binds {
     Mod+Shift+E repeat=false    { spawn "~/.config/rofi/powermenu/powermenu.sh"; }
     Alt+Shift+9 repeat=false    { spawn "~/.config/waybar/restart_waybar.sh"; }
 
-    // XF86AudioRaiseVolume  allow-when-locked=true { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "1%+"; }
-    // XF86AudioLowerVolume  allow-when-locked=true { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "1%-"; }
+    // XF86AudioRaiseVolume  allow-when-locked=true { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "2%+"; }
+    // XF86AudioLowerVolume  allow-when-locked=true { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "2%-"; }
     // XF86AudioMute         allow-when-locked=true { spawn "wpctl" "set-mute" "@DEFAULT_AUDIO_SINK@" "toggle"; }
     // XF86AudioMicMute      allow-when-locked=true { spawn "wpctl" "set-mute" "@DEFAULT_AUDIO_SOURCE@" "toggle"; }
     // XF86MonBrightnessUp   allow-when-locked=true { spawn "brightnessctl" "set" "+5%"; }
@@ -377,7 +377,7 @@ binds {
     // Mod+Shift+E repeat=false  { quit; }
     // Ctrl+Alt+Delete repeat=false { quit; }
 
-    Mod+Shift+P repeat=false { power-off-monitors; }
+    Mod+Shift+0 repeat=false { power-off-monitors; }
 }
 
 debug {

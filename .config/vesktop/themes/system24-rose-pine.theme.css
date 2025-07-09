@@ -76,7 +76,7 @@ body {
   ); /* set this to a more opaque color if floating panels look too transparent. only applies if panel blur is on  */
 
   /* other options */
-  --small-user-panel: on; /* off: default user panel, on: smaller user panel like in old discord */
+  --small-user-panel: off; /* off: default user panel, on: smaller user panel like in old discord */
 
   /* unrounding options */
   --unrounding: on; /* off: default, on: remove rounded corners from panels */
