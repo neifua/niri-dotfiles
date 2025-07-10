@@ -29,7 +29,7 @@ input {
     mouse {
       // off
       // natural-scroll
-      accel-speed -0.2
+      accel-speed 0.0
       accel-profile "flat"
       // scroll-factor 1.0
       // scroll-method "no-scroll"
