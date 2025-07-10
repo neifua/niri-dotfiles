@@ -1,5 +1,5 @@
 * {
-  font-family: "Noto Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
   border: none;
   text-shadow: none;
   box-shadow: none;
@@ -56,7 +56,7 @@ window#waybar {
 #memory,
 #network {
   background-color: #26233a;
-  font-family: "GeistMono Nerd Font Propo";
+  font-family: "JetbrainsMono Nerd Font Propo";
   font-size: 16px;
   color: #e0def4;
   padding: 0px 10px;
@@ -80,16 +80,6 @@ window#waybar {
   border-radius: 0px 10px 10px 0px;
 }
 
-#pulseaudio.warning,
-#battery.warning {
-  color: #ebbcba;
-}
-
-#pulseaudio.critical,
-#battery.critical {
-  color: #eb6f92;
-}
-
 #network.disabled,
 #network.disconnected,
 #pulseaudio.muted,
@@ -108,13 +98,14 @@ window#waybar {
 }
 
 #clock {
+  font-family: "Noto Sans", sans-serif;
   color: #e0def4;
   font-size: 15px;
   margin-left: 12px;
 }
 
 #custom-notification {
-  font-family: "GeistMono Nerd Font Propo";
+  font-family: "JetbrainsMono Nerd Font Propo";
   font-size: 17px;
   color: #e0def4;
   padding-right: 2px;
