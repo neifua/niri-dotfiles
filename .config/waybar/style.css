@@ -17,10 +17,6 @@ window#waybar {
   transition-duration: 0.5s;
 }
 
-.modules-right {
-  padding: 0 10px;
-}
-
 #taskbar {
   font-size: 15px;
   color: #e0def4;
@@ -54,12 +50,13 @@ window#waybar {
 #pulseaudio,
 #cpu,
 #memory,
-#network {
+#network,
+#bluetooth {
   background-color: #26233a;
   font-family: "JetbrainsMono Nerd Font Propo";
   font-size: 16px;
   color: #e0def4;
-  padding: 0px 10px;
+  padding: 0px 9px;
   margin-top: 6px;
   margin-bottom: 5px;
 }
@@ -67,8 +64,19 @@ window#waybar {
 #network {
   font-size: 18px;
   color: #e0def4;
+  border-radius: 10px 0px 0px 10px;
+}
+
+#bluetooth {
+  font-size: 20px;
+  color: #e0def4;
   margin-right: 10px;
-  border-radius: 10px;
+  margin-left: -8px;
+  border-radius: 0px 10px 10px 0px;
+}
+
+#bluetooth.connected {
+  color: #9ccfd8;
 }
 
 #pulseaudio {
@@ -80,6 +88,21 @@ window#waybar {
   border-radius: 0px 10px 10px 0px;
 }
 
+#pulseaudio.warning,
+#battery.warning {
+  color: #ebbcba;
+}
+
+#pulseaudio.critical,
+#battery.critical {
+  color: #eb6f92;
+}
+
+#battery.charging {
+  color: #f6c177;
+}
+
+#bluetooth.off,
 #network.disabled,
 #network.disconnected,
 #pulseaudio.muted,
@@ -101,7 +124,8 @@ window#waybar {
   font-family: "Noto Sans", sans-serif;
   color: #e0def4;
   font-size: 15px;
-  margin-left: 12px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 #custom-notification {

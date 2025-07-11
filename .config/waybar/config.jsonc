@@ -10,6 +10,7 @@
   "modules-center": [],
   "modules-right": [
     "network",
+    "bluetooth",
     "cpu",
     "memory",
     "pulseaudio",
@@ -17,7 +18,6 @@
     "battery",
     "tray",
     "clock",
-    "custom/notification",
   ],
 
   "network": {
@@ -32,6 +32,16 @@
     "tooltip": false,
   },
 
+  "bluetooth": {
+    "format-disabled": "",
+    "format-connected": "󰂱",
+    "format-off": "󰂲",
+    "format-on": "󰂯",
+    "tooltip": false,
+    "on-click": "kitty bash -c bluetui",
+    "on-click-right": "bash -c 'if bluetoothctl show | grep -q \"Powered: yes\"; then bluetoothctl power off; else bluetoothctl power on; sleep 1; dev=$(bluetoothctl devices | grep -m1 Device | awk \"{print \\$2}\"); [ -n \"$dev\" ] && bluetoothctl connect $dev; fi'",
+  },
+
   "wlr/taskbar": {
     "format": "{icon}   {app_id}",
     "markup": true,
@@ -44,22 +54,15 @@
     "format": "{icon} {volume}%",
     "format-bluetooth": " {volume}%",
     "format-muted": " {volume}%",
-    "format-icons": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "<span foreground='#ebbcba'></span>",
-      "<span foreground='#ebbcba'></span>",
-      "<span foreground='#ebbcba'></span>",
-      "<span foreground='#ebbcba'></span>",
-      "<span foreground='#eb6f92'></span>",
-    ],
+    "format-icons": {
+      "headphone": "",
+      "headset": "",
+      "default": ["", "", "", "", "", "", "", "", "", ""],
+    },
     "states": {
-      "normal": 60,
+      "normal": 40,
       "warning": 100,
-      "critical": 154,
+      "critical": 130,
     },
     "on-click-right": "wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle",
     "on-click": "pavucontrol",
@@ -74,19 +77,8 @@
     },
     "format": "{icon} {capacity}%",
     "format-icons": {
-      "charging": ["<span foreground='#f6c177'>🔌</span>"],
-      "discharging": [
-        "<span foreground='#eb6f92'>󰁺</span>",
-        "<span foreground='#ebbcba'>󰁻</span>",
-        "<span foreground='#ebbcba'>󰁼</span>",
-        "󰁽",
-        "󰁾",
-        "󰁿",
-        "󰂀",
-        "󰂁",
-        "󰂂",
-        "󰁹",
-      ],
+      "charging": ["🔌"],
+      "discharging": ["󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹"],
     },
     "tooltip": false,
   },
