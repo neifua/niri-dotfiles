@@ -20,7 +20,7 @@ time="$(date +"%I:%M %p")"
 # Options
 shutdown='Poweroff'
 reboot='Reboot'
-lock='Lock'
+lock='Lockscreen'
 suspend='Sleep'
 logout='Logout'
 yes='Y'
@@ -54,7 +54,7 @@ confirm_exit() {
 
 # Pass variables to rofi dmenu
 run_rofi() {
-    echo -e "$lock\n$logout\n$suspend\n$reboot\n$shutdown" | rofi_cmd
+    echo -e "$logout\n$lock\n$reboot\n$shutdown" | rofi_cmd
 }
 
 # Execute Command
