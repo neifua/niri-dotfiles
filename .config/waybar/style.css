@@ -125,7 +125,6 @@ window#waybar {
   color: #e0def4;
   font-size: 15px;
   margin-left: 10px;
-  margin-right: 10px;
 }
 
 #custom-notification {
@@ -133,7 +132,8 @@ window#waybar {
   font-size: 17px;
   color: #e0def4;
   padding-right: 2px;
-  padding-left: 14px;
+  padding-left: 13px;
   margin-top: 6px;
   margin-bottom: 5px;
+  margin-right: 10px;
 }
