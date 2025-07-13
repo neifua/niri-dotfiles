@@ -76,7 +76,7 @@ body {
   ); /* set this to a more opaque color if floating panels look too transparent. only applies if panel blur is on  */
 
   /* other options */
-  --small-user-panel: off; /* off: default user panel, on: smaller user panel like in old discord */
+  --small-user-panel: on; /* off: default user panel, on: smaller user panel like in old discord */
 
   /* unrounding options */
   --unrounding: on; /* off: default, on: remove rounded corners from panels */
@@ -155,7 +155,7 @@ body {
   ); /* background of messages that reply to you when hovered */
 
   /* status indicator colors */
-  --online: var(--green-2); /* change to #43a25a for default */
+  --online: var(--blue-2); /* change to #43a25a for default */
   --dnd: var(--red-2); /* change to #d83a42 for default */
   --idle: var(--yellow-2); /* change to #ca9654 for default */
   --streaming: var(--purple-2); /* change to #593695 for default */
