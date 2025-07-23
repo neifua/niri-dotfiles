@@ -29,7 +29,7 @@ input {
     mouse {
       // off
       // natural-scroll
-      accel-speed 0.0
+      accel-speed 0.1
       accel-profile "flat"
       // scroll-factor 1.0
       // scroll-method "no-scroll"
@@ -110,7 +110,7 @@ prefer-no-csd
 screenshot-path "~/Pictures/Screenshots/Screenshot from %Y-%m-%d %H-%M-%S.png"
 
 environment {
-  DISPLAY ":0"
+  DISPLAY ":1"
   QT_QPA_PLATFORM "wayland"
   ELECTRON_OZONE_PLATFORM_HINT "auto"
 }
@@ -229,8 +229,8 @@ binds {
     // XF86MonBrightnessUp   allow-when-locked=true { spawn "brightnessctl" "set" "+5%"; }
     // XF86MonBrightnessDown allow-when-locked=true { spawn "brightnessctl" "set" "5%-"; }
 
-    XF86AudioRaiseVolume    { spawn "sh" "-c" "exec swayosd-client --output-volume +2 --max-volume 153"; }
-    XF86AudioLowerVolume    { spawn "sh" "-c" "exec swayosd-client --output-volume -2 --max-volume 153"; }
+    XF86AudioRaiseVolume    { spawn "sh" "-c" "exec swayosd-client --output-volume +2 --max-volume 130"; }
+    XF86AudioLowerVolume    { spawn "sh" "-c" "exec swayosd-client --output-volume -2 --max-volume 130"; }
     XF86AudioMute           { spawn "sh" "-c" "exec swayosd-client --output-volume mute-toggle"; }
     XF86AudioMicMute        { spawn "sh" "-c" "exec swayosd-client --input-volume mute-toggle"; }
     XF86MonBrightnessUp     { spawn "sh" "-c" "exec swayosd-client --brightness +5"; }
