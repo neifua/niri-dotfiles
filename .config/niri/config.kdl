@@ -29,7 +29,7 @@ input {
     mouse {
       // off
       // natural-scroll
-      accel-speed 0.1
+      accel-speed 0.0
       accel-profile "flat"
       // scroll-factor 1.0
       // scroll-method "no-scroll"
@@ -183,16 +183,13 @@ window-rule {
 }
 
 window-rule {
-  match app-id="vlc"
   match app-id="mpv"
   default-column-width { proportion 1.0; }
   default-window-height { proportion 1.0; }
 }
 
 window-rule {
-  match app-id="Spotify"
   match app-id="vesktop"
-  match app-id="thunderbird-esr"
   match app-id="com.obsproject.Studio"
   default-column-width { proportion 1.0; }
 }
