@@ -189,6 +189,7 @@ window-rule {
 }
 
 window-rule {
+  match app-id="Spotify"
   match app-id="vesktop"
   match app-id="com.obsproject.Studio"
   default-column-width { proportion 1.0; }
