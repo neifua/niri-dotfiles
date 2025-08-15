@@ -227,8 +227,8 @@ binds {
     // XF86MonBrightnessUp   allow-when-locked=true { spawn "brightnessctl" "set" "+5%"; }
     // XF86MonBrightnessDown allow-when-locked=true { spawn "brightnessctl" "set" "5%-"; }
 
-    XF86AudioRaiseVolume    { spawn "sh" "-c" "exec swayosd-client --output-volume +2 --max-volume 130"; }
-    XF86AudioLowerVolume    { spawn "sh" "-c" "exec swayosd-client --output-volume -2 --max-volume 130"; }
+      XF86AudioRaiseVolume    { spawn "sh" "-c" "exec swayosd-client --output-volume +2 --max-volume 150"; }
+    XF86AudioLowerVolume    { spawn "sh" "-c" "exec swayosd-client --output-volume -2 --max-volume 150"; }
     XF86AudioMute           { spawn "sh" "-c" "exec swayosd-client --output-volume mute-toggle"; }
     XF86AudioMicMute        { spawn "sh" "-c" "exec swayosd-client --input-volume mute-toggle"; }
     XF86MonBrightnessUp     { spawn "sh" "-c" "exec swayosd-client --brightness +5"; }
