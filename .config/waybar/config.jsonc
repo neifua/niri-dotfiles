@@ -63,7 +63,7 @@
     "states": {
       "normal": 40,
       "warning": 100,
-      "critical": 130,
+      "critical": 150,
     },
     "on-click-right": "wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle",
     "on-click": "pavucontrol",
