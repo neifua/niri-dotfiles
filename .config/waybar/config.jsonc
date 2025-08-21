@@ -44,10 +44,10 @@
   },
 
   "wlr/taskbar": {
-    "format": "{icon}   {app_id}",
+    "format": "{icon}   {name}",
     "markup": true,
     "icon-theme": "Adwaita",
-    "icon-size": 22,
+    "icon-size": 20,
     "on-click": "activate",
   },
 

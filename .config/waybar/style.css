@@ -23,7 +23,7 @@ window#waybar {
 }
 
 #taskbar button {
-  min-width: 7.5em;
+  min-width: 9em;
   border-radius: 0;
   border-bottom: 3px solid #26233a;
   transition-property: border-color;
