@@ -16,11 +16,11 @@
 body {
   /* font, change to '' for default discord font */
   --font: "Carlito"; /* change to '' for default discord font */
-  --code-font: "Lilex Nerd Font Mono"; /* change to '' for default discord font */
-  font-weight: 370 /* normal text font weight. DOES NOT AFFECT BOLD TEXT */;
+  --code-font: "Lilex Nerd Font"; /* change to '' for default discord font */
+  font-weight: 400 /* normal text font weight. DOES NOT AFFECT BOLD TEXT */;
 
   /* sizes */
-  --gap: 5px; /* spacing between panels */
+  --gap: 4px; /* spacing between panels */
   --divider-thickness: 2px; /* thickness of unread messages divider and highlighted message borders */
   --border-thickness: 1px; /* thickness of borders around main panels. DOES NOT AFFECT OTHER BORDERS */
 
@@ -76,7 +76,7 @@ body {
 
   /* chatbar options */
   --custom-chatbar: separated; /* off: default chatbar, aligned: chatbar aligned with the user panel, separated: chatbar separated from chat */
-  --chatbar-height: 57px; /* height of the chatbar (52px by default, 47px recommended for aligned, 56px recommended for separated) */
+  --chatbar-height: 60px; /* height of the chatbar (52px by default, 47px recommended for aligned, 56px recommended for separated) */
   --chatbar-padding: 8px; /* padding of the chatbar. only applies in aligned mode. */
 
   /* other options */

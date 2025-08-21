@@ -176,7 +176,7 @@ window-rule {
 // }
 
 window-rule {
-  geometry-corner-radius 0
+  geometry-corner-radius 6
   clip-to-geometry true
   tiled-state true
   baba-is-float false
