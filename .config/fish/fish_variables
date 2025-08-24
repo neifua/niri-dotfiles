@@ -6,6 +6,9 @@ SETUVAR --export GTKLOCK_MODULE_DIR:/usr/lib/gtklock/modules
 SETUVAR --export --path PATH:/home/neifua/depot_tools\x1e/home/neifua/\x2elocal/bin\x1e/usr/local/bin\x1e/usr/bin\x1e/bin\x1e/home/neifua/\x2elmstudio/bin
 SETUVAR --export --path PKG_CONFIG_PATH:\x1d
 SETUVAR --export --path QML_IMPORT_PATH:/usr/lib64/qt6/qml
+SETUVAR --export QT_QPA_PLATFORM:xcb
+SETUVAR --export SSH_AGENT_PID:\x1d
+SETUVAR --export SSH_AUTH_SOCK:\x1d
 SETUVAR --export VISUAL:nvim
 SETUVAR __fish_initialized:3800
 SETUVAR fish_color_autosuggestion:908caa

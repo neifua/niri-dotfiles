@@ -1,5 +1,5 @@
 * {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Poppins";
   border: none;
   text-shadow: none;
   box-shadow: none;
@@ -23,7 +23,7 @@ window#waybar {
 }
 
 #taskbar button {
-  min-width: 9em;
+  min-width: 7.5em;
   border-radius: 0;
   border-bottom: 3px solid #26233a;
   transition-property: border-color;
@@ -121,15 +121,17 @@ window#waybar {
 }
 
 #clock {
-  font-family: "Noto Sans", sans-serif;
+  font-family: "System-ui", sans-serif;
   color: #e0def4;
   font-size: 15px;
+  margin-top: 3px;
+  margin-bottom: 3px;
   margin-left: 10px;
 }
 
 #custom-notification {
   font-family: "JetbrainsMono Nerd Font Propo";
-  font-size: 17px;
+  font-size: 21px;
   color: #e0def4;
   padding-right: 2px;
   padding-left: 13px;

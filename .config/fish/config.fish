@@ -27,6 +27,7 @@ end
 alias py="python3"
 alias c="gcc"
 alias cpp="g++"
+alias vim="nvim"
 
 ##############################################################################
 
@@ -44,3 +45,4 @@ set -gx QT_IM_MODULE fcitx
 set -gx SDL_IM_MODULE fcitx
 set -gx XMODIFIERS @im=fcitx
 set -gx GLFW_IM_MODULE ibus
+set -Ux QT_QPA_PLATFORM xcb

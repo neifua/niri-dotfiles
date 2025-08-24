@@ -195,6 +195,14 @@ window-rule {
   default-column-width { proportion 1.0; }
 }
 
+window-rule {
+  match app-id="org.telegram.desktop" title="Media viewer"
+  open-fullscreen false
+  open-floating true
+  default-column-width { proportion 0.75; }
+  default-window-height { proportion 0.75; }
+}
+
 layer-rule {
   match namespace="rofi"
   match namespace="waybar"

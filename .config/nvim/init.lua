@@ -42,5 +42,9 @@ vim.lsp.enable "ast_grep"
 
 vim.opt.number = true
 vim.opt.relativenumber = true
+vim.opt.guicursor = "n-v-c-sm:block,i-ci-ve:block,r-cr-o:hor20"
 
 require("lspconfig").lua_ls.setup {}
+vim.keymap.set('n', '<leader>f', function()
+  require('telescope.builtin').find_files({ hidden = true })
+end)

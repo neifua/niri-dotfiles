@@ -2,6 +2,7 @@
   "layer": "bottom",
   "position": "bottom",
   "mod": "dock",
+  "fixed-center": true,
   "exclusive": true,
   "passthrough": false,
   "gtk-layer-shell": true,
@@ -46,7 +47,10 @@
   "wlr/taskbar": {
     "format": "{icon}   {name}",
     "markup": true,
-    "icon-theme": "Adwaita",
+    "tooltip": false,
+    "active-first": true,
+    // "sort-by-app-id": true,
+    "icon-theme": "Arashi",
     "icon-size": 20,
     "on-click": "activate",
   },
@@ -101,6 +105,9 @@
   "tray": {
     "icon-size": 18,
     "spacing": 8,
+    "icons": {
+      "Spotify": "Arashi",
+    },
   },
 
   "cpu": {
@@ -119,10 +126,10 @@
     "tooltip": true,
     "format": "{icon}",
     "format-icons": {
-      "notification": "<span foreground='#eb6f92'>󱅫</span>",
-      "none": "<span foreground='#e0def4'></span>",
-      "dnd-notification": "<span foreground='#908caa'>󱅫</span>",
-      "dnd-none": "<span foreground='#6e6a86'></span>",
+      "notification": "<span foreground='#eb6f92'></span>",
+      "none": "<span foreground='#e0def4'></span>",
+      "dnd-notification": "<span foreground='#908caa'></span>",
+      "dnd-none": "<span foreground='#6e6a86'></span>",
     },
     "return-type": "json",
     "exec-if": "which swaync-client",
