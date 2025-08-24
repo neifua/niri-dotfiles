@@ -20,7 +20,7 @@ body {
   font-weight: 400 /* normal text font weight. DOES NOT AFFECT BOLD TEXT */;
 
   /* sizes */
-  --gap: 4px; /* spacing between panels */
+  --gap: 6px; /* spacing between panels */
   --divider-thickness: 2px; /* thickness of unread messages divider and highlighted message borders */
   --border-thickness: 1px; /* thickness of borders around main panels. DOES NOT AFFECT OTHER BORDERS */
 
