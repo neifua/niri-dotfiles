@@ -104,10 +104,7 @@
 
   "tray": {
     "icon-size": 18,
-    "spacing": 8,
-    "icons": {
-      "Spotify": "Arashi",
-    },
+    "spacing": 9,
   },
 
   "cpu": {
