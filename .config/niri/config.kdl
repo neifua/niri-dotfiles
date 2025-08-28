@@ -49,7 +49,7 @@ output "eDP-1" {
 }
 
 layout {
-  gaps 12
+  gaps 14
   center-focused-column "never"
   preset-column-widths {
     proportion 0.25
@@ -176,13 +176,14 @@ window-rule {
 // }
 
 window-rule {
-  geometry-corner-radius 6
+  geometry-corner-radius 0
   clip-to-geometry true
   tiled-state true
   baba-is-float false
 }
 
 window-rule {
+  // match app-id="steam_app_0" title="Zalo"
   match app-id="mpv"
   default-column-width { proportion 1.0; }
   default-window-height { proportion 1.0; }

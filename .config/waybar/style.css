@@ -18,12 +18,12 @@ window#waybar {
 }
 
 #taskbar {
-  font-size: 15px;
+  font-size: 16px;
   color: #e0def4;
 }
 
 #taskbar button {
-  min-width: 7.5em;
+  min-width: 8.5em;
   border-radius: 0;
   border-bottom: 3px solid #26233a;
   transition-property: border-color;
@@ -38,10 +38,10 @@ window#waybar {
   color: #e0def4;
   background-color: #26233a;
   padding: 0px 10px;
-  margin-top: 6px;
-  margin-bottom: 5px;
+  margin-top: 7px;
+  margin-bottom: 6px;
   margin-left: 10px;
-  border-radius: 10px;
+  border-radius: 14px;
   border-width: 0px;
 }
 
@@ -56,15 +56,15 @@ window#waybar {
   font-family: "JetbrainsMono Nerd Font Propo";
   font-size: 16px;
   color: #e0def4;
-  padding: 0px 9px;
-  margin-top: 6px;
-  margin-bottom: 5px;
+  padding: 0px 10px;
+  margin-top: 7px;
+  margin-bottom: 6px;
 }
 
 #network {
   font-size: 18px;
   color: #e0def4;
-  border-radius: 10px 0px 0px 10px;
+  border-radius: 14px 0px 0px 14px;
 }
 
 #bluetooth {
@@ -72,7 +72,7 @@ window#waybar {
   color: #e0def4;
   margin-right: 10px;
   margin-left: -8px;
-  border-radius: 0px 10px 10px 0px;
+  border-radius: 0px 14px 14px 0px;
 }
 
 #bluetooth.connected {
@@ -81,11 +81,11 @@ window#waybar {
 
 #pulseaudio {
   color: #e0def4;
-  border-radius: 10px 0px 0px 10px;
+  border-radius: 14px 0px 0px 14px;
 }
 
 #battery {
-  border-radius: 0px 10px 10px 0px;
+  border-radius: 0px 14px 14px 0px;
 }
 
 #pulseaudio.warning,
@@ -112,18 +112,18 @@ window#waybar {
 }
 
 #cpu {
-  border-radius: 10px 0px 0px 10px;
+  border-radius: 14px 0px 0px 14px;
 }
 
 #memory {
   margin-right: 10px;
-  border-radius: 0px 10px 10px 0px;
+  border-radius: 0px 14px 14px 0px;
 }
 
 #clock {
   font-family: "System-ui", sans-serif;
   color: #e0def4;
-  font-size: 15px;
+  font-size: 16px;
   margin-top: 3px;
   margin-bottom: 3px;
   margin-left: 10px;
@@ -131,11 +131,11 @@ window#waybar {
 
 #custom-notification {
   font-family: "JetbrainsMono Nerd Font Propo";
-  font-size: 26px;
+  font-size: 23px;
   color: #e0def4;
   padding-right: 2px;
   padding-left: 13px;
   margin-top: 6px;
   margin-bottom: 5px;
-  margin-right: 10px;
+  margin-right: 13px;
 }

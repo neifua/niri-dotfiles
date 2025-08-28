@@ -3,47 +3,47 @@
 ## Author : Aditya Shakya (adi1090x)
 ## Github : @adi1090x
 #
-## Rofi   : Powermenu
+## Rofi   : Power Menu
+#
+## Available Styles
+#
+## style-1   style-2   style-3   style-4   style-5
 
 # Current Theme
-dir="$HOME/.config/rofi/powermenu"
+dir="$HOME/.config/rofi/powermenu/"
 theme='style'
 
 # CMDs
-user="$(whoami)"
 host=`hostname`
-uptime="`uptime -p | sed -e 's/up //g'`"
 distro="$(. /etc/os-release && echo "$NAME")"
-today="$(date +"%B %d, %Y")"
-time="$(date +"%I:%M %p")"
 
 # Options
-shutdown='Poweroff'
-reboot='Reboot'
-lock='Lockscreen'
-suspend='Sleep'
-logout='Logout'
-yes='Y'
-no='N'
+shutdown='󰤆 Poweroff'
+reboot=' Reboot'
+lock=' Lock'
+suspend='⏾ Sleep'
+logout='󰍃 Logout'
+yes='Yes'
+no='No'
 
 # Rofi CMD
 rofi_cmd() {
     rofi -dmenu \
-        -p "$user" \
-        -mesg "$host ─ $distro" \
+        -p "$host" \
+        -mesg "OS: $distro" \
         -theme ${dir}/${theme}.rasi
 }
 
-Confirmation CMD
+# Confirmation CMD
 confirm_cmd() {
-    rofi -theme-str 'window {location: center; anchor: center; fullscreen: false; width: 200px;}' \
+    rofi -theme-str 'window {location: center; anchor: center; fullscreen: false; width: 250px;}' \
         -theme-str 'mainbox {children: [ "message", "listview" ];}' \
         -theme-str 'listview {columns: 2; lines: 1;}' \
         -theme-str 'element-text {horizontal-align: 0.5;}' \
         -theme-str 'textbox {horizontal-align: 0.5;}' \
         -dmenu \
         -p 'Confirmation' \
-        -mesg 'Confirm?' \
+        -mesg 'Are you Sure?' \
         -theme ${dir}/${theme}.rasi
 }
 
@@ -54,7 +54,7 @@ confirm_exit() {
 
 # Pass variables to rofi dmenu
 run_rofi() {
-    echo -e "$logout\n$lock\n$reboot\n$shutdown" | rofi_cmd
+    echo -e "$lock\n$suspend\n$logout\n$reboot\n$shutdown" | rofi_cmd
 }
 
 # Execute Command
@@ -67,6 +67,7 @@ run_cmd() {
             systemctl reboot
         elif [[ $1 == '--suspend' ]]; then
             mpc -q pause
+            amixer set Master mute
             systemctl suspend
         elif [[ $1 == '--logout' ]]; then
             if [[ "$XDG_CURRENT_DESKTOP" == 'niri' ]]; then
