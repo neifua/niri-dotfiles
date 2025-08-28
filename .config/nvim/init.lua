@@ -31,20 +31,11 @@ dofile(vim.g.base46_cache .. "statusline")
 
 require "options"
 require "autocmds"
-
+require "chadrc"
 vim.schedule(function()
   require "mappings"
 end)
 
-vim.lsp.enable "qmlls"
-vim.lsp.enable "dprint"
-vim.lsp.enable "ast_grep"
-
 vim.opt.number = true
--- vim.opt.relativenumber = true
-vim.opt.guicursor = "n-v-c-sm:block,i-ci-ve:block,r-cr-o:hor20"
-
-require("lspconfig").lua_ls.setup {}
-vim.keymap.set("n", "<leader>f", function()
-  require("telescope.builtin").find_files { hidden = true }
-end)
+vim.opt.relativenumber = true
+-- vim.opt.guicursor = "n-v-c-sm:block,i-ci-ve:block,r-cr-o:hor20"
