@@ -22,8 +22,6 @@ export PATH=$HOME/bin:$PATH
 export VISUAL=nvim
 export EDITOR={$VISUAL}
 export LS_COLORS=$(vivid generate rose-pine)
-export GOPATH=$HOME/go
-export PATH=/usr/lib64/qt6/bin$PATH
 
 ##############################################################################
 
