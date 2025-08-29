@@ -1,20 +1,79 @@
 return {
-  { import = "nvchad.blink.lazyspec" },
-
-  { "nvim-lua/plenary.nvim" },
+  {
+    "stevearc/conform.nvim",
+    event = "BufWritePre",
+    opts = require "configs.conform",
+  },
 
   {
-    "nvchad/base46",
-    build = function()
-      require("base46").load_all_highlights()
+    "neovim/nvim-lspconfig",
+    config = function()
+      require "configs.lspconfig"
+    end,
+  },
+
+  { import = "nvchad.blink.lazyspec" },
+
+  {
+    "nvim-treesitter/nvim-treesitter",
+    opts = {
+      ensure_installed = {
+        "vim",
+        "lua",
+        "vimdoc",
+        "html",
+        "css",
+      },
+    },
+  },
+
+  {
+    "echasnovski/mini.icons",
+    lazy = true,
+    init = function()
+      package.preload["nvim-web-devicons"] = function()
+        require("mini.icons").mock_nvim_web_devicons()
+        return package.loaded["nvim-web-devicons"]
+      end
+    end,
+    opts = {
+      file = {
+        [".keep"] = { glyph = "󰊢", hl = "MiniIconsGrey" },
+        ["devcontainer.json"] = { glyph = "", hl = "MiniIconsAzure" },
+      },
+      filetype = {
+        dotenv = { glyph = "", hl = "MiniIconsYellow" },
+      },
+    },
+  },
+
+  {
+    "nvim-telescope/telescope.nvim",
+    dependencies = { "nvim-treesitter/nvim-treesitter" },
+    cmd = "Telescope",
+    opts = function()
+      local opts = require "nvchad.configs.telescope"
+
+      opts.pickers = {
+        find_files = {
+          hidden = true,
+        },
+      }
+
+      return opts
     end,
   },
 
   {
-    "nvchad/ui",
-    lazy = false,
-    config = function()
-      require "nvchad"
+    "folke/which-key.nvim",
+    cmd = "WhichKey",
+    opts = function()
+      dofile(vim.g.base46_cache .. "whichkey")
+      return {}
     end,
+  },
+
+  require("which-key").setup {
+    delay = 0,
   },
 }

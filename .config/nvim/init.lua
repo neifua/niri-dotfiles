@@ -31,11 +31,11 @@ dofile(vim.g.base46_cache .. "statusline")
 
 require "options"
 require "autocmds"
-require "chadrc"
+
 vim.schedule(function()
   require "mappings"
 end)
 
 vim.opt.number = true
 vim.opt.relativenumber = true
--- vim.opt.guicursor = "n-v-c-sm:block,i-ci-ve:block,r-cr-o:hor20"
+vim.opt.guicursor = "n-v-c-sm:block,i-ci-ve:block,r-cr-o:hor20"
