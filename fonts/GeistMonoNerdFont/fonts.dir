@@ -1,0 +1,649 @@
+648
+GeistMonoNerdFont-Black.otf -misc-geistmono nf black-extrabold-r-normal--0-0-0-0-p-0-iso10646-1
+GeistMonoNerdFont-Black.otf -misc-geistmono nf black-extrabold-r-normal--0-0-0-0-p-0-iso8859-1
+GeistMonoNerdFont-Black.otf -misc-geistmono nf black-extrabold-r-normal--0-0-0-0-p-0-iso8859-15
+GeistMonoNerdFont-Black.otf -misc-geistmono nf black-extrabold-r-normal--0-0-0-0-p-0-iso8859-2
+GeistMonoNerdFont-Black.otf -misc-geistmono nf black-extrabold-r-normal--0-0-0-0-p-0-iso8859-3
+GeistMonoNerdFont-Black.otf -misc-geistmono nf black-extrabold-r-normal--0-0-0-0-p-0-iso8859-5
+GeistMonoNerdFont-Black.otf -misc-geistmono nf black-extrabold-r-normal--0-0-0-0-p-0-iso8859-9
+GeistMonoNerdFont-Black.otf -misc-geistmono nf black-extrabold-r-normal--0-0-0-0-p-0-koi8-e
+GeistMonoNerdFont-Black.otf -misc-geistmono nf black-extrabold-r-normal--0-0-0-0-p-0-koi8-r
+GeistMonoNerdFont-Black.otf -misc-geistmono nf black-extrabold-r-normal--0-0-0-0-p-0-koi8-ru
+GeistMonoNerdFont-Black.otf -misc-geistmono nf black-extrabold-r-normal--0-0-0-0-p-0-koi8-u
+GeistMonoNerdFont-Black.otf -misc-geistmono nf black-extrabold-r-normal--0-0-0-0-p-0-koi8-uni
+GeistMonoNerdFont-Bold.otf -misc-geistmono nf-bold-r-normal--0-0-0-0-p-0-iso10646-1
+GeistMonoNerdFont-Bold.otf -misc-geistmono nf-bold-r-normal--0-0-0-0-p-0-iso8859-1
+GeistMonoNerdFont-Bold.otf -misc-geistmono nf-bold-r-normal--0-0-0-0-p-0-iso8859-15
+GeistMonoNerdFont-Bold.otf -misc-geistmono nf-bold-r-normal--0-0-0-0-p-0-iso8859-2
+GeistMonoNerdFont-Bold.otf -misc-geistmono nf-bold-r-normal--0-0-0-0-p-0-iso8859-3
+GeistMonoNerdFont-Bold.otf -misc-geistmono nf-bold-r-normal--0-0-0-0-p-0-iso8859-5
+GeistMonoNerdFont-Bold.otf -misc-geistmono nf-bold-r-normal--0-0-0-0-p-0-iso8859-9
+GeistMonoNerdFont-Bold.otf -misc-geistmono nf-bold-r-normal--0-0-0-0-p-0-koi8-e
+GeistMonoNerdFont-Bold.otf -misc-geistmono nf-bold-r-normal--0-0-0-0-p-0-koi8-r
+GeistMonoNerdFont-Bold.otf -misc-geistmono nf-bold-r-normal--0-0-0-0-p-0-koi8-ru
+GeistMonoNerdFont-Bold.otf -misc-geistmono nf-bold-r-normal--0-0-0-0-p-0-koi8-u
+GeistMonoNerdFont-Bold.otf -misc-geistmono nf-bold-r-normal--0-0-0-0-p-0-koi8-uni
+GeistMonoNerdFont-Light.otf -misc-geistmono nf light-light-r-normal--0-0-0-0-p-0-iso10646-1
+GeistMonoNerdFont-Light.otf -misc-geistmono nf light-light-r-normal--0-0-0-0-p-0-iso8859-1
+GeistMonoNerdFont-Light.otf -misc-geistmono nf light-light-r-normal--0-0-0-0-p-0-iso8859-15
+GeistMonoNerdFont-Light.otf -misc-geistmono nf light-light-r-normal--0-0-0-0-p-0-iso8859-2
+GeistMonoNerdFont-Light.otf -misc-geistmono nf light-light-r-normal--0-0-0-0-p-0-iso8859-3
+GeistMonoNerdFont-Light.otf -misc-geistmono nf light-light-r-normal--0-0-0-0-p-0-iso8859-5
+GeistMonoNerdFont-Light.otf -misc-geistmono nf light-light-r-normal--0-0-0-0-p-0-iso8859-9
+GeistMonoNerdFont-Light.otf -misc-geistmono nf light-light-r-normal--0-0-0-0-p-0-koi8-e
+GeistMonoNerdFont-Light.otf -misc-geistmono nf light-light-r-normal--0-0-0-0-p-0-koi8-r
+GeistMonoNerdFont-Light.otf -misc-geistmono nf light-light-r-normal--0-0-0-0-p-0-koi8-ru
+GeistMonoNerdFont-Light.otf -misc-geistmono nf light-light-r-normal--0-0-0-0-p-0-koi8-u
+GeistMonoNerdFont-Light.otf -misc-geistmono nf light-light-r-normal--0-0-0-0-p-0-koi8-uni
+GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-r-normal--0-0-0-0-p-0-iso10646-1
+GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-r-normal--0-0-0-0-p-0-iso8859-1
+GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-r-normal--0-0-0-0-p-0-iso8859-15
+GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-r-normal--0-0-0-0-p-0-iso8859-2
+GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-r-normal--0-0-0-0-p-0-iso8859-3
+GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-r-normal--0-0-0-0-p-0-iso8859-5
+GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-r-normal--0-0-0-0-p-0-iso8859-9
+GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-r-normal--0-0-0-0-p-0-koi8-e
+GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-r-normal--0-0-0-0-p-0-koi8-r
+GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-r-normal--0-0-0-0-p-0-koi8-ru
+GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-r-normal--0-0-0-0-p-0-koi8-u
+GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-r-normal--0-0-0-0-p-0-koi8-uni
+GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-r-normal--0-0-0-0-p-0-iso10646-1
+GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-r-normal--0-0-0-0-p-0-iso8859-1
+GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-r-normal--0-0-0-0-p-0-iso8859-15
+GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-r-normal--0-0-0-0-p-0-iso8859-2
+GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-r-normal--0-0-0-0-p-0-iso8859-3
+GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-r-normal--0-0-0-0-p-0-iso8859-5
+GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-r-normal--0-0-0-0-p-0-iso8859-9
+GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-r-normal--0-0-0-0-p-0-koi8-e
+GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-r-normal--0-0-0-0-p-0-koi8-r
+GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-r-normal--0-0-0-0-p-0-koi8-ru
+GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-r-normal--0-0-0-0-p-0-koi8-u
+GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-r-normal--0-0-0-0-p-0-koi8-uni
+GeistMonoNerdFont-SemiBold.otf -misc-geistmono nf semibold-semibold-r-normal--0-0-0-0-p-0-iso10646-1
+GeistMonoNerdFont-SemiBold.otf -misc-geistmono nf semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-1
+GeistMonoNerdFont-SemiBold.otf -misc-geistmono nf semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-15
+GeistMonoNerdFont-SemiBold.otf -misc-geistmono nf semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-2
+GeistMonoNerdFont-SemiBold.otf -misc-geistmono nf semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-3
+GeistMonoNerdFont-SemiBold.otf -misc-geistmono nf semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-5
+GeistMonoNerdFont-SemiBold.otf -misc-geistmono nf semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-9
+GeistMonoNerdFont-SemiBold.otf -misc-geistmono nf semibold-semibold-r-normal--0-0-0-0-p-0-koi8-e
+GeistMonoNerdFont-SemiBold.otf -misc-geistmono nf semibold-semibold-r-normal--0-0-0-0-p-0-koi8-r
+GeistMonoNerdFont-SemiBold.otf -misc-geistmono nf semibold-semibold-r-normal--0-0-0-0-p-0-koi8-ru
+GeistMonoNerdFont-SemiBold.otf -misc-geistmono nf semibold-semibold-r-normal--0-0-0-0-p-0-koi8-u
+GeistMonoNerdFont-SemiBold.otf -misc-geistmono nf semibold-semibold-r-normal--0-0-0-0-p-0-koi8-uni
+GeistMonoNerdFont-Thin.otf -misc-geistmono nf thin-thin-r-normal--0-0-0-0-p-0-iso10646-1
+GeistMonoNerdFont-Thin.otf -misc-geistmono nf thin-thin-r-normal--0-0-0-0-p-0-iso8859-1
+GeistMonoNerdFont-Thin.otf -misc-geistmono nf thin-thin-r-normal--0-0-0-0-p-0-iso8859-15
+GeistMonoNerdFont-Thin.otf -misc-geistmono nf thin-thin-r-normal--0-0-0-0-p-0-iso8859-2
+GeistMonoNerdFont-Thin.otf -misc-geistmono nf thin-thin-r-normal--0-0-0-0-p-0-iso8859-3
+GeistMonoNerdFont-Thin.otf -misc-geistmono nf thin-thin-r-normal--0-0-0-0-p-0-iso8859-5
+GeistMonoNerdFont-Thin.otf -misc-geistmono nf thin-thin-r-normal--0-0-0-0-p-0-iso8859-9
+GeistMonoNerdFont-Thin.otf -misc-geistmono nf thin-thin-r-normal--0-0-0-0-p-0-koi8-e
+GeistMonoNerdFont-Thin.otf -misc-geistmono nf thin-thin-r-normal--0-0-0-0-p-0-koi8-r
+GeistMonoNerdFont-Thin.otf -misc-geistmono nf thin-thin-r-normal--0-0-0-0-p-0-koi8-ru
+GeistMonoNerdFont-Thin.otf -misc-geistmono nf thin-thin-r-normal--0-0-0-0-p-0-koi8-u
+GeistMonoNerdFont-Thin.otf -misc-geistmono nf thin-thin-r-normal--0-0-0-0-p-0-koi8-uni
+GeistMonoNerdFont-UltraBlack.otf -misc-geistmono nf ultrablack-black-r-normal--0-0-0-0-p-0-iso10646-1
+GeistMonoNerdFont-UltraBlack.otf -misc-geistmono nf ultrablack-black-r-normal--0-0-0-0-p-0-iso8859-1
+GeistMonoNerdFont-UltraBlack.otf -misc-geistmono nf ultrablack-black-r-normal--0-0-0-0-p-0-iso8859-15
+GeistMonoNerdFont-UltraBlack.otf -misc-geistmono nf ultrablack-black-r-normal--0-0-0-0-p-0-iso8859-2
+GeistMonoNerdFont-UltraBlack.otf -misc-geistmono nf ultrablack-black-r-normal--0-0-0-0-p-0-iso8859-3
+GeistMonoNerdFont-UltraBlack.otf -misc-geistmono nf ultrablack-black-r-normal--0-0-0-0-p-0-iso8859-5
+GeistMonoNerdFont-UltraBlack.otf -misc-geistmono nf ultrablack-black-r-normal--0-0-0-0-p-0-iso8859-9
+GeistMonoNerdFont-UltraBlack.otf -misc-geistmono nf ultrablack-black-r-normal--0-0-0-0-p-0-koi8-e
+GeistMonoNerdFont-UltraBlack.otf -misc-geistmono nf ultrablack-black-r-normal--0-0-0-0-p-0-koi8-r
+GeistMonoNerdFont-UltraBlack.otf -misc-geistmono nf ultrablack-black-r-normal--0-0-0-0-p-0-koi8-ru
+GeistMonoNerdFont-UltraBlack.otf -misc-geistmono nf ultrablack-black-r-normal--0-0-0-0-p-0-koi8-u
+GeistMonoNerdFont-UltraBlack.otf -misc-geistmono nf ultrablack-black-r-normal--0-0-0-0-p-0-koi8-uni
+GeistMonoNerdFont-UltraLight.otf -misc-geistmono nf ultralight-extralight-r-normal--0-0-0-0-p-0-iso10646-1
+GeistMonoNerdFont-UltraLight.otf -misc-geistmono nf ultralight-extralight-r-normal--0-0-0-0-p-0-iso8859-1
+GeistMonoNerdFont-UltraLight.otf -misc-geistmono nf ultralight-extralight-r-normal--0-0-0-0-p-0-iso8859-15
+GeistMonoNerdFont-UltraLight.otf -misc-geistmono nf ultralight-extralight-r-normal--0-0-0-0-p-0-iso8859-2
+GeistMonoNerdFont-UltraLight.otf -misc-geistmono nf ultralight-extralight-r-normal--0-0-0-0-p-0-iso8859-3
+GeistMonoNerdFont-UltraLight.otf -misc-geistmono nf ultralight-extralight-r-normal--0-0-0-0-p-0-iso8859-5
+GeistMonoNerdFont-UltraLight.otf -misc-geistmono nf ultralight-extralight-r-normal--0-0-0-0-p-0-iso8859-9
+GeistMonoNerdFont-UltraLight.otf -misc-geistmono nf ultralight-extralight-r-normal--0-0-0-0-p-0-koi8-e
+GeistMonoNerdFont-UltraLight.otf -misc-geistmono nf ultralight-extralight-r-normal--0-0-0-0-p-0-koi8-r
+GeistMonoNerdFont-UltraLight.otf -misc-geistmono nf ultralight-extralight-r-normal--0-0-0-0-p-0-koi8-ru
+GeistMonoNerdFont-UltraLight.otf -misc-geistmono nf ultralight-extralight-r-normal--0-0-0-0-p-0-koi8-u
+GeistMonoNerdFont-UltraLight.otf -misc-geistmono nf ultralight-extralight-r-normal--0-0-0-0-p-0-koi8-uni
+GeistMonoNerdFontMono-Black.otf -misc-geistmono nfm black-extrabold-r-normal--0-0-0-0-m-0-iso10646-1
+GeistMonoNerdFontMono-Black.otf -misc-geistmono nfm black-extrabold-r-normal--0-0-0-0-m-0-iso8859-1
+GeistMonoNerdFontMono-Black.otf -misc-geistmono nfm black-extrabold-r-normal--0-0-0-0-m-0-iso8859-15
+GeistMonoNerdFontMono-Black.otf -misc-geistmono nfm black-extrabold-r-normal--0-0-0-0-m-0-iso8859-2
+GeistMonoNerdFontMono-Black.otf -misc-geistmono nfm black-extrabold-r-normal--0-0-0-0-m-0-iso8859-3
+GeistMonoNerdFontMono-Black.otf -misc-geistmono nfm black-extrabold-r-normal--0-0-0-0-m-0-iso8859-5
+GeistMonoNerdFontMono-Black.otf -misc-geistmono nfm black-extrabold-r-normal--0-0-0-0-m-0-iso8859-9
+GeistMonoNerdFontMono-Black.otf -misc-geistmono nfm black-extrabold-r-normal--0-0-0-0-m-0-koi8-e
+GeistMonoNerdFontMono-Black.otf -misc-geistmono nfm black-extrabold-r-normal--0-0-0-0-m-0-koi8-r
+GeistMonoNerdFontMono-Black.otf -misc-geistmono nfm black-extrabold-r-normal--0-0-0-0-m-0-koi8-ru
+GeistMonoNerdFontMono-Black.otf -misc-geistmono nfm black-extrabold-r-normal--0-0-0-0-m-0-koi8-u
+GeistMonoNerdFontMono-Black.otf -misc-geistmono nfm black-extrabold-r-normal--0-0-0-0-m-0-koi8-uni
+GeistMonoNerdFontMono-Bold.otf -misc-geistmono nfm-bold-r-normal--0-0-0-0-m-0-iso10646-1
+GeistMonoNerdFontMono-Bold.otf -misc-geistmono nfm-bold-r-normal--0-0-0-0-m-0-iso8859-1
+GeistMonoNerdFontMono-Bold.otf -misc-geistmono nfm-bold-r-normal--0-0-0-0-m-0-iso8859-15
+GeistMonoNerdFontMono-Bold.otf -misc-geistmono nfm-bold-r-normal--0-0-0-0-m-0-iso8859-2
+GeistMonoNerdFontMono-Bold.otf -misc-geistmono nfm-bold-r-normal--0-0-0-0-m-0-iso8859-3
+GeistMonoNerdFontMono-Bold.otf -misc-geistmono nfm-bold-r-normal--0-0-0-0-m-0-iso8859-5
+GeistMonoNerdFontMono-Bold.otf -misc-geistmono nfm-bold-r-normal--0-0-0-0-m-0-iso8859-9
+GeistMonoNerdFontMono-Bold.otf -misc-geistmono nfm-bold-r-normal--0-0-0-0-m-0-koi8-e
+GeistMonoNerdFontMono-Bold.otf -misc-geistmono nfm-bold-r-normal--0-0-0-0-m-0-koi8-r
+GeistMonoNerdFontMono-Bold.otf -misc-geistmono nfm-bold-r-normal--0-0-0-0-m-0-koi8-ru
+GeistMonoNerdFontMono-Bold.otf -misc-geistmono nfm-bold-r-normal--0-0-0-0-m-0-koi8-u
+GeistMonoNerdFontMono-Bold.otf -misc-geistmono nfm-bold-r-normal--0-0-0-0-m-0-koi8-uni
+GeistMonoNerdFontMono-Light.otf -misc-geistmono nfm light-light-r-normal--0-0-0-0-m-0-iso10646-1
+GeistMonoNerdFontMono-Light.otf -misc-geistmono nfm light-light-r-normal--0-0-0-0-m-0-iso8859-1
+GeistMonoNerdFontMono-Light.otf -misc-geistmono nfm light-light-r-normal--0-0-0-0-m-0-iso8859-15
+GeistMonoNerdFontMono-Light.otf -misc-geistmono nfm light-light-r-normal--0-0-0-0-m-0-iso8859-2
+GeistMonoNerdFontMono-Light.otf -misc-geistmono nfm light-light-r-normal--0-0-0-0-m-0-iso8859-3
+GeistMonoNerdFontMono-Light.otf -misc-geistmono nfm light-light-r-normal--0-0-0-0-m-0-iso8859-5
+GeistMonoNerdFontMono-Light.otf -misc-geistmono nfm light-light-r-normal--0-0-0-0-m-0-iso8859-9
+GeistMonoNerdFontMono-Light.otf -misc-geistmono nfm light-light-r-normal--0-0-0-0-m-0-koi8-e
+GeistMonoNerdFontMono-Light.otf -misc-geistmono nfm light-light-r-normal--0-0-0-0-m-0-koi8-r
+GeistMonoNerdFontMono-Light.otf -misc-geistmono nfm light-light-r-normal--0-0-0-0-m-0-koi8-ru
+GeistMonoNerdFontMono-Light.otf -misc-geistmono nfm light-light-r-normal--0-0-0-0-m-0-koi8-u
+GeistMonoNerdFontMono-Light.otf -misc-geistmono nfm light-light-r-normal--0-0-0-0-m-0-koi8-uni
+GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-r-normal--0-0-0-0-m-0-iso10646-1
+GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-r-normal--0-0-0-0-m-0-iso8859-1
+GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-r-normal--0-0-0-0-m-0-iso8859-15
+GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-r-normal--0-0-0-0-m-0-iso8859-2
+GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-r-normal--0-0-0-0-m-0-iso8859-3
+GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-r-normal--0-0-0-0-m-0-iso8859-5
+GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-r-normal--0-0-0-0-m-0-iso8859-9
+GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-r-normal--0-0-0-0-m-0-koi8-e
+GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-r-normal--0-0-0-0-m-0-koi8-r
+GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-r-normal--0-0-0-0-m-0-koi8-ru
+GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-r-normal--0-0-0-0-m-0-koi8-u
+GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-r-normal--0-0-0-0-m-0-koi8-uni
+GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-r-normal--0-0-0-0-m-0-iso10646-1
+GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-r-normal--0-0-0-0-m-0-iso8859-1
+GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-r-normal--0-0-0-0-m-0-iso8859-15
+GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-r-normal--0-0-0-0-m-0-iso8859-2
+GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-r-normal--0-0-0-0-m-0-iso8859-3
+GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-r-normal--0-0-0-0-m-0-iso8859-5
+GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-r-normal--0-0-0-0-m-0-iso8859-9
+GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-r-normal--0-0-0-0-m-0-koi8-e
+GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-r-normal--0-0-0-0-m-0-koi8-r
+GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-r-normal--0-0-0-0-m-0-koi8-ru
+GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-r-normal--0-0-0-0-m-0-koi8-u
+GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-r-normal--0-0-0-0-m-0-koi8-uni
+GeistMonoNerdFontMono-SemiBold.otf -misc-geistmono nfm semibold-semibold-r-normal--0-0-0-0-m-0-iso10646-1
+GeistMonoNerdFontMono-SemiBold.otf -misc-geistmono nfm semibold-semibold-r-normal--0-0-0-0-m-0-iso8859-1
+GeistMonoNerdFontMono-SemiBold.otf -misc-geistmono nfm semibold-semibold-r-normal--0-0-0-0-m-0-iso8859-15
+GeistMonoNerdFontMono-SemiBold.otf -misc-geistmono nfm semibold-semibold-r-normal--0-0-0-0-m-0-iso8859-2
+GeistMonoNerdFontMono-SemiBold.otf -misc-geistmono nfm semibold-semibold-r-normal--0-0-0-0-m-0-iso8859-3
+GeistMonoNerdFontMono-SemiBold.otf -misc-geistmono nfm semibold-semibold-r-normal--0-0-0-0-m-0-iso8859-5
+GeistMonoNerdFontMono-SemiBold.otf -misc-geistmono nfm semibold-semibold-r-normal--0-0-0-0-m-0-iso8859-9
+GeistMonoNerdFontMono-SemiBold.otf -misc-geistmono nfm semibold-semibold-r-normal--0-0-0-0-m-0-koi8-e
+GeistMonoNerdFontMono-SemiBold.otf -misc-geistmono nfm semibold-semibold-r-normal--0-0-0-0-m-0-koi8-r
+GeistMonoNerdFontMono-SemiBold.otf -misc-geistmono nfm semibold-semibold-r-normal--0-0-0-0-m-0-koi8-ru
+GeistMonoNerdFontMono-SemiBold.otf -misc-geistmono nfm semibold-semibold-r-normal--0-0-0-0-m-0-koi8-u
+GeistMonoNerdFontMono-SemiBold.otf -misc-geistmono nfm semibold-semibold-r-normal--0-0-0-0-m-0-koi8-uni
+GeistMonoNerdFontMono-Thin.otf -misc-geistmono nfm thin-thin-r-normal--0-0-0-0-m-0-iso10646-1
+GeistMonoNerdFontMono-Thin.otf -misc-geistmono nfm thin-thin-r-normal--0-0-0-0-m-0-iso8859-1
+GeistMonoNerdFontMono-Thin.otf -misc-geistmono nfm thin-thin-r-normal--0-0-0-0-m-0-iso8859-15
+GeistMonoNerdFontMono-Thin.otf -misc-geistmono nfm thin-thin-r-normal--0-0-0-0-m-0-iso8859-2
+GeistMonoNerdFontMono-Thin.otf -misc-geistmono nfm thin-thin-r-normal--0-0-0-0-m-0-iso8859-3
+GeistMonoNerdFontMono-Thin.otf -misc-geistmono nfm thin-thin-r-normal--0-0-0-0-m-0-iso8859-5
+GeistMonoNerdFontMono-Thin.otf -misc-geistmono nfm thin-thin-r-normal--0-0-0-0-m-0-iso8859-9
+GeistMonoNerdFontMono-Thin.otf -misc-geistmono nfm thin-thin-r-normal--0-0-0-0-m-0-koi8-e
+GeistMonoNerdFontMono-Thin.otf -misc-geistmono nfm thin-thin-r-normal--0-0-0-0-m-0-koi8-r
+GeistMonoNerdFontMono-Thin.otf -misc-geistmono nfm thin-thin-r-normal--0-0-0-0-m-0-koi8-ru
+GeistMonoNerdFontMono-Thin.otf -misc-geistmono nfm thin-thin-r-normal--0-0-0-0-m-0-koi8-u
+GeistMonoNerdFontMono-Thin.otf -misc-geistmono nfm thin-thin-r-normal--0-0-0-0-m-0-koi8-uni
+GeistMonoNerdFontMono-UltraBlack.otf -misc-geistmono nfm ultrablack-black-r-normal--0-0-0-0-m-0-iso10646-1
+GeistMonoNerdFontMono-UltraBlack.otf -misc-geistmono nfm ultrablack-black-r-normal--0-0-0-0-m-0-iso8859-1
+GeistMonoNerdFontMono-UltraBlack.otf -misc-geistmono nfm ultrablack-black-r-normal--0-0-0-0-m-0-iso8859-15
+GeistMonoNerdFontMono-UltraBlack.otf -misc-geistmono nfm ultrablack-black-r-normal--0-0-0-0-m-0-iso8859-2
+GeistMonoNerdFontMono-UltraBlack.otf -misc-geistmono nfm ultrablack-black-r-normal--0-0-0-0-m-0-iso8859-3
+GeistMonoNerdFontMono-UltraBlack.otf -misc-geistmono nfm ultrablack-black-r-normal--0-0-0-0-m-0-iso8859-5
+GeistMonoNerdFontMono-UltraBlack.otf -misc-geistmono nfm ultrablack-black-r-normal--0-0-0-0-m-0-iso8859-9
+GeistMonoNerdFontMono-UltraBlack.otf -misc-geistmono nfm ultrablack-black-r-normal--0-0-0-0-m-0-koi8-e
+GeistMonoNerdFontMono-UltraBlack.otf -misc-geistmono nfm ultrablack-black-r-normal--0-0-0-0-m-0-koi8-r
+GeistMonoNerdFontMono-UltraBlack.otf -misc-geistmono nfm ultrablack-black-r-normal--0-0-0-0-m-0-koi8-ru
+GeistMonoNerdFontMono-UltraBlack.otf -misc-geistmono nfm ultrablack-black-r-normal--0-0-0-0-m-0-koi8-u
+GeistMonoNerdFontMono-UltraBlack.otf -misc-geistmono nfm ultrablack-black-r-normal--0-0-0-0-m-0-koi8-uni
+GeistMonoNerdFontMono-UltraLight.otf -misc-geistmono nfm ultralight-extralight-r-normal--0-0-0-0-m-0-iso10646-1
+GeistMonoNerdFontMono-UltraLight.otf -misc-geistmono nfm ultralight-extralight-r-normal--0-0-0-0-m-0-iso8859-1
+GeistMonoNerdFontMono-UltraLight.otf -misc-geistmono nfm ultralight-extralight-r-normal--0-0-0-0-m-0-iso8859-15
+GeistMonoNerdFontMono-UltraLight.otf -misc-geistmono nfm ultralight-extralight-r-normal--0-0-0-0-m-0-iso8859-2
+GeistMonoNerdFontMono-UltraLight.otf -misc-geistmono nfm ultralight-extralight-r-normal--0-0-0-0-m-0-iso8859-3
+GeistMonoNerdFontMono-UltraLight.otf -misc-geistmono nfm ultralight-extralight-r-normal--0-0-0-0-m-0-iso8859-5
+GeistMonoNerdFontMono-UltraLight.otf -misc-geistmono nfm ultralight-extralight-r-normal--0-0-0-0-m-0-iso8859-9
+GeistMonoNerdFontMono-UltraLight.otf -misc-geistmono nfm ultralight-extralight-r-normal--0-0-0-0-m-0-koi8-e
+GeistMonoNerdFontMono-UltraLight.otf -misc-geistmono nfm ultralight-extralight-r-normal--0-0-0-0-m-0-koi8-r
+GeistMonoNerdFontMono-UltraLight.otf -misc-geistmono nfm ultralight-extralight-r-normal--0-0-0-0-m-0-koi8-ru
+GeistMonoNerdFontMono-UltraLight.otf -misc-geistmono nfm ultralight-extralight-r-normal--0-0-0-0-m-0-koi8-u
+GeistMonoNerdFontMono-UltraLight.otf -misc-geistmono nfm ultralight-extralight-r-normal--0-0-0-0-m-0-koi8-uni
+GeistMonoNerdFontPropo-Black.otf -misc-geistmono nfp black-extrabold-r-normal--0-0-0-0-p-0-iso10646-1
+GeistMonoNerdFontPropo-Black.otf -misc-geistmono nfp black-extrabold-r-normal--0-0-0-0-p-0-iso8859-1
+GeistMonoNerdFontPropo-Black.otf -misc-geistmono nfp black-extrabold-r-normal--0-0-0-0-p-0-iso8859-15
+GeistMonoNerdFontPropo-Black.otf -misc-geistmono nfp black-extrabold-r-normal--0-0-0-0-p-0-iso8859-2
+GeistMonoNerdFontPropo-Black.otf -misc-geistmono nfp black-extrabold-r-normal--0-0-0-0-p-0-iso8859-3
+GeistMonoNerdFontPropo-Black.otf -misc-geistmono nfp black-extrabold-r-normal--0-0-0-0-p-0-iso8859-5
+GeistMonoNerdFontPropo-Black.otf -misc-geistmono nfp black-extrabold-r-normal--0-0-0-0-p-0-iso8859-9
+GeistMonoNerdFontPropo-Black.otf -misc-geistmono nfp black-extrabold-r-normal--0-0-0-0-p-0-koi8-e
+GeistMonoNerdFontPropo-Black.otf -misc-geistmono nfp black-extrabold-r-normal--0-0-0-0-p-0-koi8-r
+GeistMonoNerdFontPropo-Black.otf -misc-geistmono nfp black-extrabold-r-normal--0-0-0-0-p-0-koi8-ru
+GeistMonoNerdFontPropo-Black.otf -misc-geistmono nfp black-extrabold-r-normal--0-0-0-0-p-0-koi8-u
+GeistMonoNerdFontPropo-Black.otf -misc-geistmono nfp black-extrabold-r-normal--0-0-0-0-p-0-koi8-uni
+GeistMonoNerdFontPropo-Bold.otf -misc-geistmono nfp-bold-r-normal--0-0-0-0-p-0-iso10646-1
+GeistMonoNerdFontPropo-Bold.otf -misc-geistmono nfp-bold-r-normal--0-0-0-0-p-0-iso8859-1
+GeistMonoNerdFontPropo-Bold.otf -misc-geistmono nfp-bold-r-normal--0-0-0-0-p-0-iso8859-15
+GeistMonoNerdFontPropo-Bold.otf -misc-geistmono nfp-bold-r-normal--0-0-0-0-p-0-iso8859-2
+GeistMonoNerdFontPropo-Bold.otf -misc-geistmono nfp-bold-r-normal--0-0-0-0-p-0-iso8859-3
+GeistMonoNerdFontPropo-Bold.otf -misc-geistmono nfp-bold-r-normal--0-0-0-0-p-0-iso8859-5
+GeistMonoNerdFontPropo-Bold.otf -misc-geistmono nfp-bold-r-normal--0-0-0-0-p-0-iso8859-9
+GeistMonoNerdFontPropo-Bold.otf -misc-geistmono nfp-bold-r-normal--0-0-0-0-p-0-koi8-e
+GeistMonoNerdFontPropo-Bold.otf -misc-geistmono nfp-bold-r-normal--0-0-0-0-p-0-koi8-r
+GeistMonoNerdFontPropo-Bold.otf -misc-geistmono nfp-bold-r-normal--0-0-0-0-p-0-koi8-ru
+GeistMonoNerdFontPropo-Bold.otf -misc-geistmono nfp-bold-r-normal--0-0-0-0-p-0-koi8-u
+GeistMonoNerdFontPropo-Bold.otf -misc-geistmono nfp-bold-r-normal--0-0-0-0-p-0-koi8-uni
+GeistMonoNerdFontPropo-Light.otf -misc-geistmono nfp light-light-r-normal--0-0-0-0-p-0-iso10646-1
+GeistMonoNerdFontPropo-Light.otf -misc-geistmono nfp light-light-r-normal--0-0-0-0-p-0-iso8859-1
+GeistMonoNerdFontPropo-Light.otf -misc-geistmono nfp light-light-r-normal--0-0-0-0-p-0-iso8859-15
+GeistMonoNerdFontPropo-Light.otf -misc-geistmono nfp light-light-r-normal--0-0-0-0-p-0-iso8859-2
+GeistMonoNerdFontPropo-Light.otf -misc-geistmono nfp light-light-r-normal--0-0-0-0-p-0-iso8859-3
+GeistMonoNerdFontPropo-Light.otf -misc-geistmono nfp light-light-r-normal--0-0-0-0-p-0-iso8859-5
+GeistMonoNerdFontPropo-Light.otf -misc-geistmono nfp light-light-r-normal--0-0-0-0-p-0-iso8859-9
+GeistMonoNerdFontPropo-Light.otf -misc-geistmono nfp light-light-r-normal--0-0-0-0-p-0-koi8-e
+GeistMonoNerdFontPropo-Light.otf -misc-geistmono nfp light-light-r-normal--0-0-0-0-p-0-koi8-r
+GeistMonoNerdFontPropo-Light.otf -misc-geistmono nfp light-light-r-normal--0-0-0-0-p-0-koi8-ru
+GeistMonoNerdFontPropo-Light.otf -misc-geistmono nfp light-light-r-normal--0-0-0-0-p-0-koi8-u
+GeistMonoNerdFontPropo-Light.otf -misc-geistmono nfp light-light-r-normal--0-0-0-0-p-0-koi8-uni
+GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-r-normal--0-0-0-0-p-0-iso10646-1
+GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-r-normal--0-0-0-0-p-0-iso8859-1
+GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-r-normal--0-0-0-0-p-0-iso8859-15
+GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-r-normal--0-0-0-0-p-0-iso8859-2
+GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-r-normal--0-0-0-0-p-0-iso8859-3
+GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-r-normal--0-0-0-0-p-0-iso8859-5
+GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-r-normal--0-0-0-0-p-0-iso8859-9
+GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-r-normal--0-0-0-0-p-0-koi8-e
+GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-r-normal--0-0-0-0-p-0-koi8-r
+GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-r-normal--0-0-0-0-p-0-koi8-ru
+GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-r-normal--0-0-0-0-p-0-koi8-u
+GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-r-normal--0-0-0-0-p-0-koi8-uni
+GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-r-normal--0-0-0-0-p-0-iso10646-1
+GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-r-normal--0-0-0-0-p-0-iso8859-1
+GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-r-normal--0-0-0-0-p-0-iso8859-15
+GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-r-normal--0-0-0-0-p-0-iso8859-2
+GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-r-normal--0-0-0-0-p-0-iso8859-3
+GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-r-normal--0-0-0-0-p-0-iso8859-5
+GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-r-normal--0-0-0-0-p-0-iso8859-9
+GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-r-normal--0-0-0-0-p-0-koi8-e
+GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-r-normal--0-0-0-0-p-0-koi8-r
+GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-r-normal--0-0-0-0-p-0-koi8-ru
+GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-r-normal--0-0-0-0-p-0-koi8-u
+GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-r-normal--0-0-0-0-p-0-koi8-uni
+GeistMonoNerdFontPropo-SemiBold.otf -misc-geistmono nfp semibold-semibold-r-normal--0-0-0-0-p-0-iso10646-1
+GeistMonoNerdFontPropo-SemiBold.otf -misc-geistmono nfp semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-1
+GeistMonoNerdFontPropo-SemiBold.otf -misc-geistmono nfp semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-15
+GeistMonoNerdFontPropo-SemiBold.otf -misc-geistmono nfp semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-2
+GeistMonoNerdFontPropo-SemiBold.otf -misc-geistmono nfp semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-3
+GeistMonoNerdFontPropo-SemiBold.otf -misc-geistmono nfp semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-5
+GeistMonoNerdFontPropo-SemiBold.otf -misc-geistmono nfp semibold-semibold-r-normal--0-0-0-0-p-0-iso8859-9
+GeistMonoNerdFontPropo-SemiBold.otf -misc-geistmono nfp semibold-semibold-r-normal--0-0-0-0-p-0-koi8-e
+GeistMonoNerdFontPropo-SemiBold.otf -misc-geistmono nfp semibold-semibold-r-normal--0-0-0-0-p-0-koi8-r
+GeistMonoNerdFontPropo-SemiBold.otf -misc-geistmono nfp semibold-semibold-r-normal--0-0-0-0-p-0-koi8-ru
+GeistMonoNerdFontPropo-SemiBold.otf -misc-geistmono nfp semibold-semibold-r-normal--0-0-0-0-p-0-koi8-u
+GeistMonoNerdFontPropo-SemiBold.otf -misc-geistmono nfp semibold-semibold-r-normal--0-0-0-0-p-0-koi8-uni
+GeistMonoNerdFontPropo-Thin.otf -misc-geistmono nfp thin-thin-r-normal--0-0-0-0-p-0-iso10646-1
+GeistMonoNerdFontPropo-Thin.otf -misc-geistmono nfp thin-thin-r-normal--0-0-0-0-p-0-iso8859-1
+GeistMonoNerdFontPropo-Thin.otf -misc-geistmono nfp thin-thin-r-normal--0-0-0-0-p-0-iso8859-15
+GeistMonoNerdFontPropo-Thin.otf -misc-geistmono nfp thin-thin-r-normal--0-0-0-0-p-0-iso8859-2
+GeistMonoNerdFontPropo-Thin.otf -misc-geistmono nfp thin-thin-r-normal--0-0-0-0-p-0-iso8859-3
+GeistMonoNerdFontPropo-Thin.otf -misc-geistmono nfp thin-thin-r-normal--0-0-0-0-p-0-iso8859-5
+GeistMonoNerdFontPropo-Thin.otf -misc-geistmono nfp thin-thin-r-normal--0-0-0-0-p-0-iso8859-9
+GeistMonoNerdFontPropo-Thin.otf -misc-geistmono nfp thin-thin-r-normal--0-0-0-0-p-0-koi8-e
+GeistMonoNerdFontPropo-Thin.otf -misc-geistmono nfp thin-thin-r-normal--0-0-0-0-p-0-koi8-r
+GeistMonoNerdFontPropo-Thin.otf -misc-geistmono nfp thin-thin-r-normal--0-0-0-0-p-0-koi8-ru
+GeistMonoNerdFontPropo-Thin.otf -misc-geistmono nfp thin-thin-r-normal--0-0-0-0-p-0-koi8-u
+GeistMonoNerdFontPropo-Thin.otf -misc-geistmono nfp thin-thin-r-normal--0-0-0-0-p-0-koi8-uni
+GeistMonoNerdFontPropo-UltraBlack.otf -misc-geistmono nfp ultrablack-black-r-normal--0-0-0-0-p-0-iso10646-1
+GeistMonoNerdFontPropo-UltraBlack.otf -misc-geistmono nfp ultrablack-black-r-normal--0-0-0-0-p-0-iso8859-1
+GeistMonoNerdFontPropo-UltraBlack.otf -misc-geistmono nfp ultrablack-black-r-normal--0-0-0-0-p-0-iso8859-15
+GeistMonoNerdFontPropo-UltraBlack.otf -misc-geistmono nfp ultrablack-black-r-normal--0-0-0-0-p-0-iso8859-2
+GeistMonoNerdFontPropo-UltraBlack.otf -misc-geistmono nfp ultrablack-black-r-normal--0-0-0-0-p-0-iso8859-3
+GeistMonoNerdFontPropo-UltraBlack.otf -misc-geistmono nfp ultrablack-black-r-normal--0-0-0-0-p-0-iso8859-5
+GeistMonoNerdFontPropo-UltraBlack.otf -misc-geistmono nfp ultrablack-black-r-normal--0-0-0-0-p-0-iso8859-9
+GeistMonoNerdFontPropo-UltraBlack.otf -misc-geistmono nfp ultrablack-black-r-normal--0-0-0-0-p-0-koi8-e
+GeistMonoNerdFontPropo-UltraBlack.otf -misc-geistmono nfp ultrablack-black-r-normal--0-0-0-0-p-0-koi8-r
+GeistMonoNerdFontPropo-UltraBlack.otf -misc-geistmono nfp ultrablack-black-r-normal--0-0-0-0-p-0-koi8-ru
+GeistMonoNerdFontPropo-UltraBlack.otf -misc-geistmono nfp ultrablack-black-r-normal--0-0-0-0-p-0-koi8-u
+GeistMonoNerdFontPropo-UltraBlack.otf -misc-geistmono nfp ultrablack-black-r-normal--0-0-0-0-p-0-koi8-uni
+GeistMonoNerdFontPropo-UltraLight.otf -misc-geistmono nfp ultralight-extralight-r-normal--0-0-0-0-p-0-iso10646-1
+GeistMonoNerdFontPropo-UltraLight.otf -misc-geistmono nfp ultralight-extralight-r-normal--0-0-0-0-p-0-iso8859-1
+GeistMonoNerdFontPropo-UltraLight.otf -misc-geistmono nfp ultralight-extralight-r-normal--0-0-0-0-p-0-iso8859-15
+GeistMonoNerdFontPropo-UltraLight.otf -misc-geistmono nfp ultralight-extralight-r-normal--0-0-0-0-p-0-iso8859-2
+GeistMonoNerdFontPropo-UltraLight.otf -misc-geistmono nfp ultralight-extralight-r-normal--0-0-0-0-p-0-iso8859-3
+GeistMonoNerdFontPropo-UltraLight.otf -misc-geistmono nfp ultralight-extralight-r-normal--0-0-0-0-p-0-iso8859-5
+GeistMonoNerdFontPropo-UltraLight.otf -misc-geistmono nfp ultralight-extralight-r-normal--0-0-0-0-p-0-iso8859-9
+GeistMonoNerdFontPropo-UltraLight.otf -misc-geistmono nfp ultralight-extralight-r-normal--0-0-0-0-p-0-koi8-e
+GeistMonoNerdFontPropo-UltraLight.otf -misc-geistmono nfp ultralight-extralight-r-normal--0-0-0-0-p-0-koi8-r
+GeistMonoNerdFontPropo-UltraLight.otf -misc-geistmono nfp ultralight-extralight-r-normal--0-0-0-0-p-0-koi8-ru
+GeistMonoNerdFontPropo-UltraLight.otf -misc-geistmono nfp ultralight-extralight-r-normal--0-0-0-0-p-0-koi8-u
+GeistMonoNerdFontPropo-UltraLight.otf -misc-geistmono nfp ultralight-extralight-r-normal--0-0-0-0-p-0-koi8-uni
+ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-i-normal--0-0-0-0-p-0-iso10646-1
+ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-i-normal--0-0-0-0-p-0-iso8859-1
+ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-i-normal--0-0-0-0-p-0-iso8859-15
+ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-i-normal--0-0-0-0-p-0-iso8859-2
+ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-i-normal--0-0-0-0-p-0-iso8859-3
+ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-i-normal--0-0-0-0-p-0-iso8859-5
+ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-i-normal--0-0-0-0-p-0-iso8859-9
+ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-i-normal--0-0-0-0-p-0-koi8-e
+ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-i-normal--0-0-0-0-p-0-koi8-r
+ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-i-normal--0-0-0-0-p-0-koi8-ru
+ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-i-normal--0-0-0-0-p-0-koi8-u
+ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-i-normal--0-0-0-0-p-0-koi8-uni
+ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-o-normal--0-0-0-0-p-0-iso10646-1
+ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-o-normal--0-0-0-0-p-0-iso8859-1
+ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-o-normal--0-0-0-0-p-0-iso8859-15
+ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-o-normal--0-0-0-0-p-0-iso8859-2
+ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-o-normal--0-0-0-0-p-0-iso8859-3
+ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-o-normal--0-0-0-0-p-0-iso8859-5
+ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-o-normal--0-0-0-0-p-0-iso8859-9
+ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-o-normal--0-0-0-0-p-0-koi8-e
+ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-o-normal--0-0-0-0-p-0-koi8-r
+ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-o-normal--0-0-0-0-p-0-koi8-ru
+ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-o-normal--0-0-0-0-p-0-koi8-u
+ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-medium-o-normal--0-0-0-0-p-0-koi8-uni
+ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-i-normal--0-0-0-0-p-0-iso10646-1
+ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-i-normal--0-0-0-0-p-0-iso8859-1
+ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-i-normal--0-0-0-0-p-0-iso8859-15
+ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-i-normal--0-0-0-0-p-0-iso8859-2
+ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-i-normal--0-0-0-0-p-0-iso8859-3
+ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-i-normal--0-0-0-0-p-0-iso8859-5
+ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-i-normal--0-0-0-0-p-0-iso8859-9
+ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-i-normal--0-0-0-0-p-0-koi8-e
+ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-i-normal--0-0-0-0-p-0-koi8-r
+ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-i-normal--0-0-0-0-p-0-koi8-ru
+ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-i-normal--0-0-0-0-p-0-koi8-u
+ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-i-normal--0-0-0-0-p-0-koi8-uni
+ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-o-normal--0-0-0-0-p-0-iso10646-1
+ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-o-normal--0-0-0-0-p-0-iso8859-1
+ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-o-normal--0-0-0-0-p-0-iso8859-15
+ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-o-normal--0-0-0-0-p-0-iso8859-2
+ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-o-normal--0-0-0-0-p-0-iso8859-3
+ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-o-normal--0-0-0-0-p-0-iso8859-5
+ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-o-normal--0-0-0-0-p-0-iso8859-9
+ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-o-normal--0-0-0-0-p-0-koi8-e
+ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-o-normal--0-0-0-0-p-0-koi8-r
+ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-o-normal--0-0-0-0-p-0-koi8-ru
+ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-o-normal--0-0-0-0-p-0-koi8-u
+ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-medium-o-normal--0-0-0-0-p-0-koi8-uni
+ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-i-normal--0-0-0-0-m-0-iso10646-1
+ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-i-normal--0-0-0-0-m-0-iso8859-1
+ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-i-normal--0-0-0-0-m-0-iso8859-15
+ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-i-normal--0-0-0-0-m-0-iso8859-2
+ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-i-normal--0-0-0-0-m-0-iso8859-3
+ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-i-normal--0-0-0-0-m-0-iso8859-5
+ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-i-normal--0-0-0-0-m-0-iso8859-9
+ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-i-normal--0-0-0-0-m-0-koi8-e
+ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-i-normal--0-0-0-0-m-0-koi8-r
+ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-i-normal--0-0-0-0-m-0-koi8-ru
+ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-i-normal--0-0-0-0-m-0-koi8-u
+ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-i-normal--0-0-0-0-m-0-koi8-uni
+ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-o-normal--0-0-0-0-m-0-iso10646-1
+ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-o-normal--0-0-0-0-m-0-iso8859-1
+ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-o-normal--0-0-0-0-m-0-iso8859-15
+ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-o-normal--0-0-0-0-m-0-iso8859-2
+ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-o-normal--0-0-0-0-m-0-iso8859-3
+ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-o-normal--0-0-0-0-m-0-iso8859-5
+ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-o-normal--0-0-0-0-m-0-iso8859-9
+ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-o-normal--0-0-0-0-m-0-koi8-e
+ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-o-normal--0-0-0-0-m-0-koi8-r
+ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-o-normal--0-0-0-0-m-0-koi8-ru
+ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-o-normal--0-0-0-0-m-0-koi8-u
+ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-medium-o-normal--0-0-0-0-m-0-koi8-uni
+ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-i-normal--0-0-0-0-m-0-iso10646-1
+ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-i-normal--0-0-0-0-m-0-iso8859-1
+ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-i-normal--0-0-0-0-m-0-iso8859-15
+ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-i-normal--0-0-0-0-m-0-iso8859-2
+ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-i-normal--0-0-0-0-m-0-iso8859-3
+ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-i-normal--0-0-0-0-m-0-iso8859-5
+ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-i-normal--0-0-0-0-m-0-iso8859-9
+ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-i-normal--0-0-0-0-m-0-koi8-e
+ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-i-normal--0-0-0-0-m-0-koi8-r
+ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-i-normal--0-0-0-0-m-0-koi8-ru
+ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-i-normal--0-0-0-0-m-0-koi8-u
+ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-i-normal--0-0-0-0-m-0-koi8-uni
+ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-o-normal--0-0-0-0-m-0-iso10646-1
+ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-o-normal--0-0-0-0-m-0-iso8859-1
+ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-o-normal--0-0-0-0-m-0-iso8859-15
+ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-o-normal--0-0-0-0-m-0-iso8859-2
+ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-o-normal--0-0-0-0-m-0-iso8859-3
+ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-o-normal--0-0-0-0-m-0-iso8859-5
+ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-o-normal--0-0-0-0-m-0-iso8859-9
+ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-o-normal--0-0-0-0-m-0-koi8-e
+ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-o-normal--0-0-0-0-m-0-koi8-r
+ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-o-normal--0-0-0-0-m-0-koi8-ru
+ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-o-normal--0-0-0-0-m-0-koi8-u
+ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-medium-o-normal--0-0-0-0-m-0-koi8-uni
+ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-i-normal--0-0-0-0-p-0-iso10646-1
+ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-i-normal--0-0-0-0-p-0-iso8859-1
+ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-i-normal--0-0-0-0-p-0-iso8859-15
+ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-i-normal--0-0-0-0-p-0-iso8859-2
+ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-i-normal--0-0-0-0-p-0-iso8859-3
+ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-i-normal--0-0-0-0-p-0-iso8859-5
+ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-i-normal--0-0-0-0-p-0-iso8859-9
+ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-i-normal--0-0-0-0-p-0-koi8-e
+ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-i-normal--0-0-0-0-p-0-koi8-r
+ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-i-normal--0-0-0-0-p-0-koi8-ru
+ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-i-normal--0-0-0-0-p-0-koi8-u
+ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-i-normal--0-0-0-0-p-0-koi8-uni
+ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-o-normal--0-0-0-0-p-0-iso10646-1
+ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-o-normal--0-0-0-0-p-0-iso8859-1
+ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-o-normal--0-0-0-0-p-0-iso8859-15
+ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-o-normal--0-0-0-0-p-0-iso8859-2
+ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-o-normal--0-0-0-0-p-0-iso8859-3
+ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-o-normal--0-0-0-0-p-0-iso8859-5
+ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-o-normal--0-0-0-0-p-0-iso8859-9
+ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-o-normal--0-0-0-0-p-0-koi8-e
+ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-o-normal--0-0-0-0-p-0-koi8-r
+ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-o-normal--0-0-0-0-p-0-koi8-ru
+ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-o-normal--0-0-0-0-p-0-koi8-u
+ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-medium-o-normal--0-0-0-0-p-0-koi8-uni
+ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-i-normal--0-0-0-0-p-0-iso10646-1
+ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-i-normal--0-0-0-0-p-0-iso8859-1
+ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-i-normal--0-0-0-0-p-0-iso8859-15
+ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-i-normal--0-0-0-0-p-0-iso8859-2
+ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-i-normal--0-0-0-0-p-0-iso8859-3
+ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-i-normal--0-0-0-0-p-0-iso8859-5
+ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-i-normal--0-0-0-0-p-0-iso8859-9
+ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-i-normal--0-0-0-0-p-0-koi8-e
+ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-i-normal--0-0-0-0-p-0-koi8-r
+ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-i-normal--0-0-0-0-p-0-koi8-ru
+ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-i-normal--0-0-0-0-p-0-koi8-u
+ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-i-normal--0-0-0-0-p-0-koi8-uni
+ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-o-normal--0-0-0-0-p-0-iso10646-1
+ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-o-normal--0-0-0-0-p-0-iso8859-1
+ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-o-normal--0-0-0-0-p-0-iso8859-15
+ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-o-normal--0-0-0-0-p-0-iso8859-2
+ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-o-normal--0-0-0-0-p-0-iso8859-3
+ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-o-normal--0-0-0-0-p-0-iso8859-5
+ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-o-normal--0-0-0-0-p-0-iso8859-9
+ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-o-normal--0-0-0-0-p-0-koi8-e
+ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-o-normal--0-0-0-0-p-0-koi8-r
+ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-o-normal--0-0-0-0-p-0-koi8-ru
+ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-o-normal--0-0-0-0-p-0-koi8-u
+ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-medium-o-normal--0-0-0-0-p-0-koi8-uni
+ds=y:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-r-normal--0-0-0-0-p-0-iso10646-1
+ds=y:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-r-normal--0-0-0-0-p-0-iso8859-1
+ds=y:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-r-normal--0-0-0-0-p-0-iso8859-15
+ds=y:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-r-normal--0-0-0-0-p-0-iso8859-2
+ds=y:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-r-normal--0-0-0-0-p-0-iso8859-3
+ds=y:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-r-normal--0-0-0-0-p-0-iso8859-5
+ds=y:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-r-normal--0-0-0-0-p-0-iso8859-9
+ds=y:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-r-normal--0-0-0-0-p-0-koi8-e
+ds=y:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-r-normal--0-0-0-0-p-0-koi8-r
+ds=y:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-r-normal--0-0-0-0-p-0-koi8-ru
+ds=y:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-r-normal--0-0-0-0-p-0-koi8-u
+ds=y:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-r-normal--0-0-0-0-p-0-koi8-uni
+ds=y:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-r-normal--0-0-0-0-m-0-iso10646-1
+ds=y:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-r-normal--0-0-0-0-m-0-iso8859-1
+ds=y:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-r-normal--0-0-0-0-m-0-iso8859-15
+ds=y:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-r-normal--0-0-0-0-m-0-iso8859-2
+ds=y:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-r-normal--0-0-0-0-m-0-iso8859-3
+ds=y:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-r-normal--0-0-0-0-m-0-iso8859-5
+ds=y:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-r-normal--0-0-0-0-m-0-iso8859-9
+ds=y:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-r-normal--0-0-0-0-m-0-koi8-e
+ds=y:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-r-normal--0-0-0-0-m-0-koi8-r
+ds=y:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-r-normal--0-0-0-0-m-0-koi8-ru
+ds=y:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-r-normal--0-0-0-0-m-0-koi8-u
+ds=y:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-r-normal--0-0-0-0-m-0-koi8-uni
+ds=y:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-r-normal--0-0-0-0-p-0-iso10646-1
+ds=y:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-r-normal--0-0-0-0-p-0-iso8859-1
+ds=y:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-r-normal--0-0-0-0-p-0-iso8859-15
+ds=y:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-r-normal--0-0-0-0-p-0-iso8859-2
+ds=y:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-r-normal--0-0-0-0-p-0-iso8859-3
+ds=y:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-r-normal--0-0-0-0-p-0-iso8859-5
+ds=y:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-r-normal--0-0-0-0-p-0-iso8859-9
+ds=y:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-r-normal--0-0-0-0-p-0-koi8-e
+ds=y:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-r-normal--0-0-0-0-p-0-koi8-r
+ds=y:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-r-normal--0-0-0-0-p-0-koi8-ru
+ds=y:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-r-normal--0-0-0-0-p-0-koi8-u
+ds=y:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-r-normal--0-0-0-0-p-0-koi8-uni
+ds=y:ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-i-normal--0-0-0-0-p-0-iso10646-1
+ds=y:ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-i-normal--0-0-0-0-p-0-iso8859-1
+ds=y:ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-i-normal--0-0-0-0-p-0-iso8859-15
+ds=y:ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-i-normal--0-0-0-0-p-0-iso8859-2
+ds=y:ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-i-normal--0-0-0-0-p-0-iso8859-3
+ds=y:ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-i-normal--0-0-0-0-p-0-iso8859-5
+ds=y:ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-i-normal--0-0-0-0-p-0-iso8859-9
+ds=y:ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-i-normal--0-0-0-0-p-0-koi8-e
+ds=y:ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-i-normal--0-0-0-0-p-0-koi8-r
+ds=y:ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-i-normal--0-0-0-0-p-0-koi8-ru
+ds=y:ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-i-normal--0-0-0-0-p-0-koi8-u
+ds=y:ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-i-normal--0-0-0-0-p-0-koi8-uni
+ds=y:ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-o-normal--0-0-0-0-p-0-iso10646-1
+ds=y:ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-o-normal--0-0-0-0-p-0-iso8859-1
+ds=y:ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-o-normal--0-0-0-0-p-0-iso8859-15
+ds=y:ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-o-normal--0-0-0-0-p-0-iso8859-2
+ds=y:ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-o-normal--0-0-0-0-p-0-iso8859-3
+ds=y:ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-o-normal--0-0-0-0-p-0-iso8859-5
+ds=y:ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-o-normal--0-0-0-0-p-0-iso8859-9
+ds=y:ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-o-normal--0-0-0-0-p-0-koi8-e
+ds=y:ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-o-normal--0-0-0-0-p-0-koi8-r
+ds=y:ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-o-normal--0-0-0-0-p-0-koi8-ru
+ds=y:ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-o-normal--0-0-0-0-p-0-koi8-u
+ds=y:ai=0.2:GeistMonoNerdFont-Medium.otf -misc-geistmono nf medium-bold-o-normal--0-0-0-0-p-0-koi8-uni
+ds=y:ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-bold-i-normal--0-0-0-0-p-0-iso10646-1
+ds=y:ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-bold-i-normal--0-0-0-0-p-0-iso8859-1
+ds=y:ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-bold-i-normal--0-0-0-0-p-0-iso8859-15
+ds=y:ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-bold-i-normal--0-0-0-0-p-0-iso8859-2
+ds=y:ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-bold-i-normal--0-0-0-0-p-0-iso8859-3
+ds=y:ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-bold-i-normal--0-0-0-0-p-0-iso8859-5
+ds=y:ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-bold-i-normal--0-0-0-0-p-0-iso8859-9
+ds=y:ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-bold-i-normal--0-0-0-0-p-0-koi8-e
+ds=y:ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-bold-i-normal--0-0-0-0-p-0-koi8-r
+ds=y:ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-bold-i-normal--0-0-0-0-p-0-koi8-ru
+ds=y:ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-bold-i-normal--0-0-0-0-p-0-koi8-u
+ds=y:ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-bold-i-normal--0-0-0-0-p-0-koi8-uni
+ds=y:ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-bold-o-normal--0-0-0-0-p-0-iso10646-1
+ds=y:ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-bold-o-normal--0-0-0-0-p-0-iso8859-1
+ds=y:ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-bold-o-normal--0-0-0-0-p-0-iso8859-15
+ds=y:ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-bold-o-normal--0-0-0-0-p-0-iso8859-2
+ds=y:ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-bold-o-normal--0-0-0-0-p-0-iso8859-3
+ds=y:ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-bold-o-normal--0-0-0-0-p-0-iso8859-5
+ds=y:ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-bold-o-normal--0-0-0-0-p-0-iso8859-9
+ds=y:ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-bold-o-normal--0-0-0-0-p-0-koi8-e
+ds=y:ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-bold-o-normal--0-0-0-0-p-0-koi8-r
+ds=y:ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-bold-o-normal--0-0-0-0-p-0-koi8-ru
+ds=y:ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-bold-o-normal--0-0-0-0-p-0-koi8-u
+ds=y:ai=0.2:GeistMonoNerdFont-Regular.otf -misc-geistmono nf-bold-o-normal--0-0-0-0-p-0-koi8-uni
+ds=y:ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-i-normal--0-0-0-0-m-0-iso10646-1
+ds=y:ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-i-normal--0-0-0-0-m-0-iso8859-1
+ds=y:ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-i-normal--0-0-0-0-m-0-iso8859-15
+ds=y:ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-i-normal--0-0-0-0-m-0-iso8859-2
+ds=y:ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-i-normal--0-0-0-0-m-0-iso8859-3
+ds=y:ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-i-normal--0-0-0-0-m-0-iso8859-5
+ds=y:ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-i-normal--0-0-0-0-m-0-iso8859-9
+ds=y:ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-i-normal--0-0-0-0-m-0-koi8-e
+ds=y:ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-i-normal--0-0-0-0-m-0-koi8-r
+ds=y:ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-i-normal--0-0-0-0-m-0-koi8-ru
+ds=y:ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-i-normal--0-0-0-0-m-0-koi8-u
+ds=y:ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-i-normal--0-0-0-0-m-0-koi8-uni
+ds=y:ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-o-normal--0-0-0-0-m-0-iso10646-1
+ds=y:ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-o-normal--0-0-0-0-m-0-iso8859-1
+ds=y:ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-o-normal--0-0-0-0-m-0-iso8859-15
+ds=y:ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-o-normal--0-0-0-0-m-0-iso8859-2
+ds=y:ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-o-normal--0-0-0-0-m-0-iso8859-3
+ds=y:ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-o-normal--0-0-0-0-m-0-iso8859-5
+ds=y:ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-o-normal--0-0-0-0-m-0-iso8859-9
+ds=y:ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-o-normal--0-0-0-0-m-0-koi8-e
+ds=y:ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-o-normal--0-0-0-0-m-0-koi8-r
+ds=y:ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-o-normal--0-0-0-0-m-0-koi8-ru
+ds=y:ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-o-normal--0-0-0-0-m-0-koi8-u
+ds=y:ai=0.2:GeistMonoNerdFontMono-Medium.otf -misc-geistmono nfm medium-bold-o-normal--0-0-0-0-m-0-koi8-uni
+ds=y:ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-bold-i-normal--0-0-0-0-m-0-iso10646-1
+ds=y:ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-bold-i-normal--0-0-0-0-m-0-iso8859-1
+ds=y:ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-bold-i-normal--0-0-0-0-m-0-iso8859-15
+ds=y:ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-bold-i-normal--0-0-0-0-m-0-iso8859-2
+ds=y:ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-bold-i-normal--0-0-0-0-m-0-iso8859-3
+ds=y:ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-bold-i-normal--0-0-0-0-m-0-iso8859-5
+ds=y:ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-bold-i-normal--0-0-0-0-m-0-iso8859-9
+ds=y:ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-bold-i-normal--0-0-0-0-m-0-koi8-e
+ds=y:ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-bold-i-normal--0-0-0-0-m-0-koi8-r
+ds=y:ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-bold-i-normal--0-0-0-0-m-0-koi8-ru
+ds=y:ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-bold-i-normal--0-0-0-0-m-0-koi8-u
+ds=y:ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-bold-i-normal--0-0-0-0-m-0-koi8-uni
+ds=y:ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-bold-o-normal--0-0-0-0-m-0-iso10646-1
+ds=y:ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-bold-o-normal--0-0-0-0-m-0-iso8859-1
+ds=y:ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-bold-o-normal--0-0-0-0-m-0-iso8859-15
+ds=y:ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-bold-o-normal--0-0-0-0-m-0-iso8859-2
+ds=y:ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-bold-o-normal--0-0-0-0-m-0-iso8859-3
+ds=y:ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-bold-o-normal--0-0-0-0-m-0-iso8859-5
+ds=y:ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-bold-o-normal--0-0-0-0-m-0-iso8859-9
+ds=y:ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-bold-o-normal--0-0-0-0-m-0-koi8-e
+ds=y:ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-bold-o-normal--0-0-0-0-m-0-koi8-r
+ds=y:ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-bold-o-normal--0-0-0-0-m-0-koi8-ru
+ds=y:ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-bold-o-normal--0-0-0-0-m-0-koi8-u
+ds=y:ai=0.2:GeistMonoNerdFontMono-Regular.otf -misc-geistmono nfm-bold-o-normal--0-0-0-0-m-0-koi8-uni
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-i-normal--0-0-0-0-p-0-iso10646-1
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-i-normal--0-0-0-0-p-0-iso8859-1
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-i-normal--0-0-0-0-p-0-iso8859-15
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-i-normal--0-0-0-0-p-0-iso8859-2
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-i-normal--0-0-0-0-p-0-iso8859-3
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-i-normal--0-0-0-0-p-0-iso8859-5
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-i-normal--0-0-0-0-p-0-iso8859-9
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-i-normal--0-0-0-0-p-0-koi8-e
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-i-normal--0-0-0-0-p-0-koi8-r
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-i-normal--0-0-0-0-p-0-koi8-ru
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-i-normal--0-0-0-0-p-0-koi8-u
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-i-normal--0-0-0-0-p-0-koi8-uni
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-o-normal--0-0-0-0-p-0-iso10646-1
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-o-normal--0-0-0-0-p-0-iso8859-1
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-o-normal--0-0-0-0-p-0-iso8859-15
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-o-normal--0-0-0-0-p-0-iso8859-2
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-o-normal--0-0-0-0-p-0-iso8859-3
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-o-normal--0-0-0-0-p-0-iso8859-5
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-o-normal--0-0-0-0-p-0-iso8859-9
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-o-normal--0-0-0-0-p-0-koi8-e
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-o-normal--0-0-0-0-p-0-koi8-r
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-o-normal--0-0-0-0-p-0-koi8-ru
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-o-normal--0-0-0-0-p-0-koi8-u
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Medium.otf -misc-geistmono nfp medium-bold-o-normal--0-0-0-0-p-0-koi8-uni
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-bold-i-normal--0-0-0-0-p-0-iso10646-1
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-bold-i-normal--0-0-0-0-p-0-iso8859-1
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-bold-i-normal--0-0-0-0-p-0-iso8859-15
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-bold-i-normal--0-0-0-0-p-0-iso8859-2
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-bold-i-normal--0-0-0-0-p-0-iso8859-3
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-bold-i-normal--0-0-0-0-p-0-iso8859-5
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-bold-i-normal--0-0-0-0-p-0-iso8859-9
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-bold-i-normal--0-0-0-0-p-0-koi8-e
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-bold-i-normal--0-0-0-0-p-0-koi8-r
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-bold-i-normal--0-0-0-0-p-0-koi8-ru
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-bold-i-normal--0-0-0-0-p-0-koi8-u
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-bold-i-normal--0-0-0-0-p-0-koi8-uni
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-bold-o-normal--0-0-0-0-p-0-iso10646-1
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-bold-o-normal--0-0-0-0-p-0-iso8859-1
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-bold-o-normal--0-0-0-0-p-0-iso8859-15
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-bold-o-normal--0-0-0-0-p-0-iso8859-2
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-bold-o-normal--0-0-0-0-p-0-iso8859-3
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-bold-o-normal--0-0-0-0-p-0-iso8859-5
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-bold-o-normal--0-0-0-0-p-0-iso8859-9
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-bold-o-normal--0-0-0-0-p-0-koi8-e
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-bold-o-normal--0-0-0-0-p-0-koi8-r
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-bold-o-normal--0-0-0-0-p-0-koi8-ru
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-bold-o-normal--0-0-0-0-p-0-koi8-u
+ds=y:ai=0.2:GeistMonoNerdFontPropo-Regular.otf -misc-geistmono nfp-bold-o-normal--0-0-0-0-p-0-koi8-uni

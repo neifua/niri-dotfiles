@@ -1,0 +1,631 @@
+630
+UbuntuNerdFont-Bold.ttf -misc-ubuntu nerd font-bold-r-normal--0-0-0-0-p-0-iso10646-1
+UbuntuNerdFont-Bold.ttf -misc-ubuntu nerd font-bold-r-normal--0-0-0-0-p-0-iso8859-1
+UbuntuNerdFont-Bold.ttf -misc-ubuntu nerd font-bold-r-normal--0-0-0-0-p-0-iso8859-10
+UbuntuNerdFont-Bold.ttf -misc-ubuntu nerd font-bold-r-normal--0-0-0-0-p-0-iso8859-15
+UbuntuNerdFont-Bold.ttf -misc-ubuntu nerd font-bold-r-normal--0-0-0-0-p-0-iso8859-2
+UbuntuNerdFont-Bold.ttf -misc-ubuntu nerd font-bold-r-normal--0-0-0-0-p-0-iso8859-3
+UbuntuNerdFont-Bold.ttf -misc-ubuntu nerd font-bold-r-normal--0-0-0-0-p-0-iso8859-4
+UbuntuNerdFont-Bold.ttf -misc-ubuntu nerd font-bold-r-normal--0-0-0-0-p-0-iso8859-5
+UbuntuNerdFont-Bold.ttf -misc-ubuntu nerd font-bold-r-normal--0-0-0-0-p-0-iso8859-7
+UbuntuNerdFont-Bold.ttf -misc-ubuntu nerd font-bold-r-normal--0-0-0-0-p-0-iso8859-9
+UbuntuNerdFont-Bold.ttf -misc-ubuntu nerd font-bold-r-normal--0-0-0-0-p-0-koi8-e
+UbuntuNerdFont-Bold.ttf -misc-ubuntu nerd font-bold-r-normal--0-0-0-0-p-0-koi8-r
+UbuntuNerdFont-Bold.ttf -misc-ubuntu nerd font-bold-r-normal--0-0-0-0-p-0-koi8-ru
+UbuntuNerdFont-Bold.ttf -misc-ubuntu nerd font-bold-r-normal--0-0-0-0-p-0-koi8-u
+UbuntuNerdFont-Bold.ttf -misc-ubuntu nerd font-bold-r-normal--0-0-0-0-p-0-koi8-uni
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-i-normal--0-0-0-0-p-0-iso10646-1
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-i-normal--0-0-0-0-p-0-iso8859-1
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-i-normal--0-0-0-0-p-0-iso8859-10
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-i-normal--0-0-0-0-p-0-iso8859-15
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-i-normal--0-0-0-0-p-0-iso8859-2
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-i-normal--0-0-0-0-p-0-iso8859-3
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-i-normal--0-0-0-0-p-0-iso8859-4
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-i-normal--0-0-0-0-p-0-iso8859-5
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-i-normal--0-0-0-0-p-0-iso8859-7
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-i-normal--0-0-0-0-p-0-iso8859-9
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-i-normal--0-0-0-0-p-0-koi8-e
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-i-normal--0-0-0-0-p-0-koi8-r
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-i-normal--0-0-0-0-p-0-koi8-ru
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-i-normal--0-0-0-0-p-0-koi8-u
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-i-normal--0-0-0-0-p-0-koi8-uni
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-o-normal--0-0-0-0-p-0-iso10646-1
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-o-normal--0-0-0-0-p-0-iso8859-1
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-o-normal--0-0-0-0-p-0-iso8859-10
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-o-normal--0-0-0-0-p-0-iso8859-15
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-o-normal--0-0-0-0-p-0-iso8859-2
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-o-normal--0-0-0-0-p-0-iso8859-3
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-o-normal--0-0-0-0-p-0-iso8859-4
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-o-normal--0-0-0-0-p-0-iso8859-5
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-o-normal--0-0-0-0-p-0-iso8859-7
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-o-normal--0-0-0-0-p-0-iso8859-9
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-o-normal--0-0-0-0-p-0-koi8-e
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-o-normal--0-0-0-0-p-0-koi8-r
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-o-normal--0-0-0-0-p-0-koi8-ru
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-o-normal--0-0-0-0-p-0-koi8-u
+UbuntuNerdFont-BoldItalic.ttf -misc-ubuntu nerd font-bold-o-normal--0-0-0-0-p-0-koi8-uni
+UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-r-condensed--0-0-0-0-p-0-iso10646-1
+UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-r-condensed--0-0-0-0-p-0-iso8859-1
+UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-r-condensed--0-0-0-0-p-0-iso8859-10
+UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-r-condensed--0-0-0-0-p-0-iso8859-15
+UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-r-condensed--0-0-0-0-p-0-iso8859-2
+UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-r-condensed--0-0-0-0-p-0-iso8859-3
+UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-r-condensed--0-0-0-0-p-0-iso8859-4
+UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-r-condensed--0-0-0-0-p-0-iso8859-5
+UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-r-condensed--0-0-0-0-p-0-iso8859-7
+UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-r-condensed--0-0-0-0-p-0-iso8859-9
+UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-r-condensed--0-0-0-0-p-0-koi8-e
+UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-r-condensed--0-0-0-0-p-0-koi8-r
+UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-r-condensed--0-0-0-0-p-0-koi8-ru
+UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-r-condensed--0-0-0-0-p-0-koi8-u
+UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-r-condensed--0-0-0-0-p-0-koi8-uni
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-i-normal--0-0-0-0-p-0-iso10646-1
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-i-normal--0-0-0-0-p-0-iso8859-1
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-i-normal--0-0-0-0-p-0-iso8859-10
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-i-normal--0-0-0-0-p-0-iso8859-15
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-i-normal--0-0-0-0-p-0-iso8859-2
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-i-normal--0-0-0-0-p-0-iso8859-3
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-i-normal--0-0-0-0-p-0-iso8859-4
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-i-normal--0-0-0-0-p-0-iso8859-5
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-i-normal--0-0-0-0-p-0-iso8859-7
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-i-normal--0-0-0-0-p-0-iso8859-9
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-i-normal--0-0-0-0-p-0-koi8-e
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-i-normal--0-0-0-0-p-0-koi8-r
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-i-normal--0-0-0-0-p-0-koi8-ru
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-i-normal--0-0-0-0-p-0-koi8-u
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-i-normal--0-0-0-0-p-0-koi8-uni
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-o-normal--0-0-0-0-p-0-iso10646-1
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-o-normal--0-0-0-0-p-0-iso8859-1
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-o-normal--0-0-0-0-p-0-iso8859-10
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-o-normal--0-0-0-0-p-0-iso8859-15
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-o-normal--0-0-0-0-p-0-iso8859-2
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-o-normal--0-0-0-0-p-0-iso8859-3
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-o-normal--0-0-0-0-p-0-iso8859-4
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-o-normal--0-0-0-0-p-0-iso8859-5
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-o-normal--0-0-0-0-p-0-iso8859-7
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-o-normal--0-0-0-0-p-0-iso8859-9
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-o-normal--0-0-0-0-p-0-koi8-e
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-o-normal--0-0-0-0-p-0-koi8-r
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-o-normal--0-0-0-0-p-0-koi8-ru
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-o-normal--0-0-0-0-p-0-koi8-u
+UbuntuNerdFont-Italic.ttf -misc-ubuntu nerd font-medium-o-normal--0-0-0-0-p-0-koi8-uni
+UbuntuNerdFont-Light.ttf -misc-ubuntu nerd font light-light-r-normal--0-0-0-0-p-0-iso10646-1
+UbuntuNerdFont-Light.ttf -misc-ubuntu nerd font light-light-r-normal--0-0-0-0-p-0-iso8859-1
+UbuntuNerdFont-Light.ttf -misc-ubuntu nerd font light-light-r-normal--0-0-0-0-p-0-iso8859-10
+UbuntuNerdFont-Light.ttf -misc-ubuntu nerd font light-light-r-normal--0-0-0-0-p-0-iso8859-15
+UbuntuNerdFont-Light.ttf -misc-ubuntu nerd font light-light-r-normal--0-0-0-0-p-0-iso8859-2
+UbuntuNerdFont-Light.ttf -misc-ubuntu nerd font light-light-r-normal--0-0-0-0-p-0-iso8859-3
+UbuntuNerdFont-Light.ttf -misc-ubuntu nerd font light-light-r-normal--0-0-0-0-p-0-iso8859-4
+UbuntuNerdFont-Light.ttf -misc-ubuntu nerd font light-light-r-normal--0-0-0-0-p-0-iso8859-5
+UbuntuNerdFont-Light.ttf -misc-ubuntu nerd font light-light-r-normal--0-0-0-0-p-0-iso8859-7
+UbuntuNerdFont-Light.ttf -misc-ubuntu nerd font light-light-r-normal--0-0-0-0-p-0-iso8859-9
+UbuntuNerdFont-Light.ttf -misc-ubuntu nerd font light-light-r-normal--0-0-0-0-p-0-koi8-e
+UbuntuNerdFont-Light.ttf -misc-ubuntu nerd font light-light-r-normal--0-0-0-0-p-0-koi8-r
+UbuntuNerdFont-Light.ttf -misc-ubuntu nerd font light-light-r-normal--0-0-0-0-p-0-koi8-ru
+UbuntuNerdFont-Light.ttf -misc-ubuntu nerd font light-light-r-normal--0-0-0-0-p-0-koi8-u
+UbuntuNerdFont-Light.ttf -misc-ubuntu nerd font light-light-r-normal--0-0-0-0-p-0-koi8-uni
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-i-normal--0-0-0-0-p-0-iso10646-1
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-i-normal--0-0-0-0-p-0-iso8859-1
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-i-normal--0-0-0-0-p-0-iso8859-10
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-i-normal--0-0-0-0-p-0-iso8859-15
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-i-normal--0-0-0-0-p-0-iso8859-2
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-i-normal--0-0-0-0-p-0-iso8859-3
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-i-normal--0-0-0-0-p-0-iso8859-4
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-i-normal--0-0-0-0-p-0-iso8859-5
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-i-normal--0-0-0-0-p-0-iso8859-7
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-i-normal--0-0-0-0-p-0-iso8859-9
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-i-normal--0-0-0-0-p-0-koi8-e
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-i-normal--0-0-0-0-p-0-koi8-r
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-i-normal--0-0-0-0-p-0-koi8-ru
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-i-normal--0-0-0-0-p-0-koi8-u
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-i-normal--0-0-0-0-p-0-koi8-uni
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-o-normal--0-0-0-0-p-0-iso10646-1
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-o-normal--0-0-0-0-p-0-iso8859-1
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-o-normal--0-0-0-0-p-0-iso8859-10
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-o-normal--0-0-0-0-p-0-iso8859-15
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-o-normal--0-0-0-0-p-0-iso8859-2
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-o-normal--0-0-0-0-p-0-iso8859-3
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-o-normal--0-0-0-0-p-0-iso8859-4
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-o-normal--0-0-0-0-p-0-iso8859-5
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-o-normal--0-0-0-0-p-0-iso8859-7
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-o-normal--0-0-0-0-p-0-iso8859-9
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-o-normal--0-0-0-0-p-0-koi8-e
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-o-normal--0-0-0-0-p-0-koi8-r
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-o-normal--0-0-0-0-p-0-koi8-ru
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-o-normal--0-0-0-0-p-0-koi8-u
+UbuntuNerdFont-LightItalic.ttf -misc-ubuntu nerd font light-light-o-normal--0-0-0-0-p-0-koi8-uni
+UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-medium-r-normal--0-0-0-0-p-0-iso10646-1
+UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-medium-r-normal--0-0-0-0-p-0-iso8859-1
+UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-medium-r-normal--0-0-0-0-p-0-iso8859-10
+UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-medium-r-normal--0-0-0-0-p-0-iso8859-15
+UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-medium-r-normal--0-0-0-0-p-0-iso8859-2
+UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-medium-r-normal--0-0-0-0-p-0-iso8859-3
+UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-medium-r-normal--0-0-0-0-p-0-iso8859-4
+UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-medium-r-normal--0-0-0-0-p-0-iso8859-5
+UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-medium-r-normal--0-0-0-0-p-0-iso8859-7
+UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-medium-r-normal--0-0-0-0-p-0-iso8859-9
+UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-medium-r-normal--0-0-0-0-p-0-koi8-e
+UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-medium-r-normal--0-0-0-0-p-0-koi8-r
+UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-medium-r-normal--0-0-0-0-p-0-koi8-ru
+UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-medium-r-normal--0-0-0-0-p-0-koi8-u
+UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-medium-r-normal--0-0-0-0-p-0-koi8-uni
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-i-normal--0-0-0-0-p-0-iso10646-1
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-i-normal--0-0-0-0-p-0-iso8859-1
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-i-normal--0-0-0-0-p-0-iso8859-10
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-i-normal--0-0-0-0-p-0-iso8859-15
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-i-normal--0-0-0-0-p-0-iso8859-2
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-i-normal--0-0-0-0-p-0-iso8859-3
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-i-normal--0-0-0-0-p-0-iso8859-4
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-i-normal--0-0-0-0-p-0-iso8859-5
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-i-normal--0-0-0-0-p-0-iso8859-7
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-i-normal--0-0-0-0-p-0-iso8859-9
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-i-normal--0-0-0-0-p-0-koi8-e
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-i-normal--0-0-0-0-p-0-koi8-r
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-i-normal--0-0-0-0-p-0-koi8-ru
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-i-normal--0-0-0-0-p-0-koi8-u
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-i-normal--0-0-0-0-p-0-koi8-uni
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-o-normal--0-0-0-0-p-0-iso10646-1
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-o-normal--0-0-0-0-p-0-iso8859-1
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-o-normal--0-0-0-0-p-0-iso8859-10
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-o-normal--0-0-0-0-p-0-iso8859-15
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-o-normal--0-0-0-0-p-0-iso8859-2
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-o-normal--0-0-0-0-p-0-iso8859-3
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-o-normal--0-0-0-0-p-0-iso8859-4
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-o-normal--0-0-0-0-p-0-iso8859-5
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-o-normal--0-0-0-0-p-0-iso8859-7
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-o-normal--0-0-0-0-p-0-iso8859-9
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-o-normal--0-0-0-0-p-0-koi8-e
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-o-normal--0-0-0-0-p-0-koi8-r
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-o-normal--0-0-0-0-p-0-koi8-ru
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-o-normal--0-0-0-0-p-0-koi8-u
+UbuntuNerdFont-MediumItalic.ttf -misc-ubuntu nerd font med-medium-o-normal--0-0-0-0-p-0-koi8-uni
+UbuntuNerdFont-Regular.ttf -misc-ubuntu nerd font-medium-r-normal--0-0-0-0-p-0-iso10646-1
+UbuntuNerdFont-Regular.ttf -misc-ubuntu nerd font-medium-r-normal--0-0-0-0-p-0-iso8859-1
+UbuntuNerdFont-Regular.ttf -misc-ubuntu nerd font-medium-r-normal--0-0-0-0-p-0-iso8859-10
+UbuntuNerdFont-Regular.ttf -misc-ubuntu nerd font-medium-r-normal--0-0-0-0-p-0-iso8859-15
+UbuntuNerdFont-Regular.ttf -misc-ubuntu nerd font-medium-r-normal--0-0-0-0-p-0-iso8859-2
+UbuntuNerdFont-Regular.ttf -misc-ubuntu nerd font-medium-r-normal--0-0-0-0-p-0-iso8859-3
+UbuntuNerdFont-Regular.ttf -misc-ubuntu nerd font-medium-r-normal--0-0-0-0-p-0-iso8859-4
+UbuntuNerdFont-Regular.ttf -misc-ubuntu nerd font-medium-r-normal--0-0-0-0-p-0-iso8859-5
+UbuntuNerdFont-Regular.ttf -misc-ubuntu nerd font-medium-r-normal--0-0-0-0-p-0-iso8859-7
+UbuntuNerdFont-Regular.ttf -misc-ubuntu nerd font-medium-r-normal--0-0-0-0-p-0-iso8859-9
+UbuntuNerdFont-Regular.ttf -misc-ubuntu nerd font-medium-r-normal--0-0-0-0-p-0-koi8-e
+UbuntuNerdFont-Regular.ttf -misc-ubuntu nerd font-medium-r-normal--0-0-0-0-p-0-koi8-r
+UbuntuNerdFont-Regular.ttf -misc-ubuntu nerd font-medium-r-normal--0-0-0-0-p-0-koi8-ru
+UbuntuNerdFont-Regular.ttf -misc-ubuntu nerd font-medium-r-normal--0-0-0-0-p-0-koi8-u
+UbuntuNerdFont-Regular.ttf -misc-ubuntu nerd font-medium-r-normal--0-0-0-0-p-0-koi8-uni
+UbuntuNerdFontPropo-Bold.ttf -misc-ubuntu nerd font propo-bold-r-normal--0-0-0-0-p-0-iso10646-1
+UbuntuNerdFontPropo-Bold.ttf -misc-ubuntu nerd font propo-bold-r-normal--0-0-0-0-p-0-iso8859-1
+UbuntuNerdFontPropo-Bold.ttf -misc-ubuntu nerd font propo-bold-r-normal--0-0-0-0-p-0-iso8859-10
+UbuntuNerdFontPropo-Bold.ttf -misc-ubuntu nerd font propo-bold-r-normal--0-0-0-0-p-0-iso8859-15
+UbuntuNerdFontPropo-Bold.ttf -misc-ubuntu nerd font propo-bold-r-normal--0-0-0-0-p-0-iso8859-2
+UbuntuNerdFontPropo-Bold.ttf -misc-ubuntu nerd font propo-bold-r-normal--0-0-0-0-p-0-iso8859-3
+UbuntuNerdFontPropo-Bold.ttf -misc-ubuntu nerd font propo-bold-r-normal--0-0-0-0-p-0-iso8859-4
+UbuntuNerdFontPropo-Bold.ttf -misc-ubuntu nerd font propo-bold-r-normal--0-0-0-0-p-0-iso8859-5
+UbuntuNerdFontPropo-Bold.ttf -misc-ubuntu nerd font propo-bold-r-normal--0-0-0-0-p-0-iso8859-7
+UbuntuNerdFontPropo-Bold.ttf -misc-ubuntu nerd font propo-bold-r-normal--0-0-0-0-p-0-iso8859-9
+UbuntuNerdFontPropo-Bold.ttf -misc-ubuntu nerd font propo-bold-r-normal--0-0-0-0-p-0-koi8-e
+UbuntuNerdFontPropo-Bold.ttf -misc-ubuntu nerd font propo-bold-r-normal--0-0-0-0-p-0-koi8-r
+UbuntuNerdFontPropo-Bold.ttf -misc-ubuntu nerd font propo-bold-r-normal--0-0-0-0-p-0-koi8-ru
+UbuntuNerdFontPropo-Bold.ttf -misc-ubuntu nerd font propo-bold-r-normal--0-0-0-0-p-0-koi8-u
+UbuntuNerdFontPropo-Bold.ttf -misc-ubuntu nerd font propo-bold-r-normal--0-0-0-0-p-0-koi8-uni
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-i-normal--0-0-0-0-p-0-iso10646-1
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-i-normal--0-0-0-0-p-0-iso8859-1
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-i-normal--0-0-0-0-p-0-iso8859-10
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-i-normal--0-0-0-0-p-0-iso8859-15
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-i-normal--0-0-0-0-p-0-iso8859-2
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-i-normal--0-0-0-0-p-0-iso8859-3
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-i-normal--0-0-0-0-p-0-iso8859-4
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-i-normal--0-0-0-0-p-0-iso8859-5
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-i-normal--0-0-0-0-p-0-iso8859-7
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-i-normal--0-0-0-0-p-0-iso8859-9
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-i-normal--0-0-0-0-p-0-koi8-e
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-i-normal--0-0-0-0-p-0-koi8-r
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-i-normal--0-0-0-0-p-0-koi8-ru
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-i-normal--0-0-0-0-p-0-koi8-u
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-i-normal--0-0-0-0-p-0-koi8-uni
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-o-normal--0-0-0-0-p-0-iso10646-1
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-o-normal--0-0-0-0-p-0-iso8859-1
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-o-normal--0-0-0-0-p-0-iso8859-10
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-o-normal--0-0-0-0-p-0-iso8859-15
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-o-normal--0-0-0-0-p-0-iso8859-2
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-o-normal--0-0-0-0-p-0-iso8859-3
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-o-normal--0-0-0-0-p-0-iso8859-4
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-o-normal--0-0-0-0-p-0-iso8859-5
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-o-normal--0-0-0-0-p-0-iso8859-7
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-o-normal--0-0-0-0-p-0-iso8859-9
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-o-normal--0-0-0-0-p-0-koi8-e
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-o-normal--0-0-0-0-p-0-koi8-r
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-o-normal--0-0-0-0-p-0-koi8-ru
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-o-normal--0-0-0-0-p-0-koi8-u
+UbuntuNerdFontPropo-BoldItalic.ttf -misc-ubuntu nerd font propo-bold-o-normal--0-0-0-0-p-0-koi8-uni
+UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-r-condensed--0-0-0-0-p-0-iso10646-1
+UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-r-condensed--0-0-0-0-p-0-iso8859-1
+UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-r-condensed--0-0-0-0-p-0-iso8859-10
+UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-r-condensed--0-0-0-0-p-0-iso8859-15
+UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-r-condensed--0-0-0-0-p-0-iso8859-2
+UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-r-condensed--0-0-0-0-p-0-iso8859-3
+UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-r-condensed--0-0-0-0-p-0-iso8859-4
+UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-r-condensed--0-0-0-0-p-0-iso8859-5
+UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-r-condensed--0-0-0-0-p-0-iso8859-7
+UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-r-condensed--0-0-0-0-p-0-iso8859-9
+UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-r-condensed--0-0-0-0-p-0-koi8-e
+UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-r-condensed--0-0-0-0-p-0-koi8-r
+UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-r-condensed--0-0-0-0-p-0-koi8-ru
+UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-r-condensed--0-0-0-0-p-0-koi8-u
+UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-r-condensed--0-0-0-0-p-0-koi8-uni
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-i-normal--0-0-0-0-p-0-iso10646-1
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-i-normal--0-0-0-0-p-0-iso8859-1
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-i-normal--0-0-0-0-p-0-iso8859-10
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-i-normal--0-0-0-0-p-0-iso8859-15
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-i-normal--0-0-0-0-p-0-iso8859-2
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-i-normal--0-0-0-0-p-0-iso8859-3
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-i-normal--0-0-0-0-p-0-iso8859-4
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-i-normal--0-0-0-0-p-0-iso8859-5
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-i-normal--0-0-0-0-p-0-iso8859-7
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-i-normal--0-0-0-0-p-0-iso8859-9
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-i-normal--0-0-0-0-p-0-koi8-e
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-i-normal--0-0-0-0-p-0-koi8-r
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-i-normal--0-0-0-0-p-0-koi8-ru
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-i-normal--0-0-0-0-p-0-koi8-u
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-i-normal--0-0-0-0-p-0-koi8-uni
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-o-normal--0-0-0-0-p-0-iso10646-1
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-o-normal--0-0-0-0-p-0-iso8859-1
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-o-normal--0-0-0-0-p-0-iso8859-10
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-o-normal--0-0-0-0-p-0-iso8859-15
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-o-normal--0-0-0-0-p-0-iso8859-2
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-o-normal--0-0-0-0-p-0-iso8859-3
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-o-normal--0-0-0-0-p-0-iso8859-4
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-o-normal--0-0-0-0-p-0-iso8859-5
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-o-normal--0-0-0-0-p-0-iso8859-7
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-o-normal--0-0-0-0-p-0-iso8859-9
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-o-normal--0-0-0-0-p-0-koi8-e
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-o-normal--0-0-0-0-p-0-koi8-r
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-o-normal--0-0-0-0-p-0-koi8-ru
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-o-normal--0-0-0-0-p-0-koi8-u
+UbuntuNerdFontPropo-Italic.ttf -misc-ubuntu nerd font propo-medium-o-normal--0-0-0-0-p-0-koi8-uni
+UbuntuNerdFontPropo-Light.ttf -misc-ubuntu nerd font propo light-light-r-normal--0-0-0-0-p-0-iso10646-1
+UbuntuNerdFontPropo-Light.ttf -misc-ubuntu nerd font propo light-light-r-normal--0-0-0-0-p-0-iso8859-1
+UbuntuNerdFontPropo-Light.ttf -misc-ubuntu nerd font propo light-light-r-normal--0-0-0-0-p-0-iso8859-10
+UbuntuNerdFontPropo-Light.ttf -misc-ubuntu nerd font propo light-light-r-normal--0-0-0-0-p-0-iso8859-15
+UbuntuNerdFontPropo-Light.ttf -misc-ubuntu nerd font propo light-light-r-normal--0-0-0-0-p-0-iso8859-2
+UbuntuNerdFontPropo-Light.ttf -misc-ubuntu nerd font propo light-light-r-normal--0-0-0-0-p-0-iso8859-3
+UbuntuNerdFontPropo-Light.ttf -misc-ubuntu nerd font propo light-light-r-normal--0-0-0-0-p-0-iso8859-4
+UbuntuNerdFontPropo-Light.ttf -misc-ubuntu nerd font propo light-light-r-normal--0-0-0-0-p-0-iso8859-5
+UbuntuNerdFontPropo-Light.ttf -misc-ubuntu nerd font propo light-light-r-normal--0-0-0-0-p-0-iso8859-7
+UbuntuNerdFontPropo-Light.ttf -misc-ubuntu nerd font propo light-light-r-normal--0-0-0-0-p-0-iso8859-9
+UbuntuNerdFontPropo-Light.ttf -misc-ubuntu nerd font propo light-light-r-normal--0-0-0-0-p-0-koi8-e
+UbuntuNerdFontPropo-Light.ttf -misc-ubuntu nerd font propo light-light-r-normal--0-0-0-0-p-0-koi8-r
+UbuntuNerdFontPropo-Light.ttf -misc-ubuntu nerd font propo light-light-r-normal--0-0-0-0-p-0-koi8-ru
+UbuntuNerdFontPropo-Light.ttf -misc-ubuntu nerd font propo light-light-r-normal--0-0-0-0-p-0-koi8-u
+UbuntuNerdFontPropo-Light.ttf -misc-ubuntu nerd font propo light-light-r-normal--0-0-0-0-p-0-koi8-uni
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-i-normal--0-0-0-0-p-0-iso10646-1
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-i-normal--0-0-0-0-p-0-iso8859-1
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-i-normal--0-0-0-0-p-0-iso8859-10
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-i-normal--0-0-0-0-p-0-iso8859-15
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-i-normal--0-0-0-0-p-0-iso8859-2
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-i-normal--0-0-0-0-p-0-iso8859-3
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-i-normal--0-0-0-0-p-0-iso8859-4
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-i-normal--0-0-0-0-p-0-iso8859-5
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-i-normal--0-0-0-0-p-0-iso8859-7
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-i-normal--0-0-0-0-p-0-iso8859-9
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-i-normal--0-0-0-0-p-0-koi8-e
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-i-normal--0-0-0-0-p-0-koi8-r
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-i-normal--0-0-0-0-p-0-koi8-ru
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-i-normal--0-0-0-0-p-0-koi8-u
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-i-normal--0-0-0-0-p-0-koi8-uni
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-o-normal--0-0-0-0-p-0-iso10646-1
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-o-normal--0-0-0-0-p-0-iso8859-1
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-o-normal--0-0-0-0-p-0-iso8859-10
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-o-normal--0-0-0-0-p-0-iso8859-15
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-o-normal--0-0-0-0-p-0-iso8859-2
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-o-normal--0-0-0-0-p-0-iso8859-3
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-o-normal--0-0-0-0-p-0-iso8859-4
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-o-normal--0-0-0-0-p-0-iso8859-5
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-o-normal--0-0-0-0-p-0-iso8859-7
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-o-normal--0-0-0-0-p-0-iso8859-9
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-o-normal--0-0-0-0-p-0-koi8-e
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-o-normal--0-0-0-0-p-0-koi8-r
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-o-normal--0-0-0-0-p-0-koi8-ru
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-o-normal--0-0-0-0-p-0-koi8-u
+UbuntuNerdFontPropo-LightItalic.ttf -misc-ubuntu nerd font propo light-light-o-normal--0-0-0-0-p-0-koi8-uni
+UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-medium-r-normal--0-0-0-0-p-0-iso10646-1
+UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-medium-r-normal--0-0-0-0-p-0-iso8859-1
+UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-medium-r-normal--0-0-0-0-p-0-iso8859-10
+UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-medium-r-normal--0-0-0-0-p-0-iso8859-15
+UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-medium-r-normal--0-0-0-0-p-0-iso8859-2
+UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-medium-r-normal--0-0-0-0-p-0-iso8859-3
+UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-medium-r-normal--0-0-0-0-p-0-iso8859-4
+UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-medium-r-normal--0-0-0-0-p-0-iso8859-5
+UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-medium-r-normal--0-0-0-0-p-0-iso8859-7
+UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-medium-r-normal--0-0-0-0-p-0-iso8859-9
+UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-medium-r-normal--0-0-0-0-p-0-koi8-e
+UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-medium-r-normal--0-0-0-0-p-0-koi8-r
+UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-medium-r-normal--0-0-0-0-p-0-koi8-ru
+UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-medium-r-normal--0-0-0-0-p-0-koi8-u
+UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-medium-r-normal--0-0-0-0-p-0-koi8-uni
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-i-normal--0-0-0-0-p-0-iso10646-1
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-i-normal--0-0-0-0-p-0-iso8859-1
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-i-normal--0-0-0-0-p-0-iso8859-10
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-i-normal--0-0-0-0-p-0-iso8859-15
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-i-normal--0-0-0-0-p-0-iso8859-2
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-i-normal--0-0-0-0-p-0-iso8859-3
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-i-normal--0-0-0-0-p-0-iso8859-4
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-i-normal--0-0-0-0-p-0-iso8859-5
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-i-normal--0-0-0-0-p-0-iso8859-7
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-i-normal--0-0-0-0-p-0-iso8859-9
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-i-normal--0-0-0-0-p-0-koi8-e
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-i-normal--0-0-0-0-p-0-koi8-r
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-i-normal--0-0-0-0-p-0-koi8-ru
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-i-normal--0-0-0-0-p-0-koi8-u
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-i-normal--0-0-0-0-p-0-koi8-uni
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-o-normal--0-0-0-0-p-0-iso10646-1
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-o-normal--0-0-0-0-p-0-iso8859-1
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-o-normal--0-0-0-0-p-0-iso8859-10
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-o-normal--0-0-0-0-p-0-iso8859-15
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-o-normal--0-0-0-0-p-0-iso8859-2
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-o-normal--0-0-0-0-p-0-iso8859-3
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-o-normal--0-0-0-0-p-0-iso8859-4
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-o-normal--0-0-0-0-p-0-iso8859-5
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-o-normal--0-0-0-0-p-0-iso8859-7
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-o-normal--0-0-0-0-p-0-iso8859-9
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-o-normal--0-0-0-0-p-0-koi8-e
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-o-normal--0-0-0-0-p-0-koi8-r
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-o-normal--0-0-0-0-p-0-koi8-ru
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-o-normal--0-0-0-0-p-0-koi8-u
+UbuntuNerdFontPropo-MediumItalic.ttf -misc-ubuntu nerd font propo med-medium-o-normal--0-0-0-0-p-0-koi8-uni
+UbuntuNerdFontPropo-Regular.ttf -misc-ubuntu nerd font propo-medium-r-normal--0-0-0-0-p-0-iso10646-1
+UbuntuNerdFontPropo-Regular.ttf -misc-ubuntu nerd font propo-medium-r-normal--0-0-0-0-p-0-iso8859-1
+UbuntuNerdFontPropo-Regular.ttf -misc-ubuntu nerd font propo-medium-r-normal--0-0-0-0-p-0-iso8859-10
+UbuntuNerdFontPropo-Regular.ttf -misc-ubuntu nerd font propo-medium-r-normal--0-0-0-0-p-0-iso8859-15
+UbuntuNerdFontPropo-Regular.ttf -misc-ubuntu nerd font propo-medium-r-normal--0-0-0-0-p-0-iso8859-2
+UbuntuNerdFontPropo-Regular.ttf -misc-ubuntu nerd font propo-medium-r-normal--0-0-0-0-p-0-iso8859-3
+UbuntuNerdFontPropo-Regular.ttf -misc-ubuntu nerd font propo-medium-r-normal--0-0-0-0-p-0-iso8859-4
+UbuntuNerdFontPropo-Regular.ttf -misc-ubuntu nerd font propo-medium-r-normal--0-0-0-0-p-0-iso8859-5
+UbuntuNerdFontPropo-Regular.ttf -misc-ubuntu nerd font propo-medium-r-normal--0-0-0-0-p-0-iso8859-7
+UbuntuNerdFontPropo-Regular.ttf -misc-ubuntu nerd font propo-medium-r-normal--0-0-0-0-p-0-iso8859-9
+UbuntuNerdFontPropo-Regular.ttf -misc-ubuntu nerd font propo-medium-r-normal--0-0-0-0-p-0-koi8-e
+UbuntuNerdFontPropo-Regular.ttf -misc-ubuntu nerd font propo-medium-r-normal--0-0-0-0-p-0-koi8-r
+UbuntuNerdFontPropo-Regular.ttf -misc-ubuntu nerd font propo-medium-r-normal--0-0-0-0-p-0-koi8-ru
+UbuntuNerdFontPropo-Regular.ttf -misc-ubuntu nerd font propo-medium-r-normal--0-0-0-0-p-0-koi8-u
+UbuntuNerdFontPropo-Regular.ttf -misc-ubuntu nerd font propo-medium-r-normal--0-0-0-0-p-0-koi8-uni
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-i-condensed--0-0-0-0-p-0-iso10646-1
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-i-condensed--0-0-0-0-p-0-iso8859-1
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-i-condensed--0-0-0-0-p-0-iso8859-10
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-i-condensed--0-0-0-0-p-0-iso8859-15
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-i-condensed--0-0-0-0-p-0-iso8859-2
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-i-condensed--0-0-0-0-p-0-iso8859-3
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-i-condensed--0-0-0-0-p-0-iso8859-4
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-i-condensed--0-0-0-0-p-0-iso8859-5
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-i-condensed--0-0-0-0-p-0-iso8859-7
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-i-condensed--0-0-0-0-p-0-iso8859-9
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-i-condensed--0-0-0-0-p-0-koi8-e
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-i-condensed--0-0-0-0-p-0-koi8-r
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-i-condensed--0-0-0-0-p-0-koi8-ru
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-i-condensed--0-0-0-0-p-0-koi8-u
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-i-condensed--0-0-0-0-p-0-koi8-uni
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-o-condensed--0-0-0-0-p-0-iso10646-1
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-o-condensed--0-0-0-0-p-0-iso8859-1
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-o-condensed--0-0-0-0-p-0-iso8859-10
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-o-condensed--0-0-0-0-p-0-iso8859-15
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-o-condensed--0-0-0-0-p-0-iso8859-2
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-o-condensed--0-0-0-0-p-0-iso8859-3
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-o-condensed--0-0-0-0-p-0-iso8859-4
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-o-condensed--0-0-0-0-p-0-iso8859-5
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-o-condensed--0-0-0-0-p-0-iso8859-7
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-o-condensed--0-0-0-0-p-0-iso8859-9
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-o-condensed--0-0-0-0-p-0-koi8-e
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-o-condensed--0-0-0-0-p-0-koi8-r
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-o-condensed--0-0-0-0-p-0-koi8-ru
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-o-condensed--0-0-0-0-p-0-koi8-u
+ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-medium-o-condensed--0-0-0-0-p-0-koi8-uni
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-i-condensed--0-0-0-0-p-0-iso10646-1
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-i-condensed--0-0-0-0-p-0-iso8859-1
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-i-condensed--0-0-0-0-p-0-iso8859-10
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-i-condensed--0-0-0-0-p-0-iso8859-15
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-i-condensed--0-0-0-0-p-0-iso8859-2
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-i-condensed--0-0-0-0-p-0-iso8859-3
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-i-condensed--0-0-0-0-p-0-iso8859-4
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-i-condensed--0-0-0-0-p-0-iso8859-5
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-i-condensed--0-0-0-0-p-0-iso8859-7
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-i-condensed--0-0-0-0-p-0-iso8859-9
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-i-condensed--0-0-0-0-p-0-koi8-e
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-i-condensed--0-0-0-0-p-0-koi8-r
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-i-condensed--0-0-0-0-p-0-koi8-ru
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-i-condensed--0-0-0-0-p-0-koi8-u
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-i-condensed--0-0-0-0-p-0-koi8-uni
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-o-condensed--0-0-0-0-p-0-iso10646-1
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-o-condensed--0-0-0-0-p-0-iso8859-1
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-o-condensed--0-0-0-0-p-0-iso8859-10
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-o-condensed--0-0-0-0-p-0-iso8859-15
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-o-condensed--0-0-0-0-p-0-iso8859-2
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-o-condensed--0-0-0-0-p-0-iso8859-3
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-o-condensed--0-0-0-0-p-0-iso8859-4
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-o-condensed--0-0-0-0-p-0-iso8859-5
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-o-condensed--0-0-0-0-p-0-iso8859-7
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-o-condensed--0-0-0-0-p-0-iso8859-9
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-o-condensed--0-0-0-0-p-0-koi8-e
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-o-condensed--0-0-0-0-p-0-koi8-r
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-o-condensed--0-0-0-0-p-0-koi8-ru
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-o-condensed--0-0-0-0-p-0-koi8-u
+ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-medium-o-condensed--0-0-0-0-p-0-koi8-uni
+ds=y:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-r-condensed--0-0-0-0-p-0-iso10646-1
+ds=y:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-r-condensed--0-0-0-0-p-0-iso8859-1
+ds=y:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-r-condensed--0-0-0-0-p-0-iso8859-10
+ds=y:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-r-condensed--0-0-0-0-p-0-iso8859-15
+ds=y:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-r-condensed--0-0-0-0-p-0-iso8859-2
+ds=y:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-r-condensed--0-0-0-0-p-0-iso8859-3
+ds=y:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-r-condensed--0-0-0-0-p-0-iso8859-4
+ds=y:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-r-condensed--0-0-0-0-p-0-iso8859-5
+ds=y:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-r-condensed--0-0-0-0-p-0-iso8859-7
+ds=y:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-r-condensed--0-0-0-0-p-0-iso8859-9
+ds=y:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-r-condensed--0-0-0-0-p-0-koi8-e
+ds=y:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-r-condensed--0-0-0-0-p-0-koi8-r
+ds=y:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-r-condensed--0-0-0-0-p-0-koi8-ru
+ds=y:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-r-condensed--0-0-0-0-p-0-koi8-u
+ds=y:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-r-condensed--0-0-0-0-p-0-koi8-uni
+ds=y:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-r-normal--0-0-0-0-p-0-iso10646-1
+ds=y:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-r-normal--0-0-0-0-p-0-iso8859-1
+ds=y:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-r-normal--0-0-0-0-p-0-iso8859-10
+ds=y:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-r-normal--0-0-0-0-p-0-iso8859-15
+ds=y:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-r-normal--0-0-0-0-p-0-iso8859-2
+ds=y:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-r-normal--0-0-0-0-p-0-iso8859-3
+ds=y:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-r-normal--0-0-0-0-p-0-iso8859-4
+ds=y:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-r-normal--0-0-0-0-p-0-iso8859-5
+ds=y:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-r-normal--0-0-0-0-p-0-iso8859-7
+ds=y:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-r-normal--0-0-0-0-p-0-iso8859-9
+ds=y:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-r-normal--0-0-0-0-p-0-koi8-e
+ds=y:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-r-normal--0-0-0-0-p-0-koi8-r
+ds=y:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-r-normal--0-0-0-0-p-0-koi8-ru
+ds=y:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-r-normal--0-0-0-0-p-0-koi8-u
+ds=y:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-r-normal--0-0-0-0-p-0-koi8-uni
+ds=y:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-r-condensed--0-0-0-0-p-0-iso10646-1
+ds=y:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-r-condensed--0-0-0-0-p-0-iso8859-1
+ds=y:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-r-condensed--0-0-0-0-p-0-iso8859-10
+ds=y:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-r-condensed--0-0-0-0-p-0-iso8859-15
+ds=y:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-r-condensed--0-0-0-0-p-0-iso8859-2
+ds=y:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-r-condensed--0-0-0-0-p-0-iso8859-3
+ds=y:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-r-condensed--0-0-0-0-p-0-iso8859-4
+ds=y:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-r-condensed--0-0-0-0-p-0-iso8859-5
+ds=y:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-r-condensed--0-0-0-0-p-0-iso8859-7
+ds=y:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-r-condensed--0-0-0-0-p-0-iso8859-9
+ds=y:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-r-condensed--0-0-0-0-p-0-koi8-e
+ds=y:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-r-condensed--0-0-0-0-p-0-koi8-r
+ds=y:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-r-condensed--0-0-0-0-p-0-koi8-ru
+ds=y:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-r-condensed--0-0-0-0-p-0-koi8-u
+ds=y:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-r-condensed--0-0-0-0-p-0-koi8-uni
+ds=y:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-r-normal--0-0-0-0-p-0-iso10646-1
+ds=y:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-r-normal--0-0-0-0-p-0-iso8859-1
+ds=y:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-r-normal--0-0-0-0-p-0-iso8859-10
+ds=y:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-r-normal--0-0-0-0-p-0-iso8859-15
+ds=y:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-r-normal--0-0-0-0-p-0-iso8859-2
+ds=y:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-r-normal--0-0-0-0-p-0-iso8859-3
+ds=y:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-r-normal--0-0-0-0-p-0-iso8859-4
+ds=y:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-r-normal--0-0-0-0-p-0-iso8859-5
+ds=y:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-r-normal--0-0-0-0-p-0-iso8859-7
+ds=y:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-r-normal--0-0-0-0-p-0-iso8859-9
+ds=y:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-r-normal--0-0-0-0-p-0-koi8-e
+ds=y:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-r-normal--0-0-0-0-p-0-koi8-r
+ds=y:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-r-normal--0-0-0-0-p-0-koi8-ru
+ds=y:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-r-normal--0-0-0-0-p-0-koi8-u
+ds=y:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-r-normal--0-0-0-0-p-0-koi8-uni
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-i-condensed--0-0-0-0-p-0-iso10646-1
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-i-condensed--0-0-0-0-p-0-iso8859-1
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-i-condensed--0-0-0-0-p-0-iso8859-10
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-i-condensed--0-0-0-0-p-0-iso8859-15
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-i-condensed--0-0-0-0-p-0-iso8859-2
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-i-condensed--0-0-0-0-p-0-iso8859-3
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-i-condensed--0-0-0-0-p-0-iso8859-4
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-i-condensed--0-0-0-0-p-0-iso8859-5
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-i-condensed--0-0-0-0-p-0-iso8859-7
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-i-condensed--0-0-0-0-p-0-iso8859-9
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-i-condensed--0-0-0-0-p-0-koi8-e
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-i-condensed--0-0-0-0-p-0-koi8-r
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-i-condensed--0-0-0-0-p-0-koi8-ru
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-i-condensed--0-0-0-0-p-0-koi8-u
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-i-condensed--0-0-0-0-p-0-koi8-uni
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-o-condensed--0-0-0-0-p-0-iso10646-1
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-o-condensed--0-0-0-0-p-0-iso8859-1
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-o-condensed--0-0-0-0-p-0-iso8859-10
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-o-condensed--0-0-0-0-p-0-iso8859-15
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-o-condensed--0-0-0-0-p-0-iso8859-2
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-o-condensed--0-0-0-0-p-0-iso8859-3
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-o-condensed--0-0-0-0-p-0-iso8859-4
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-o-condensed--0-0-0-0-p-0-iso8859-5
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-o-condensed--0-0-0-0-p-0-iso8859-7
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-o-condensed--0-0-0-0-p-0-iso8859-9
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-o-condensed--0-0-0-0-p-0-koi8-e
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-o-condensed--0-0-0-0-p-0-koi8-r
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-o-condensed--0-0-0-0-p-0-koi8-ru
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-o-condensed--0-0-0-0-p-0-koi8-u
+ds=y:ai=0.2:UbuntuNerdFont-Condensed.ttf -misc-ubuntu nerd font cond-bold-o-condensed--0-0-0-0-p-0-koi8-uni
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-i-normal--0-0-0-0-p-0-iso10646-1
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-i-normal--0-0-0-0-p-0-iso8859-1
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-i-normal--0-0-0-0-p-0-iso8859-10
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-i-normal--0-0-0-0-p-0-iso8859-15
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-i-normal--0-0-0-0-p-0-iso8859-2
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-i-normal--0-0-0-0-p-0-iso8859-3
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-i-normal--0-0-0-0-p-0-iso8859-4
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-i-normal--0-0-0-0-p-0-iso8859-5
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-i-normal--0-0-0-0-p-0-iso8859-7
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-i-normal--0-0-0-0-p-0-iso8859-9
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-i-normal--0-0-0-0-p-0-koi8-e
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-i-normal--0-0-0-0-p-0-koi8-r
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-i-normal--0-0-0-0-p-0-koi8-ru
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-i-normal--0-0-0-0-p-0-koi8-u
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-i-normal--0-0-0-0-p-0-koi8-uni
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-o-normal--0-0-0-0-p-0-iso10646-1
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-o-normal--0-0-0-0-p-0-iso8859-1
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-o-normal--0-0-0-0-p-0-iso8859-10
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-o-normal--0-0-0-0-p-0-iso8859-15
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-o-normal--0-0-0-0-p-0-iso8859-2
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-o-normal--0-0-0-0-p-0-iso8859-3
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-o-normal--0-0-0-0-p-0-iso8859-4
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-o-normal--0-0-0-0-p-0-iso8859-5
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-o-normal--0-0-0-0-p-0-iso8859-7
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-o-normal--0-0-0-0-p-0-iso8859-9
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-o-normal--0-0-0-0-p-0-koi8-e
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-o-normal--0-0-0-0-p-0-koi8-r
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-o-normal--0-0-0-0-p-0-koi8-ru
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-o-normal--0-0-0-0-p-0-koi8-u
+ds=y:ai=0.2:UbuntuNerdFont-Medium.ttf -misc-ubuntu nerd font med-bold-o-normal--0-0-0-0-p-0-koi8-uni
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-i-condensed--0-0-0-0-p-0-iso10646-1
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-i-condensed--0-0-0-0-p-0-iso8859-1
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-i-condensed--0-0-0-0-p-0-iso8859-10
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-i-condensed--0-0-0-0-p-0-iso8859-15
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-i-condensed--0-0-0-0-p-0-iso8859-2
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-i-condensed--0-0-0-0-p-0-iso8859-3
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-i-condensed--0-0-0-0-p-0-iso8859-4
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-i-condensed--0-0-0-0-p-0-iso8859-5
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-i-condensed--0-0-0-0-p-0-iso8859-7
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-i-condensed--0-0-0-0-p-0-iso8859-9
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-i-condensed--0-0-0-0-p-0-koi8-e
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-i-condensed--0-0-0-0-p-0-koi8-r
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-i-condensed--0-0-0-0-p-0-koi8-ru
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-i-condensed--0-0-0-0-p-0-koi8-u
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-i-condensed--0-0-0-0-p-0-koi8-uni
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-o-condensed--0-0-0-0-p-0-iso10646-1
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-o-condensed--0-0-0-0-p-0-iso8859-1
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-o-condensed--0-0-0-0-p-0-iso8859-10
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-o-condensed--0-0-0-0-p-0-iso8859-15
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-o-condensed--0-0-0-0-p-0-iso8859-2
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-o-condensed--0-0-0-0-p-0-iso8859-3
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-o-condensed--0-0-0-0-p-0-iso8859-4
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-o-condensed--0-0-0-0-p-0-iso8859-5
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-o-condensed--0-0-0-0-p-0-iso8859-7
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-o-condensed--0-0-0-0-p-0-iso8859-9
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-o-condensed--0-0-0-0-p-0-koi8-e
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-o-condensed--0-0-0-0-p-0-koi8-r
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-o-condensed--0-0-0-0-p-0-koi8-ru
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-o-condensed--0-0-0-0-p-0-koi8-u
+ds=y:ai=0.2:UbuntuNerdFontPropo-Condensed.ttf -misc-ubuntu nerd font propo cond-bold-o-condensed--0-0-0-0-p-0-koi8-uni
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-i-normal--0-0-0-0-p-0-iso10646-1
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-i-normal--0-0-0-0-p-0-iso8859-1
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-i-normal--0-0-0-0-p-0-iso8859-10
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-i-normal--0-0-0-0-p-0-iso8859-15
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-i-normal--0-0-0-0-p-0-iso8859-2
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-i-normal--0-0-0-0-p-0-iso8859-3
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-i-normal--0-0-0-0-p-0-iso8859-4
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-i-normal--0-0-0-0-p-0-iso8859-5
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-i-normal--0-0-0-0-p-0-iso8859-7
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-i-normal--0-0-0-0-p-0-iso8859-9
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-i-normal--0-0-0-0-p-0-koi8-e
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-i-normal--0-0-0-0-p-0-koi8-r
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-i-normal--0-0-0-0-p-0-koi8-ru
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-i-normal--0-0-0-0-p-0-koi8-u
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-i-normal--0-0-0-0-p-0-koi8-uni
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-o-normal--0-0-0-0-p-0-iso10646-1
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-o-normal--0-0-0-0-p-0-iso8859-1
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-o-normal--0-0-0-0-p-0-iso8859-10
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-o-normal--0-0-0-0-p-0-iso8859-15
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-o-normal--0-0-0-0-p-0-iso8859-2
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-o-normal--0-0-0-0-p-0-iso8859-3
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-o-normal--0-0-0-0-p-0-iso8859-4
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-o-normal--0-0-0-0-p-0-iso8859-5
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-o-normal--0-0-0-0-p-0-iso8859-7
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-o-normal--0-0-0-0-p-0-iso8859-9
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-o-normal--0-0-0-0-p-0-koi8-e
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-o-normal--0-0-0-0-p-0-koi8-r
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-o-normal--0-0-0-0-p-0-koi8-ru
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-o-normal--0-0-0-0-p-0-koi8-u
+ds=y:ai=0.2:UbuntuNerdFontPropo-Medium.ttf -misc-ubuntu nerd font propo med-bold-o-normal--0-0-0-0-p-0-koi8-uni

@@ -1,0 +1,811 @@
+810
+LilexNerdFont-Bold.ttf -misc-lilex nerd font-bold-r-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFont-Bold.ttf -misc-lilex nerd font-bold-r-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFont-Bold.ttf -misc-lilex nerd font-bold-r-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFont-Bold.ttf -misc-lilex nerd font-bold-r-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFont-Bold.ttf -misc-lilex nerd font-bold-r-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFont-Bold.ttf -misc-lilex nerd font-bold-r-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFont-Bold.ttf -misc-lilex nerd font-bold-r-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFont-Bold.ttf -misc-lilex nerd font-bold-r-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFont-Bold.ttf -misc-lilex nerd font-bold-r-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFont-Bold.ttf -misc-lilex nerd font-bold-r-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFont-Bold.ttf -misc-lilex nerd font-bold-r-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFont-Bold.ttf -misc-lilex nerd font-bold-r-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFont-Bold.ttf -misc-lilex nerd font-bold-r-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFont-Bold.ttf -misc-lilex nerd font-bold-r-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFont-Bold.ttf -misc-lilex nerd font-bold-r-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-i-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-i-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-i-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-i-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-i-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-i-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-i-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-i-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-i-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-i-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-i-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-i-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-i-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-i-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-i-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-o-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-o-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-o-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-o-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-o-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-o-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-o-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-o-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-o-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-o-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-o-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-o-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-o-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-o-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFont-BoldItalic.ttf -misc-lilex nerd font-bold-o-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFont-ExtraLight.ttf -misc-lilex nerd font extralight-extralight-r-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFont-ExtraLight.ttf -misc-lilex nerd font extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFont-ExtraLight.ttf -misc-lilex nerd font extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFont-ExtraLight.ttf -misc-lilex nerd font extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFont-ExtraLight.ttf -misc-lilex nerd font extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFont-ExtraLight.ttf -misc-lilex nerd font extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFont-ExtraLight.ttf -misc-lilex nerd font extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFont-ExtraLight.ttf -misc-lilex nerd font extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFont-ExtraLight.ttf -misc-lilex nerd font extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFont-ExtraLight.ttf -misc-lilex nerd font extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFont-ExtraLight.ttf -misc-lilex nerd font extralight-extralight-r-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFont-ExtraLight.ttf -misc-lilex nerd font extralight-extralight-r-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFont-ExtraLight.ttf -misc-lilex nerd font extralight-extralight-r-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFont-ExtraLight.ttf -misc-lilex nerd font extralight-extralight-r-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFont-ExtraLight.ttf -misc-lilex nerd font extralight-extralight-r-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-i-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-i-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-i-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-i-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-i-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-i-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-o-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-o-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-o-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-o-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-o-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-o-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-o-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-o-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-o-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-o-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-o-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-o-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-o-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-o-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFont-ExtraLightItalic.ttf -misc-lilex nerd font extralight-extralight-o-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-i-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-i-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-i-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-i-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-i-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-i-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-i-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-i-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-i-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-i-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-i-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-i-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-i-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-i-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-i-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-o-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-o-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-o-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-o-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-o-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-o-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-o-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-o-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-o-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-o-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-o-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-o-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-o-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-o-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFont-Italic.ttf -misc-lilex nerd font-medium-o-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-medium-r-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-medium-r-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-medium-r-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-medium-r-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-medium-r-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-medium-r-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-medium-r-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-medium-r-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-medium-r-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-medium-r-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-medium-r-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-medium-r-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-medium-r-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-medium-r-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-medium-r-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-i-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-i-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-i-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-i-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-i-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-i-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-i-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-i-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-i-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-i-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-i-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-i-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-i-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-i-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-i-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-o-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-o-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-o-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-o-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-o-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-o-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-o-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-o-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-o-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-o-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-o-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-o-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-o-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-o-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFont-MediumItalic.ttf -misc-lilex nerd font medium-medium-o-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFont-Regular.ttf -misc-lilex nerd font-medium-r-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFont-Regular.ttf -misc-lilex nerd font-medium-r-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFont-Regular.ttf -misc-lilex nerd font-medium-r-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFont-Regular.ttf -misc-lilex nerd font-medium-r-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFont-Regular.ttf -misc-lilex nerd font-medium-r-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFont-Regular.ttf -misc-lilex nerd font-medium-r-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFont-Regular.ttf -misc-lilex nerd font-medium-r-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFont-Regular.ttf -misc-lilex nerd font-medium-r-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFont-Regular.ttf -misc-lilex nerd font-medium-r-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFont-Regular.ttf -misc-lilex nerd font-medium-r-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFont-Regular.ttf -misc-lilex nerd font-medium-r-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFont-Regular.ttf -misc-lilex nerd font-medium-r-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFont-Regular.ttf -misc-lilex nerd font-medium-r-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFont-Regular.ttf -misc-lilex nerd font-medium-r-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFont-Regular.ttf -misc-lilex nerd font-medium-r-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFont-Thin.ttf -misc-lilex nerd font thin-thin-r-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFont-Thin.ttf -misc-lilex nerd font thin-thin-r-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFont-Thin.ttf -misc-lilex nerd font thin-thin-r-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFont-Thin.ttf -misc-lilex nerd font thin-thin-r-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFont-Thin.ttf -misc-lilex nerd font thin-thin-r-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFont-Thin.ttf -misc-lilex nerd font thin-thin-r-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFont-Thin.ttf -misc-lilex nerd font thin-thin-r-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFont-Thin.ttf -misc-lilex nerd font thin-thin-r-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFont-Thin.ttf -misc-lilex nerd font thin-thin-r-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFont-Thin.ttf -misc-lilex nerd font thin-thin-r-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFont-Thin.ttf -misc-lilex nerd font thin-thin-r-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFont-Thin.ttf -misc-lilex nerd font thin-thin-r-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFont-Thin.ttf -misc-lilex nerd font thin-thin-r-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFont-Thin.ttf -misc-lilex nerd font thin-thin-r-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFont-Thin.ttf -misc-lilex nerd font thin-thin-r-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-i-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-i-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-i-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-i-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-i-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-i-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-i-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-i-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-i-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-i-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-i-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-i-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-i-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-i-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-i-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-o-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-o-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-o-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-o-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-o-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-o-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-o-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-o-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-o-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-o-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-o-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-o-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-o-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-o-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFont-ThinItalic.ttf -misc-lilex nerd font thin-thin-o-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFontMono-Bold.ttf -misc-lilex nerd font mono-bold-r-normal--0-0-0-0-m-0-iso10646-1
+LilexNerdFontMono-Bold.ttf -misc-lilex nerd font mono-bold-r-normal--0-0-0-0-m-0-iso8859-1
+LilexNerdFontMono-Bold.ttf -misc-lilex nerd font mono-bold-r-normal--0-0-0-0-m-0-iso8859-10
+LilexNerdFontMono-Bold.ttf -misc-lilex nerd font mono-bold-r-normal--0-0-0-0-m-0-iso8859-15
+LilexNerdFontMono-Bold.ttf -misc-lilex nerd font mono-bold-r-normal--0-0-0-0-m-0-iso8859-2
+LilexNerdFontMono-Bold.ttf -misc-lilex nerd font mono-bold-r-normal--0-0-0-0-m-0-iso8859-3
+LilexNerdFontMono-Bold.ttf -misc-lilex nerd font mono-bold-r-normal--0-0-0-0-m-0-iso8859-4
+LilexNerdFontMono-Bold.ttf -misc-lilex nerd font mono-bold-r-normal--0-0-0-0-m-0-iso8859-5
+LilexNerdFontMono-Bold.ttf -misc-lilex nerd font mono-bold-r-normal--0-0-0-0-m-0-iso8859-7
+LilexNerdFontMono-Bold.ttf -misc-lilex nerd font mono-bold-r-normal--0-0-0-0-m-0-iso8859-9
+LilexNerdFontMono-Bold.ttf -misc-lilex nerd font mono-bold-r-normal--0-0-0-0-m-0-koi8-e
+LilexNerdFontMono-Bold.ttf -misc-lilex nerd font mono-bold-r-normal--0-0-0-0-m-0-koi8-r
+LilexNerdFontMono-Bold.ttf -misc-lilex nerd font mono-bold-r-normal--0-0-0-0-m-0-koi8-ru
+LilexNerdFontMono-Bold.ttf -misc-lilex nerd font mono-bold-r-normal--0-0-0-0-m-0-koi8-u
+LilexNerdFontMono-Bold.ttf -misc-lilex nerd font mono-bold-r-normal--0-0-0-0-m-0-koi8-uni
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-i-normal--0-0-0-0-m-0-iso10646-1
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-i-normal--0-0-0-0-m-0-iso8859-1
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-i-normal--0-0-0-0-m-0-iso8859-10
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-i-normal--0-0-0-0-m-0-iso8859-15
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-i-normal--0-0-0-0-m-0-iso8859-2
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-i-normal--0-0-0-0-m-0-iso8859-3
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-i-normal--0-0-0-0-m-0-iso8859-4
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-i-normal--0-0-0-0-m-0-iso8859-5
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-i-normal--0-0-0-0-m-0-iso8859-7
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-i-normal--0-0-0-0-m-0-iso8859-9
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-i-normal--0-0-0-0-m-0-koi8-e
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-i-normal--0-0-0-0-m-0-koi8-r
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-i-normal--0-0-0-0-m-0-koi8-ru
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-i-normal--0-0-0-0-m-0-koi8-u
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-i-normal--0-0-0-0-m-0-koi8-uni
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-o-normal--0-0-0-0-m-0-iso10646-1
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-o-normal--0-0-0-0-m-0-iso8859-1
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-o-normal--0-0-0-0-m-0-iso8859-10
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-o-normal--0-0-0-0-m-0-iso8859-15
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-o-normal--0-0-0-0-m-0-iso8859-2
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-o-normal--0-0-0-0-m-0-iso8859-3
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-o-normal--0-0-0-0-m-0-iso8859-4
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-o-normal--0-0-0-0-m-0-iso8859-5
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-o-normal--0-0-0-0-m-0-iso8859-7
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-o-normal--0-0-0-0-m-0-iso8859-9
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-o-normal--0-0-0-0-m-0-koi8-e
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-o-normal--0-0-0-0-m-0-koi8-r
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-o-normal--0-0-0-0-m-0-koi8-ru
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-o-normal--0-0-0-0-m-0-koi8-u
+LilexNerdFontMono-BoldItalic.ttf -misc-lilex nerd font mono-bold-o-normal--0-0-0-0-m-0-koi8-uni
+LilexNerdFontMono-ExtraLight.ttf -misc-lilex nerd font mono extralight-extralight-r-normal--0-0-0-0-m-0-iso10646-1
+LilexNerdFontMono-ExtraLight.ttf -misc-lilex nerd font mono extralight-extralight-r-normal--0-0-0-0-m-0-iso8859-1
+LilexNerdFontMono-ExtraLight.ttf -misc-lilex nerd font mono extralight-extralight-r-normal--0-0-0-0-m-0-iso8859-10
+LilexNerdFontMono-ExtraLight.ttf -misc-lilex nerd font mono extralight-extralight-r-normal--0-0-0-0-m-0-iso8859-15
+LilexNerdFontMono-ExtraLight.ttf -misc-lilex nerd font mono extralight-extralight-r-normal--0-0-0-0-m-0-iso8859-2
+LilexNerdFontMono-ExtraLight.ttf -misc-lilex nerd font mono extralight-extralight-r-normal--0-0-0-0-m-0-iso8859-3
+LilexNerdFontMono-ExtraLight.ttf -misc-lilex nerd font mono extralight-extralight-r-normal--0-0-0-0-m-0-iso8859-4
+LilexNerdFontMono-ExtraLight.ttf -misc-lilex nerd font mono extralight-extralight-r-normal--0-0-0-0-m-0-iso8859-5
+LilexNerdFontMono-ExtraLight.ttf -misc-lilex nerd font mono extralight-extralight-r-normal--0-0-0-0-m-0-iso8859-7
+LilexNerdFontMono-ExtraLight.ttf -misc-lilex nerd font mono extralight-extralight-r-normal--0-0-0-0-m-0-iso8859-9
+LilexNerdFontMono-ExtraLight.ttf -misc-lilex nerd font mono extralight-extralight-r-normal--0-0-0-0-m-0-koi8-e
+LilexNerdFontMono-ExtraLight.ttf -misc-lilex nerd font mono extralight-extralight-r-normal--0-0-0-0-m-0-koi8-r
+LilexNerdFontMono-ExtraLight.ttf -misc-lilex nerd font mono extralight-extralight-r-normal--0-0-0-0-m-0-koi8-ru
+LilexNerdFontMono-ExtraLight.ttf -misc-lilex nerd font mono extralight-extralight-r-normal--0-0-0-0-m-0-koi8-u
+LilexNerdFontMono-ExtraLight.ttf -misc-lilex nerd font mono extralight-extralight-r-normal--0-0-0-0-m-0-koi8-uni
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-i-normal--0-0-0-0-m-0-iso10646-1
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-i-normal--0-0-0-0-m-0-iso8859-1
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-i-normal--0-0-0-0-m-0-iso8859-10
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-i-normal--0-0-0-0-m-0-iso8859-15
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-i-normal--0-0-0-0-m-0-iso8859-2
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-i-normal--0-0-0-0-m-0-iso8859-3
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-i-normal--0-0-0-0-m-0-iso8859-4
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-i-normal--0-0-0-0-m-0-iso8859-5
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-i-normal--0-0-0-0-m-0-iso8859-7
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-i-normal--0-0-0-0-m-0-iso8859-9
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-i-normal--0-0-0-0-m-0-koi8-e
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-i-normal--0-0-0-0-m-0-koi8-r
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-i-normal--0-0-0-0-m-0-koi8-ru
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-i-normal--0-0-0-0-m-0-koi8-u
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-i-normal--0-0-0-0-m-0-koi8-uni
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-o-normal--0-0-0-0-m-0-iso10646-1
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-o-normal--0-0-0-0-m-0-iso8859-1
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-o-normal--0-0-0-0-m-0-iso8859-10
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-o-normal--0-0-0-0-m-0-iso8859-15
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-o-normal--0-0-0-0-m-0-iso8859-2
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-o-normal--0-0-0-0-m-0-iso8859-3
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-o-normal--0-0-0-0-m-0-iso8859-4
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-o-normal--0-0-0-0-m-0-iso8859-5
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-o-normal--0-0-0-0-m-0-iso8859-7
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-o-normal--0-0-0-0-m-0-iso8859-9
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-o-normal--0-0-0-0-m-0-koi8-e
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-o-normal--0-0-0-0-m-0-koi8-r
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-o-normal--0-0-0-0-m-0-koi8-ru
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-o-normal--0-0-0-0-m-0-koi8-u
+LilexNerdFontMono-ExtraLightItalic.ttf -misc-lilex nerd font mono extralight-extralight-o-normal--0-0-0-0-m-0-koi8-uni
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-i-normal--0-0-0-0-m-0-iso10646-1
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-i-normal--0-0-0-0-m-0-iso8859-1
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-i-normal--0-0-0-0-m-0-iso8859-10
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-i-normal--0-0-0-0-m-0-iso8859-15
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-i-normal--0-0-0-0-m-0-iso8859-2
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-i-normal--0-0-0-0-m-0-iso8859-3
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-i-normal--0-0-0-0-m-0-iso8859-4
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-i-normal--0-0-0-0-m-0-iso8859-5
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-i-normal--0-0-0-0-m-0-iso8859-7
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-i-normal--0-0-0-0-m-0-iso8859-9
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-i-normal--0-0-0-0-m-0-koi8-e
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-i-normal--0-0-0-0-m-0-koi8-r
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-i-normal--0-0-0-0-m-0-koi8-ru
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-i-normal--0-0-0-0-m-0-koi8-u
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-i-normal--0-0-0-0-m-0-koi8-uni
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-o-normal--0-0-0-0-m-0-iso10646-1
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-o-normal--0-0-0-0-m-0-iso8859-1
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-o-normal--0-0-0-0-m-0-iso8859-10
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-o-normal--0-0-0-0-m-0-iso8859-15
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-o-normal--0-0-0-0-m-0-iso8859-2
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-o-normal--0-0-0-0-m-0-iso8859-3
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-o-normal--0-0-0-0-m-0-iso8859-4
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-o-normal--0-0-0-0-m-0-iso8859-5
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-o-normal--0-0-0-0-m-0-iso8859-7
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-o-normal--0-0-0-0-m-0-iso8859-9
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-o-normal--0-0-0-0-m-0-koi8-e
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-o-normal--0-0-0-0-m-0-koi8-r
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-o-normal--0-0-0-0-m-0-koi8-ru
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-o-normal--0-0-0-0-m-0-koi8-u
+LilexNerdFontMono-Italic.ttf -misc-lilex nerd font mono-medium-o-normal--0-0-0-0-m-0-koi8-uni
+LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-medium-r-normal--0-0-0-0-m-0-iso10646-1
+LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-medium-r-normal--0-0-0-0-m-0-iso8859-1
+LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-medium-r-normal--0-0-0-0-m-0-iso8859-10
+LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-medium-r-normal--0-0-0-0-m-0-iso8859-15
+LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-medium-r-normal--0-0-0-0-m-0-iso8859-2
+LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-medium-r-normal--0-0-0-0-m-0-iso8859-3
+LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-medium-r-normal--0-0-0-0-m-0-iso8859-4
+LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-medium-r-normal--0-0-0-0-m-0-iso8859-5
+LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-medium-r-normal--0-0-0-0-m-0-iso8859-7
+LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-medium-r-normal--0-0-0-0-m-0-iso8859-9
+LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-medium-r-normal--0-0-0-0-m-0-koi8-e
+LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-medium-r-normal--0-0-0-0-m-0-koi8-r
+LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-medium-r-normal--0-0-0-0-m-0-koi8-ru
+LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-medium-r-normal--0-0-0-0-m-0-koi8-u
+LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-medium-r-normal--0-0-0-0-m-0-koi8-uni
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-i-normal--0-0-0-0-m-0-iso10646-1
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-i-normal--0-0-0-0-m-0-iso8859-1
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-i-normal--0-0-0-0-m-0-iso8859-10
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-i-normal--0-0-0-0-m-0-iso8859-15
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-i-normal--0-0-0-0-m-0-iso8859-2
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-i-normal--0-0-0-0-m-0-iso8859-3
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-i-normal--0-0-0-0-m-0-iso8859-4
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-i-normal--0-0-0-0-m-0-iso8859-5
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-i-normal--0-0-0-0-m-0-iso8859-7
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-i-normal--0-0-0-0-m-0-iso8859-9
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-i-normal--0-0-0-0-m-0-koi8-e
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-i-normal--0-0-0-0-m-0-koi8-r
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-i-normal--0-0-0-0-m-0-koi8-ru
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-i-normal--0-0-0-0-m-0-koi8-u
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-i-normal--0-0-0-0-m-0-koi8-uni
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-o-normal--0-0-0-0-m-0-iso10646-1
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-o-normal--0-0-0-0-m-0-iso8859-1
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-o-normal--0-0-0-0-m-0-iso8859-10
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-o-normal--0-0-0-0-m-0-iso8859-15
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-o-normal--0-0-0-0-m-0-iso8859-2
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-o-normal--0-0-0-0-m-0-iso8859-3
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-o-normal--0-0-0-0-m-0-iso8859-4
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-o-normal--0-0-0-0-m-0-iso8859-5
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-o-normal--0-0-0-0-m-0-iso8859-7
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-o-normal--0-0-0-0-m-0-iso8859-9
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-o-normal--0-0-0-0-m-0-koi8-e
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-o-normal--0-0-0-0-m-0-koi8-r
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-o-normal--0-0-0-0-m-0-koi8-ru
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-o-normal--0-0-0-0-m-0-koi8-u
+LilexNerdFontMono-MediumItalic.ttf -misc-lilex nerd font mono medium-medium-o-normal--0-0-0-0-m-0-koi8-uni
+LilexNerdFontMono-Regular.ttf -misc-lilex nerd font mono-medium-r-normal--0-0-0-0-m-0-iso10646-1
+LilexNerdFontMono-Regular.ttf -misc-lilex nerd font mono-medium-r-normal--0-0-0-0-m-0-iso8859-1
+LilexNerdFontMono-Regular.ttf -misc-lilex nerd font mono-medium-r-normal--0-0-0-0-m-0-iso8859-10
+LilexNerdFontMono-Regular.ttf -misc-lilex nerd font mono-medium-r-normal--0-0-0-0-m-0-iso8859-15
+LilexNerdFontMono-Regular.ttf -misc-lilex nerd font mono-medium-r-normal--0-0-0-0-m-0-iso8859-2
+LilexNerdFontMono-Regular.ttf -misc-lilex nerd font mono-medium-r-normal--0-0-0-0-m-0-iso8859-3
+LilexNerdFontMono-Regular.ttf -misc-lilex nerd font mono-medium-r-normal--0-0-0-0-m-0-iso8859-4
+LilexNerdFontMono-Regular.ttf -misc-lilex nerd font mono-medium-r-normal--0-0-0-0-m-0-iso8859-5
+LilexNerdFontMono-Regular.ttf -misc-lilex nerd font mono-medium-r-normal--0-0-0-0-m-0-iso8859-7
+LilexNerdFontMono-Regular.ttf -misc-lilex nerd font mono-medium-r-normal--0-0-0-0-m-0-iso8859-9
+LilexNerdFontMono-Regular.ttf -misc-lilex nerd font mono-medium-r-normal--0-0-0-0-m-0-koi8-e
+LilexNerdFontMono-Regular.ttf -misc-lilex nerd font mono-medium-r-normal--0-0-0-0-m-0-koi8-r
+LilexNerdFontMono-Regular.ttf -misc-lilex nerd font mono-medium-r-normal--0-0-0-0-m-0-koi8-ru
+LilexNerdFontMono-Regular.ttf -misc-lilex nerd font mono-medium-r-normal--0-0-0-0-m-0-koi8-u
+LilexNerdFontMono-Regular.ttf -misc-lilex nerd font mono-medium-r-normal--0-0-0-0-m-0-koi8-uni
+LilexNerdFontMono-Thin.ttf -misc-lilex nerd font mono thin-thin-r-normal--0-0-0-0-m-0-iso10646-1
+LilexNerdFontMono-Thin.ttf -misc-lilex nerd font mono thin-thin-r-normal--0-0-0-0-m-0-iso8859-1
+LilexNerdFontMono-Thin.ttf -misc-lilex nerd font mono thin-thin-r-normal--0-0-0-0-m-0-iso8859-10
+LilexNerdFontMono-Thin.ttf -misc-lilex nerd font mono thin-thin-r-normal--0-0-0-0-m-0-iso8859-15
+LilexNerdFontMono-Thin.ttf -misc-lilex nerd font mono thin-thin-r-normal--0-0-0-0-m-0-iso8859-2
+LilexNerdFontMono-Thin.ttf -misc-lilex nerd font mono thin-thin-r-normal--0-0-0-0-m-0-iso8859-3
+LilexNerdFontMono-Thin.ttf -misc-lilex nerd font mono thin-thin-r-normal--0-0-0-0-m-0-iso8859-4
+LilexNerdFontMono-Thin.ttf -misc-lilex nerd font mono thin-thin-r-normal--0-0-0-0-m-0-iso8859-5
+LilexNerdFontMono-Thin.ttf -misc-lilex nerd font mono thin-thin-r-normal--0-0-0-0-m-0-iso8859-7
+LilexNerdFontMono-Thin.ttf -misc-lilex nerd font mono thin-thin-r-normal--0-0-0-0-m-0-iso8859-9
+LilexNerdFontMono-Thin.ttf -misc-lilex nerd font mono thin-thin-r-normal--0-0-0-0-m-0-koi8-e
+LilexNerdFontMono-Thin.ttf -misc-lilex nerd font mono thin-thin-r-normal--0-0-0-0-m-0-koi8-r
+LilexNerdFontMono-Thin.ttf -misc-lilex nerd font mono thin-thin-r-normal--0-0-0-0-m-0-koi8-ru
+LilexNerdFontMono-Thin.ttf -misc-lilex nerd font mono thin-thin-r-normal--0-0-0-0-m-0-koi8-u
+LilexNerdFontMono-Thin.ttf -misc-lilex nerd font mono thin-thin-r-normal--0-0-0-0-m-0-koi8-uni
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-i-normal--0-0-0-0-m-0-iso10646-1
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-i-normal--0-0-0-0-m-0-iso8859-1
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-i-normal--0-0-0-0-m-0-iso8859-10
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-i-normal--0-0-0-0-m-0-iso8859-15
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-i-normal--0-0-0-0-m-0-iso8859-2
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-i-normal--0-0-0-0-m-0-iso8859-3
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-i-normal--0-0-0-0-m-0-iso8859-4
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-i-normal--0-0-0-0-m-0-iso8859-5
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-i-normal--0-0-0-0-m-0-iso8859-7
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-i-normal--0-0-0-0-m-0-iso8859-9
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-i-normal--0-0-0-0-m-0-koi8-e
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-i-normal--0-0-0-0-m-0-koi8-r
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-i-normal--0-0-0-0-m-0-koi8-ru
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-i-normal--0-0-0-0-m-0-koi8-u
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-i-normal--0-0-0-0-m-0-koi8-uni
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-o-normal--0-0-0-0-m-0-iso10646-1
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-o-normal--0-0-0-0-m-0-iso8859-1
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-o-normal--0-0-0-0-m-0-iso8859-10
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-o-normal--0-0-0-0-m-0-iso8859-15
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-o-normal--0-0-0-0-m-0-iso8859-2
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-o-normal--0-0-0-0-m-0-iso8859-3
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-o-normal--0-0-0-0-m-0-iso8859-4
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-o-normal--0-0-0-0-m-0-iso8859-5
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-o-normal--0-0-0-0-m-0-iso8859-7
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-o-normal--0-0-0-0-m-0-iso8859-9
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-o-normal--0-0-0-0-m-0-koi8-e
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-o-normal--0-0-0-0-m-0-koi8-r
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-o-normal--0-0-0-0-m-0-koi8-ru
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-o-normal--0-0-0-0-m-0-koi8-u
+LilexNerdFontMono-ThinItalic.ttf -misc-lilex nerd font mono thin-thin-o-normal--0-0-0-0-m-0-koi8-uni
+LilexNerdFontPropo-Bold.ttf -misc-lilex nerd font propo-bold-r-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFontPropo-Bold.ttf -misc-lilex nerd font propo-bold-r-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFontPropo-Bold.ttf -misc-lilex nerd font propo-bold-r-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFontPropo-Bold.ttf -misc-lilex nerd font propo-bold-r-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFontPropo-Bold.ttf -misc-lilex nerd font propo-bold-r-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFontPropo-Bold.ttf -misc-lilex nerd font propo-bold-r-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFontPropo-Bold.ttf -misc-lilex nerd font propo-bold-r-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFontPropo-Bold.ttf -misc-lilex nerd font propo-bold-r-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFontPropo-Bold.ttf -misc-lilex nerd font propo-bold-r-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFontPropo-Bold.ttf -misc-lilex nerd font propo-bold-r-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFontPropo-Bold.ttf -misc-lilex nerd font propo-bold-r-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFontPropo-Bold.ttf -misc-lilex nerd font propo-bold-r-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFontPropo-Bold.ttf -misc-lilex nerd font propo-bold-r-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFontPropo-Bold.ttf -misc-lilex nerd font propo-bold-r-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFontPropo-Bold.ttf -misc-lilex nerd font propo-bold-r-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-i-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-i-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-i-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-i-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-i-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-i-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-i-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-i-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-i-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-i-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-i-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-i-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-i-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-i-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-i-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-o-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-o-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-o-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-o-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-o-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-o-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-o-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-o-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-o-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-o-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-o-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-o-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-o-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-o-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFontPropo-BoldItalic.ttf -misc-lilex nerd font propo-bold-o-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFontPropo-ExtraLight.ttf -misc-lilex nerd font propo extralight-extralight-r-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFontPropo-ExtraLight.ttf -misc-lilex nerd font propo extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFontPropo-ExtraLight.ttf -misc-lilex nerd font propo extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFontPropo-ExtraLight.ttf -misc-lilex nerd font propo extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFontPropo-ExtraLight.ttf -misc-lilex nerd font propo extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFontPropo-ExtraLight.ttf -misc-lilex nerd font propo extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFontPropo-ExtraLight.ttf -misc-lilex nerd font propo extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFontPropo-ExtraLight.ttf -misc-lilex nerd font propo extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFontPropo-ExtraLight.ttf -misc-lilex nerd font propo extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFontPropo-ExtraLight.ttf -misc-lilex nerd font propo extralight-extralight-r-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFontPropo-ExtraLight.ttf -misc-lilex nerd font propo extralight-extralight-r-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFontPropo-ExtraLight.ttf -misc-lilex nerd font propo extralight-extralight-r-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFontPropo-ExtraLight.ttf -misc-lilex nerd font propo extralight-extralight-r-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFontPropo-ExtraLight.ttf -misc-lilex nerd font propo extralight-extralight-r-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFontPropo-ExtraLight.ttf -misc-lilex nerd font propo extralight-extralight-r-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-i-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-i-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-i-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-i-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-i-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-i-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-i-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-o-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-o-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-o-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-o-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-o-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-o-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-o-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-o-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-o-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-o-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-o-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-o-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-o-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-o-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFontPropo-ExtraLightItalic.ttf -misc-lilex nerd font propo extralight-extralight-o-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-i-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-i-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-i-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-i-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-i-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-i-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-i-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-i-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-i-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-i-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-i-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-i-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-i-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-i-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-i-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-o-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-o-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-o-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-o-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-o-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-o-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-o-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-o-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-o-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-o-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-o-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-o-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-o-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-o-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFontPropo-Italic.ttf -misc-lilex nerd font propo-medium-o-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-medium-r-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-medium-r-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-medium-r-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-medium-r-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-medium-r-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-medium-r-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-medium-r-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-medium-r-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-medium-r-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-medium-r-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-medium-r-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-medium-r-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-medium-r-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-medium-r-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-medium-r-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-i-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-i-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-i-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-i-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-i-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-i-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-i-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-i-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-i-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-i-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-i-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-i-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-i-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-i-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-i-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-o-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-o-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-o-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-o-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-o-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-o-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-o-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-o-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-o-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-o-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-o-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-o-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-o-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-o-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFontPropo-MediumItalic.ttf -misc-lilex nerd font propo medium-medium-o-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFontPropo-Regular.ttf -misc-lilex nerd font propo-medium-r-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFontPropo-Regular.ttf -misc-lilex nerd font propo-medium-r-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFontPropo-Regular.ttf -misc-lilex nerd font propo-medium-r-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFontPropo-Regular.ttf -misc-lilex nerd font propo-medium-r-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFontPropo-Regular.ttf -misc-lilex nerd font propo-medium-r-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFontPropo-Regular.ttf -misc-lilex nerd font propo-medium-r-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFontPropo-Regular.ttf -misc-lilex nerd font propo-medium-r-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFontPropo-Regular.ttf -misc-lilex nerd font propo-medium-r-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFontPropo-Regular.ttf -misc-lilex nerd font propo-medium-r-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFontPropo-Regular.ttf -misc-lilex nerd font propo-medium-r-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFontPropo-Regular.ttf -misc-lilex nerd font propo-medium-r-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFontPropo-Regular.ttf -misc-lilex nerd font propo-medium-r-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFontPropo-Regular.ttf -misc-lilex nerd font propo-medium-r-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFontPropo-Regular.ttf -misc-lilex nerd font propo-medium-r-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFontPropo-Regular.ttf -misc-lilex nerd font propo-medium-r-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFontPropo-Thin.ttf -misc-lilex nerd font propo thin-thin-r-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFontPropo-Thin.ttf -misc-lilex nerd font propo thin-thin-r-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFontPropo-Thin.ttf -misc-lilex nerd font propo thin-thin-r-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFontPropo-Thin.ttf -misc-lilex nerd font propo thin-thin-r-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFontPropo-Thin.ttf -misc-lilex nerd font propo thin-thin-r-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFontPropo-Thin.ttf -misc-lilex nerd font propo thin-thin-r-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFontPropo-Thin.ttf -misc-lilex nerd font propo thin-thin-r-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFontPropo-Thin.ttf -misc-lilex nerd font propo thin-thin-r-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFontPropo-Thin.ttf -misc-lilex nerd font propo thin-thin-r-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFontPropo-Thin.ttf -misc-lilex nerd font propo thin-thin-r-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFontPropo-Thin.ttf -misc-lilex nerd font propo thin-thin-r-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFontPropo-Thin.ttf -misc-lilex nerd font propo thin-thin-r-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFontPropo-Thin.ttf -misc-lilex nerd font propo thin-thin-r-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFontPropo-Thin.ttf -misc-lilex nerd font propo thin-thin-r-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFontPropo-Thin.ttf -misc-lilex nerd font propo thin-thin-r-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-i-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-i-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-i-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-i-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-i-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-i-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-i-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-i-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-i-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-i-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-i-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-i-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-i-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-i-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-i-normal--0-0-0-0-p-0-koi8-uni
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-o-normal--0-0-0-0-p-0-iso10646-1
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-o-normal--0-0-0-0-p-0-iso8859-1
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-o-normal--0-0-0-0-p-0-iso8859-10
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-o-normal--0-0-0-0-p-0-iso8859-15
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-o-normal--0-0-0-0-p-0-iso8859-2
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-o-normal--0-0-0-0-p-0-iso8859-3
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-o-normal--0-0-0-0-p-0-iso8859-4
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-o-normal--0-0-0-0-p-0-iso8859-5
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-o-normal--0-0-0-0-p-0-iso8859-7
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-o-normal--0-0-0-0-p-0-iso8859-9
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-o-normal--0-0-0-0-p-0-koi8-e
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-o-normal--0-0-0-0-p-0-koi8-r
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-o-normal--0-0-0-0-p-0-koi8-ru
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-o-normal--0-0-0-0-p-0-koi8-u
+LilexNerdFontPropo-ThinItalic.ttf -misc-lilex nerd font propo thin-thin-o-normal--0-0-0-0-p-0-koi8-uni
+ds=y:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-r-normal--0-0-0-0-p-0-iso10646-1
+ds=y:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-r-normal--0-0-0-0-p-0-iso8859-1
+ds=y:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-r-normal--0-0-0-0-p-0-iso8859-10
+ds=y:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-r-normal--0-0-0-0-p-0-iso8859-15
+ds=y:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-r-normal--0-0-0-0-p-0-iso8859-2
+ds=y:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-r-normal--0-0-0-0-p-0-iso8859-3
+ds=y:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-r-normal--0-0-0-0-p-0-iso8859-4
+ds=y:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-r-normal--0-0-0-0-p-0-iso8859-5
+ds=y:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-r-normal--0-0-0-0-p-0-iso8859-7
+ds=y:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-r-normal--0-0-0-0-p-0-iso8859-9
+ds=y:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-r-normal--0-0-0-0-p-0-koi8-e
+ds=y:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-r-normal--0-0-0-0-p-0-koi8-r
+ds=y:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-r-normal--0-0-0-0-p-0-koi8-ru
+ds=y:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-r-normal--0-0-0-0-p-0-koi8-u
+ds=y:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-r-normal--0-0-0-0-p-0-koi8-uni
+ds=y:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-r-normal--0-0-0-0-m-0-iso10646-1
+ds=y:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-r-normal--0-0-0-0-m-0-iso8859-1
+ds=y:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-r-normal--0-0-0-0-m-0-iso8859-10
+ds=y:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-r-normal--0-0-0-0-m-0-iso8859-15
+ds=y:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-r-normal--0-0-0-0-m-0-iso8859-2
+ds=y:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-r-normal--0-0-0-0-m-0-iso8859-3
+ds=y:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-r-normal--0-0-0-0-m-0-iso8859-4
+ds=y:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-r-normal--0-0-0-0-m-0-iso8859-5
+ds=y:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-r-normal--0-0-0-0-m-0-iso8859-7
+ds=y:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-r-normal--0-0-0-0-m-0-iso8859-9
+ds=y:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-r-normal--0-0-0-0-m-0-koi8-e
+ds=y:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-r-normal--0-0-0-0-m-0-koi8-r
+ds=y:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-r-normal--0-0-0-0-m-0-koi8-ru
+ds=y:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-r-normal--0-0-0-0-m-0-koi8-u
+ds=y:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-r-normal--0-0-0-0-m-0-koi8-uni
+ds=y:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-r-normal--0-0-0-0-p-0-iso10646-1
+ds=y:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-r-normal--0-0-0-0-p-0-iso8859-1
+ds=y:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-r-normal--0-0-0-0-p-0-iso8859-10
+ds=y:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-r-normal--0-0-0-0-p-0-iso8859-15
+ds=y:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-r-normal--0-0-0-0-p-0-iso8859-2
+ds=y:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-r-normal--0-0-0-0-p-0-iso8859-3
+ds=y:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-r-normal--0-0-0-0-p-0-iso8859-4
+ds=y:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-r-normal--0-0-0-0-p-0-iso8859-5
+ds=y:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-r-normal--0-0-0-0-p-0-iso8859-7
+ds=y:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-r-normal--0-0-0-0-p-0-iso8859-9
+ds=y:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-r-normal--0-0-0-0-p-0-koi8-e
+ds=y:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-r-normal--0-0-0-0-p-0-koi8-r
+ds=y:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-r-normal--0-0-0-0-p-0-koi8-ru
+ds=y:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-r-normal--0-0-0-0-p-0-koi8-u
+ds=y:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-r-normal--0-0-0-0-p-0-koi8-uni
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-i-normal--0-0-0-0-p-0-iso10646-1
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-i-normal--0-0-0-0-p-0-iso8859-1
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-i-normal--0-0-0-0-p-0-iso8859-10
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-i-normal--0-0-0-0-p-0-iso8859-15
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-i-normal--0-0-0-0-p-0-iso8859-2
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-i-normal--0-0-0-0-p-0-iso8859-3
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-i-normal--0-0-0-0-p-0-iso8859-4
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-i-normal--0-0-0-0-p-0-iso8859-5
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-i-normal--0-0-0-0-p-0-iso8859-7
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-i-normal--0-0-0-0-p-0-iso8859-9
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-i-normal--0-0-0-0-p-0-koi8-e
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-i-normal--0-0-0-0-p-0-koi8-r
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-i-normal--0-0-0-0-p-0-koi8-ru
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-i-normal--0-0-0-0-p-0-koi8-u
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-i-normal--0-0-0-0-p-0-koi8-uni
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-o-normal--0-0-0-0-p-0-iso10646-1
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-o-normal--0-0-0-0-p-0-iso8859-1
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-o-normal--0-0-0-0-p-0-iso8859-10
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-o-normal--0-0-0-0-p-0-iso8859-15
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-o-normal--0-0-0-0-p-0-iso8859-2
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-o-normal--0-0-0-0-p-0-iso8859-3
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-o-normal--0-0-0-0-p-0-iso8859-4
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-o-normal--0-0-0-0-p-0-iso8859-5
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-o-normal--0-0-0-0-p-0-iso8859-7
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-o-normal--0-0-0-0-p-0-iso8859-9
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-o-normal--0-0-0-0-p-0-koi8-e
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-o-normal--0-0-0-0-p-0-koi8-r
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-o-normal--0-0-0-0-p-0-koi8-ru
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-o-normal--0-0-0-0-p-0-koi8-u
+ds=y:ai=0.2:LilexNerdFont-Medium.ttf -misc-lilex nerd font medium-bold-o-normal--0-0-0-0-p-0-koi8-uni
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-i-normal--0-0-0-0-m-0-iso10646-1
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-i-normal--0-0-0-0-m-0-iso8859-1
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-i-normal--0-0-0-0-m-0-iso8859-10
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-i-normal--0-0-0-0-m-0-iso8859-15
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-i-normal--0-0-0-0-m-0-iso8859-2
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-i-normal--0-0-0-0-m-0-iso8859-3
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-i-normal--0-0-0-0-m-0-iso8859-4
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-i-normal--0-0-0-0-m-0-iso8859-5
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-i-normal--0-0-0-0-m-0-iso8859-7
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-i-normal--0-0-0-0-m-0-iso8859-9
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-i-normal--0-0-0-0-m-0-koi8-e
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-i-normal--0-0-0-0-m-0-koi8-r
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-i-normal--0-0-0-0-m-0-koi8-ru
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-i-normal--0-0-0-0-m-0-koi8-u
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-i-normal--0-0-0-0-m-0-koi8-uni
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-o-normal--0-0-0-0-m-0-iso10646-1
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-o-normal--0-0-0-0-m-0-iso8859-1
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-o-normal--0-0-0-0-m-0-iso8859-10
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-o-normal--0-0-0-0-m-0-iso8859-15
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-o-normal--0-0-0-0-m-0-iso8859-2
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-o-normal--0-0-0-0-m-0-iso8859-3
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-o-normal--0-0-0-0-m-0-iso8859-4
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-o-normal--0-0-0-0-m-0-iso8859-5
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-o-normal--0-0-0-0-m-0-iso8859-7
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-o-normal--0-0-0-0-m-0-iso8859-9
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-o-normal--0-0-0-0-m-0-koi8-e
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-o-normal--0-0-0-0-m-0-koi8-r
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-o-normal--0-0-0-0-m-0-koi8-ru
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-o-normal--0-0-0-0-m-0-koi8-u
+ds=y:ai=0.2:LilexNerdFontMono-Medium.ttf -misc-lilex nerd font mono medium-bold-o-normal--0-0-0-0-m-0-koi8-uni
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-i-normal--0-0-0-0-p-0-iso10646-1
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-i-normal--0-0-0-0-p-0-iso8859-1
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-i-normal--0-0-0-0-p-0-iso8859-10
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-i-normal--0-0-0-0-p-0-iso8859-15
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-i-normal--0-0-0-0-p-0-iso8859-2
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-i-normal--0-0-0-0-p-0-iso8859-3
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-i-normal--0-0-0-0-p-0-iso8859-4
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-i-normal--0-0-0-0-p-0-iso8859-5
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-i-normal--0-0-0-0-p-0-iso8859-7
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-i-normal--0-0-0-0-p-0-iso8859-9
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-i-normal--0-0-0-0-p-0-koi8-e
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-i-normal--0-0-0-0-p-0-koi8-r
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-i-normal--0-0-0-0-p-0-koi8-ru
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-i-normal--0-0-0-0-p-0-koi8-u
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-i-normal--0-0-0-0-p-0-koi8-uni
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-o-normal--0-0-0-0-p-0-iso10646-1
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-o-normal--0-0-0-0-p-0-iso8859-1
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-o-normal--0-0-0-0-p-0-iso8859-10
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-o-normal--0-0-0-0-p-0-iso8859-15
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-o-normal--0-0-0-0-p-0-iso8859-2
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-o-normal--0-0-0-0-p-0-iso8859-3
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-o-normal--0-0-0-0-p-0-iso8859-4
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-o-normal--0-0-0-0-p-0-iso8859-5
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-o-normal--0-0-0-0-p-0-iso8859-7
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-o-normal--0-0-0-0-p-0-iso8859-9
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-o-normal--0-0-0-0-p-0-koi8-e
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-o-normal--0-0-0-0-p-0-koi8-r
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-o-normal--0-0-0-0-p-0-koi8-ru
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-o-normal--0-0-0-0-p-0-koi8-u
+ds=y:ai=0.2:LilexNerdFontPropo-Medium.ttf -misc-lilex nerd font propo medium-bold-o-normal--0-0-0-0-p-0-koi8-uni
