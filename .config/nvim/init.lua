@@ -38,4 +38,4 @@ end)
 
 vim.opt.number = true
 vim.opt.relativenumber = true
-vim.opt.guicursor = "n-v-c-sm:block,i-ci-ve:block,r-cr-o:hor20"
+-- vim.opt.guicursor = "n-v-c-sm:block,i-ci-ve:block,r-cr-o:hor20"

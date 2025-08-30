@@ -6,6 +6,7 @@ format = """
 $git_branch\
 $package\
 $directory\
+$python\
 $character\
 """
 
@@ -34,12 +35,16 @@ truncation_symbol = "…/"
 
 [git_branch]
 disabled = false
-format = " [$symbol$branch]($style),"
+format = " [$symbol$branch]($style), "
 style = "fg:foam"
 symbol = " "
 
 [package]
 disabled = false
-format = "  [$symbol$version]($style), "
+format = " [$symbol$version]($style), "
 style = "fg:gold"
 symbol = " "
+
+[python]
+format = '[(\($virtualenv\) )]($style)'
+style = "fg:pine"
