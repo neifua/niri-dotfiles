@@ -1,6 +1,6 @@
 return {
   {
-    "jiriks74/presence.nvim",
+    "andweeb/presence.nvim",
     event = "UIEnter",
     config = function()
       require("presence").setup {
