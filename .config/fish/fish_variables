@@ -3,6 +3,8 @@
 SETUVAR --export EDITOR:nvim
 SETUVAR --export --path GOPATH:/home/neifua/go
 SETUVAR --export GTKLOCK_MODULE_DIR:/usr/lib/gtklock/modules
+SETUVAR --export GTK_CSD:0
+SETUVAR --export LD_PRELOAD:/usr/local/lib/libgtk3\x2dnocsd\x2eso\x2e0
 SETUVAR --export --path PATH:/home/neifua/depot_tools\x1e/home/neifua/\x2elocal/bin\x1e/usr/local/bin\x1e/usr/bin\x1e/bin\x1e/home/neifua/\x2elmstudio/bin
 SETUVAR --export --path PKG_CONFIG_PATH:\x1d
 SETUVAR --export --path QML_IMPORT_PATH:/usr/lib64/qt6/qml

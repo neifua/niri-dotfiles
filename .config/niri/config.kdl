@@ -31,7 +31,7 @@ input {
       // natural-scroll
       accel-speed -0.1
       accel-profile "flat"
-      // scroll-factor 1.5
+      scroll-factor 1.4
       // scroll-method "no-scroll"
       // scroll-button 273
       // left-handed

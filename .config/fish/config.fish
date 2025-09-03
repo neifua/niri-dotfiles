@@ -36,13 +36,7 @@ set -gx PATH $HOME/.local/bin $PATH
 set -gx PATH $HOME/.cargo/bin $PATH
 set -gx PATH /usr/local/bin $PATH
 set -gx PATH $HOME/bin $PATH
-set -gx PATH /usr/lib64/qt6/bin $PATH
 set -gx EDITOR nvim
 set -gx LS_COLORS (vivid generate rose-pine)
-set -gx GOPATH $HOME/go
-set -gx GTK_IM_MODULE fcitx
-set -gx QT_IM_MODULE fcitx
-set -gx SDL_IM_MODULE fcitx
-set -gx XMODIFIERS @im=fcitx
-set -gx GLFW_IM_MODULE ibus
-set -Ux QT_QPA_PLATFORM xcb
+set -Ux GTK_CSD 0
+set -Ux LD_PRELOAD /usr/local/lib/libgtk3-nocsd.so.0
