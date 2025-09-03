@@ -15,9 +15,9 @@
 
 body {
   /* font, change to '' for default discord font */
-  --font: "figtree"; /* change to '' for default discord font */
-  --code-font: ""; /* change to '' for default discord font */
-  font-weight: 500 /* normal text font weight. DOES NOT AFFECT BOLD TEXT */;
+  --font: "Cantarell"; /* change to '' for default discord font */
+  --code-font: "Lilex Nerd Font"; /* change to '' for default discord font */
+  font-weight: 400 /* normal text font weight. DOES NOT AFFECT BOLD TEXT */;
 
   /* sizes */
   --gap: 8px; /* spacing between panels */
