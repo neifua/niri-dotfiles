@@ -38,5 +38,3 @@ set -gx PATH /usr/local/bin $PATH
 set -gx PATH $HOME/bin $PATH
 set -gx EDITOR nvim
 set -gx LS_COLORS (vivid generate rose-pine)
-set -Ux GTK_CSD 0
-set -Ux LD_PRELOAD /usr/local/lib/libgtk3-nocsd.so.0
