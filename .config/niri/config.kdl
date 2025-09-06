@@ -3,6 +3,8 @@ input {
     xkb {
       layout "us"
     }
+    repeat-delay 200
+    repeat-rate 40
     // numlock
     }
 
@@ -31,7 +33,7 @@ input {
       // natural-scroll
       accel-speed -0.1
       accel-profile "flat"
-      scroll-factor 1.4
+      scroll-factor 1.1
       // scroll-method "no-scroll"
       // scroll-button 273
       // left-handed
@@ -49,7 +51,7 @@ output "eDP-1" {
 }
 
 layout {
-  gaps 14
+  gaps 12
   center-focused-column "never"
   preset-column-widths {
     proportion 0.25
@@ -96,7 +98,6 @@ layout {
 }
 
 spawn-at-startup "dbus-update-activation-environment" "--systemd" "--all"
-spawn-at-startup "xwayland-satellite"
 spawn-at-startup "waybar"
 spawn-at-startup "fcitx5"
 spawn-at-startup "swaybg" "-i" "/home/neifua/Pictures/Wallpapers/MC_snow.jpg"
@@ -110,14 +111,17 @@ prefer-no-csd
 screenshot-path "~/Pictures/Screenshots/Screenshot from %Y-%m-%d %H-%M-%S.png"
 
 environment {
-  DISPLAY ":1"
+  // DISPLAY ":1"
+  GTK_THEME "Rosepine-Dark"
   QT_QPA_PLATFORM "wayland"
+  SDL_VIDEODRIVER "wayland"
+  CLUTTER_BACKEND "wayland"
   ELECTRON_OZONE_PLATFORM_HINT "auto"
 }
 
 cursor {
-  xcursor-theme "BreezeX-RosePineDawn-Linux"
-  xcursor-size 28
+  xcursor-theme "BreezeX-RosePine-Linux"
+  xcursor-size 32
   hide-when-typing
   // hide-after-inactive-ms 1000
 }
@@ -134,6 +138,10 @@ overview {
   }
 }
 
+clipboard {
+    disable-primary
+}
+
 gestures {
     hot-corners {
         off
@@ -146,7 +154,7 @@ hotkey-overlay {
 
 animations {
     // off
-    slowdown 0.85
+    slowdown 0.7
 }
 
 // window-rule {
@@ -389,5 +397,7 @@ binds {
 
 debug {
   preview-render "screencast"
-  disable-cursor-plane
+  // disable-cursor-plane
+  render-drm-device "/dev/dri/renderD128"
+  wait-for-frame-completion-before-queueing
 }

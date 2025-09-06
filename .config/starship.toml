@@ -29,7 +29,7 @@ error_symbol = "[|](fg:love)"
 [directory]
 disabled = false
 format = " [$path]($style) "
-style = "fg:iris"
+style = "fg:rose"
 truncation_length = 3
 truncation_symbol = "…/"
 
