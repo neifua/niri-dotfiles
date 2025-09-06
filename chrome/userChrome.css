@@ -23,24 +23,23 @@
 
 /* Page back and foward buttons */
 #back-button,
-#forward-button
-{
+#forward-button {
   display: flex !important;
 }
 
 /* Extensions button */
 #unified-extensions-button {
-  display: flex !important
+  display: flex !important;
 }
 
 /* Extension name inside URL bar */
 #identity-box.extensionPage #identity-icon-label {
-  visibility: collapse !important
+  visibility: collapse !important;
 }
 
 /* All tabs (v-like) button */
 #alltabs-button {
-  display: none !important
+  display: none !important;
 }
 
 /* URL bar icons */
@@ -50,14 +49,13 @@
 #picture-in-picture-button,
 #tracking-protection-icon-container,
 #reader-mode-button,
-#translations-button
-{
-  display: none !important
+#translations-button {
+  display: none !important;
 }
 
 /* "This time search with:..." */
 #urlbar .search-one-offs {
-  display: none !important
+  display: none !important;
 }
 
 /* Space before and after tabs */
@@ -68,28 +66,101 @@
 /* --- ~END~ element visibility section --- */
 
 /* Navbar size calc */
-:root{
---tab-border-radius: 0px !important; /*  Tab border radius -- Changes the tabs rounding  *//*  Default: 6px  */
---NavbarWidth: 39; /*  Default values: 36 - 43  */
---TabsHeight: 40; /*  Minimum: 30  *//*  Default: 36  */
---TabsBorder: 8; /*  Doesnt do anything on small layout  *//*  Default: 8  */
---NavbarHeightSmall: calc(var(--TabsHeight) + var(--TabsBorder))  /*  Only on small layout  *//*  Default: calc(var(--TabsHeight) + var(--TabsBorder))  *//*  Default as a number: 44  */}
+:root {
+  --tab-border-radius: 0px !important; /*  Tab border radius -- Changes the tabs rounding  */ /*  Default: 6px  */
+  --NavbarWidth: 43; /*  Default values: 36 - 43  */
+  --TabsHeight: 36; /*  Minimum: 30  */ /*  Default: 36  */
+  --TabsBorder: 15; /*  Doesnt do anything on small layout  */ /*  Default: 8  */
+  --NavbarHeightSmall: calc(var(--TabsHeight) + var(--TabsBorder))
+    /*  Only on small layout  */
+    /*  Default: calc(var(--TabsHeight) + var(--TabsBorder))  */
+    /*  Default as a number: 44  */;
+}
 
-@media screen and (min-width:1325px)    /*  Only the tabs space will grow from here  */
-{:root #nav-bar{margin-top: calc(var(--TabsHeight) * -1px - var(--TabsBorder) * 1px)!important; height: calc(var(--TabsHeight) * 1px + var(--TabsBorder) * 1px)} #TabsToolbar{margin-left: calc(1325px / 100 * var(--NavbarWidth)) !important} #nav-bar{margin-right: calc(100vw - calc(1325px / 100 * var(--NavbarWidth))) !important; vertical-align: center !important} #urlbar-container{min-width: 0px !important;  flex: auto !important} toolbarspring{display: none !important}}
+@media screen and (min-width: 1325px) /* Only the tabs space will grow from here */ {
+  :root #nav-bar {
+    margin-top: calc(
+      var(--TabsHeight) * -1px - var(--TabsBorder) * 1px
+    ) !important;
+    height: calc(var(--TabsHeight) * 1px + var(--TabsBorder) * 1px);
+  }
+  #TabsToolbar {
+    margin-left: calc(1325px / 100 * var(--NavbarWidth)) !important;
+  }
+  #nav-bar {
+    margin-right: calc(
+      100vw - calc(1325px / 100 * var(--NavbarWidth))
+    ) !important;
+    vertical-align: center !important;
+  }
+  #urlbar-container {
+    min-width: 0px !important;
+    flex: auto !important;
+  }
+  toolbarspring {
+    display: none !important;
+  }
+}
 
-@media screen and (min-width:950px) and (max-width:1324px)    /*  Both the tabs space and the navbar will grow  */
-{:root #nav-bar{margin-top: calc(var(--TabsHeight) * -1px - var(--TabsBorder) * 1px) !important; height: calc(var(--TabsHeight) * 1px + var(--TabsBorder) * 1px)} #TabsToolbar{margin-left: calc(var(--NavbarWidth) * 1vw) !important} #nav-bar{margin-right: calc(100vw - calc(var(--NavbarWidth) * 1vw)) !important; vertical-align: center !important} #urlbar-container{min-width: 0px !important;  flex: auto !important} toolbarspring{display: none !important} #TabsToolbar, #nav-bar{transition: margin-top .25s !important}}
+@media screen and (min-width: 950px) and (max-width: 1324px) /* Both the tabs space and the navbar will grow */ {
+  :root #nav-bar {
+    margin-top: calc(
+      var(--TabsHeight) * -1px - var(--TabsBorder) * 1px
+    ) !important;
+    height: calc(var(--TabsHeight) * 1px + var(--TabsBorder) * 1px);
+  }
+  #TabsToolbar {
+    margin-left: calc(var(--NavbarWidth) * 1vw) !important;
+  }
+  #nav-bar {
+    margin-right: calc(100vw - calc(var(--NavbarWidth) * 1vw)) !important;
+    vertical-align: center !important;
+  }
+  #urlbar-container {
+    min-width: 0px !important;
+    flex: auto !important;
+  }
+  toolbarspring {
+    display: none !important;
+  }
+  #TabsToolbar,
+  #nav-bar {
+    transition: margin-top 0.25s !important;
+  }
+}
 
-@media screen and (max-width:949px)    /*  The window is not enough wide for a one line layout  */
-{:root #nav-bar{padding: 0 5px 0 5px!important; height: calc(var(--NavbarHeightSmall) * 1px) !important} toolbarspring{display: none !important;} #TabsToolbar, #nav-bar{transition: margin-top .25s !important}}
-#nav-bar, #PersonalToolbar{background-color: #0000 !important;background-image: none !important; box-shadow: none !important} #nav-bar{margin-left: 3px;} .tab-background, .tab-stack { min-height: calc(var(--TabsHeight) * 1px) !important}
+@media screen and (max-width: 949px) /* The window is not enough wide for a one line layout */ {
+  :root #nav-bar {
+    padding: 0 5px 0 5px !important;
+    height: calc(var(--NavbarHeightSmall) * 1px) !important;
+  }
+  toolbarspring {
+    display: none !important;
+  }
+  #TabsToolbar,
+  #nav-bar {
+    transition: margin-top 0.25s !important;
+  }
+}
+#nav-bar,
+#PersonalToolbar {
+  background-color: #0000 !important;
+  background-image: none !important;
+  box-shadow: none !important;
+}
+#nav-bar {
+  margin-left: 3px;
+}
+.tab-background,
+.tab-stack {
+  min-height: calc(var(--TabsHeight) * 1px) !important;
+}
 
 /*  Removes urlbar border/background  */
 #urlbar-background {
   border: none !important;
   outline: none !important;
-  transition: .15s !important;
+  transition: 0.15s !important;
 }
 
 /*  Removes the background from the urlbar while not in use  */
@@ -100,12 +171,12 @@
 
 /*  Removes annoying border  */
 #navigator-toolbox {
-  border: none !important
+  border: none !important;
 }
 
 /* Fades window while not in focus */
 #navigator-toolbox-background:-moz-window-inactive {
-  filter: contrast(90%)
+  filter: contrast(90%);
 }
 
 /* Remove fullscreen warning border */
