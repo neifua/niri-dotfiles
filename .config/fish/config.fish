@@ -5,7 +5,12 @@
 # Interactive shell setup
 if status is-interactive
     # fetch
-  if test "$TERM" = "xterm-kitty" -a -n "$KITTY_WINDOW_ID" -a -z "$VSCODE_PID" -a -z "$NVIM"
+  # if test "$TERM" = "xterm-kitty" -a -n "$KITTY_WINDOW_ID" -a -z "$VSCODE_PID" -a -z "$NVIM"
+  #   fastfetch
+  # end
+  if test "$TERM" = "xterm-kitty" -o -n "$TMUX"
+    and test -z "$VSCODE_PID"
+    and test -z "$NVIM"
     fastfetch
   end
 
@@ -19,9 +24,9 @@ if status is-interactive
 	  if read -z cwd < "$tmp"; and [ -n "$cwd" ]; and [ "$cwd" != "$PWD" ]
 		  builtin cd -- "$cwd"
 	  end
-	  rm -f -- "$tmp"
+	    rm -f -- "$tmp"
+    end
   end
-end
 
 # Aliases
 alias py="python3"
