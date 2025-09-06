@@ -38,8 +38,8 @@ window#waybar {
   color: #e0def4;
   background-color: #26233a;
   padding: 0px 10px;
-  margin-top: 6px;
-  margin-bottom: 5px;
+  margin-top: 7px;
+  margin-bottom: 6px;
   margin-left: 10px;
   border-radius: 10px;
   border-width: 0px;
@@ -57,8 +57,8 @@ window#waybar {
   font-size: 16px;
   color: #e0def4;
   padding: 0px 9px;
-  margin-top: 6px;
-  margin-bottom: 5px;
+  margin-top: 7px;
+  margin-bottom: 6px;
 }
 
 #network {
@@ -94,7 +94,8 @@ window#waybar {
 }
 
 #pulseaudio.critical,
-#battery.critical {
+#battery.critical,
+#battery.full {
   color: #eb6f92;
 }
 
@@ -121,7 +122,7 @@ window#waybar {
 }
 
 #clock {
-  font-family: "Cantarell", sans-serif;
+  font-family: "", sans-serif;
   color: #e0def4;
   font-size: 16px;
   margin-top: 3px;
