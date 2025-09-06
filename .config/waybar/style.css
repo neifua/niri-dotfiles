@@ -38,10 +38,10 @@ window#waybar {
   color: #e0def4;
   background-color: #26233a;
   padding: 0px 10px;
-  margin-top: 7px;
-  margin-bottom: 6px;
+  margin-top: 6px;
+  margin-bottom: 5px;
   margin-left: 10px;
-  border-radius: 14px;
+  border-radius: 10px;
   border-width: 0px;
 }
 
@@ -53,18 +53,18 @@ window#waybar {
 #network,
 #bluetooth {
   background-color: #26233a;
-  font-family: "JetbrainsMono Nerd Font Propo";
+  font-family: "Lilex Nerd Font Propo";
   font-size: 16px;
   color: #e0def4;
-  padding: 0px 10px;
-  margin-top: 7px;
-  margin-bottom: 6px;
+  padding: 0px 9px;
+  margin-top: 6px;
+  margin-bottom: 5px;
 }
 
 #network {
   font-size: 18px;
   color: #e0def4;
-  border-radius: 14px 0px 0px 14px;
+  border-radius: 10px 0px 0px 10px;
 }
 
 #bluetooth {
@@ -72,7 +72,7 @@ window#waybar {
   color: #e0def4;
   margin-right: 10px;
   margin-left: -8px;
-  border-radius: 0px 14px 14px 0px;
+  border-radius: 0px 10px 10px 0px;
 }
 
 #bluetooth.connected {
@@ -81,11 +81,11 @@ window#waybar {
 
 #pulseaudio {
   color: #e0def4;
-  border-radius: 14px 0px 0px 14px;
+  border-radius: 10px 0px 0px 10px;
 }
 
 #battery {
-  border-radius: 0px 14px 14px 0px;
+  border-radius: 0px 10px 10px 0px;
 }
 
 #pulseaudio.warning,
@@ -112,16 +112,16 @@ window#waybar {
 }
 
 #cpu {
-  border-radius: 14px 0px 0px 14px;
+  border-radius: 10px 0px 0px 10px;
 }
 
 #memory {
   margin-right: 10px;
-  border-radius: 0px 14px 14px 0px;
+  border-radius: 0px 10px 10px 0px;
 }
 
 #clock {
-  font-family: "System-ui", sans-serif;
+  font-family: "Cantarell", sans-serif;
   color: #e0def4;
   font-size: 16px;
   margin-top: 3px;
